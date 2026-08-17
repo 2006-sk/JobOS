@@ -65,7 +65,13 @@ def parse(payload: Any, token: str, company: str) -> list[Listing]:
             # No id or no title means nothing downstream can act on it.
             continue
 
-        location = posting.get("location") or {}
+        location = posting.get("location")
+        if not isinstance(location, dict):
+            # Guard against a tenant sending "location" as a bare string or a
+            # list -- rare, but `.get()` on anything else would raise past
+            # `parse()` and, since `fetch()` only catches `FetchError`, past
+            # `fetch()` too, breaking the "adapters never raise" contract.
+            location = {}
         loc_values: list[Any] = [location.get("fullLocation"), location.get("city")]
         if location.get("remote"):
             loc_values.append("Remote")

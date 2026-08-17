@@ -8,6 +8,7 @@ of the API rather than an idealized one.
 from __future__ import annotations
 
 import json
+import logging
 import pathlib
 from unittest import mock
 
@@ -15,7 +16,7 @@ import pytest
 
 from joboS.adapters import workday
 from joboS.http import FetchError
-from joboS.models import BoardResult
+from joboS.models import BoardResult, now_ts
 
 FIXTURE = pathlib.Path(__file__).parent / "fixtures" / "workday_nvidia.json"
 TENANT = "nvidia"
@@ -40,6 +41,18 @@ def test_parse_returns_listings_with_ats_and_token() -> None:
 def test_id_derives_from_bullet_fields() -> None:
     listings = workday.parse(_payload(), TENANT, SITE, HOST, COMPANY)
     assert any(listing.id.endswith("JR2021016") for listing in listings)
+
+
+def test_parse_wires_posted_on_into_posted_at() -> None:
+    # Proves parse() actually feeds postedOn through parse_posted_on() --
+    # every fixture posting says "Posted Today", so posted_at must be
+    # populated and land within a day of the real clock, mirroring Lever's
+    # ms-vs-seconds regression test for the same kind of wiring bug.
+    listings = workday.parse(_payload(), TENANT, SITE, HOST, COMPANY)
+    now = now_ts()
+    for listing in listings:
+        assert listing.posted_at is not None
+        assert now - 86_400 <= listing.posted_at <= now
 
 
 def test_id_stable_across_parses() -> None:
@@ -94,6 +107,29 @@ def test_id_falls_back_to_external_path_when_bullet_fields_empty() -> None:
     }
     listing = workday.parse(payload, TENANT, SITE, HOST, COMPANY)[0]
     assert listing.id.endswith("JR1234567")
+
+
+def test_id_falls_back_to_external_path_keeps_duplicate_suffix() -> None:
+    # Field-mapping surprise found in the live fixture: one NVIDIA posting's
+    # externalPath ends "..._JR2023203-1" while its own bulletFields is
+    # ["JR2023203"] (no suffix). This test pins the fallback-only behavior:
+    # when bulletFields is empty, the "-1" is kept as part of the id rather
+    # than stripped, since the fallback regex has no way to know it's a
+    # duplicate-posting marker rather than part of the requisition id itself.
+    payload = {
+        "total": 1,
+        "jobPostings": [
+            {
+                "title": "SDET Fallback",
+                "externalPath": "/job/China-Shanghai/SDET_JR2023203-1",
+                "locationsText": "China, Shanghai",
+                "postedOn": "Posted Today",
+                "bulletFields": [],
+            }
+        ],
+    }
+    listing = workday.parse(payload, TENANT, SITE, HOST, COMPANY)[0]
+    assert listing.id.endswith("JR2023203-1")
 
 
 def test_id_hashes_when_nothing_usable() -> None:
@@ -230,6 +266,39 @@ def test_fetch_stops_at_max_pages() -> None:
     assert mocked.call_count == 3
     assert result.ok is True
     assert result.count == 60
+
+    # Pin the exact request contract -- a wrong body key, limit=100, or a
+    # GET instead of POST would still pass every other assertion here but
+    # fail against the live board, which is exactly the failure mode the
+    # spec's measured findings called out.
+    expected_url = workday.ENDPOINT.format(host=HOST, tenant=TENANT, site=SITE)
+    offsets = []
+    for call in mocked.call_args_list:
+        assert call.args[0] == expected_url
+        assert call.kwargs["method"] == "POST"
+        body = call.kwargs["json_body"]
+        assert body["limit"] == workday.PAGE_SIZE
+        assert body["searchText"] == ""
+        offsets.append(body["offset"])
+    assert offsets == [0, workday.PAGE_SIZE, 2 * workday.PAGE_SIZE]
+
+
+def test_fetch_logs_when_it_stops_early_due_to_max_pages(
+    caplog: pytest.LogCaptureFixture,
+) -> None:
+    payload = _full_page_payload()
+    with (
+        caplog.at_level(logging.INFO, logger="joboS.adapters.workday"),
+        mock.patch("joboS.adapters.workday.request_json", return_value=payload),
+    ):
+        workday.fetch(TENANT, SITE, HOST, COMPANY, max_pages=3)
+
+    # "Silent truncation must be visible" -- there must be exactly one INFO
+    # line stating how many of `total` were actually read.
+    info_records = [r for r in caplog.records if r.levelno == logging.INFO]
+    assert len(info_records) == 1
+    assert "60" in info_records[0].message
+    assert "2000" in info_records[0].message
 
 
 def test_fetch_stops_when_offset_reaches_total() -> None:

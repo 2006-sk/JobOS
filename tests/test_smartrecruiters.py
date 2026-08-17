@@ -49,6 +49,26 @@ def test_title_comes_from_name_and_is_stripped() -> None:
         assert listing.title == listing.title.strip()
         assert not listing.title.endswith(" ")
 
+    # Pin the exact value for the fixture's known-dirty posting, so a parse
+    # that read some other key but happened to yield clean strings would
+    # still fail this test.
+    by_id = {listing.id: listing for listing in listings}
+    dirty = by_id["smartrecruiters:WesternDigital:744000143761249"]
+    assert dirty.title == "Technician 2, Failure Analysis Engineering"
+
+
+def test_department_falls_back_to_function_label() -> None:
+    # Every posting in the real fixture has "department": {}, so
+    # "function".label is the de facto source of raw_category in practice,
+    # not just a rare fallback.
+    payload = _load_fixture()
+    listings = sr.parse(payload, "WesternDigital", "Western Digital")
+    by_id = {listing.id: listing for listing in listings}
+    first = by_id["smartrecruiters:WesternDigital:744000143761249"]
+
+    assert first.raw_category == "Engineering"
+    assert first.employment_type == "Full-time"
+
 
 def test_url_is_human_page_not_api_ref() -> None:
     payload = _load_fixture()
@@ -183,6 +203,32 @@ def test_fetch_paginates_and_stops_on_empty_page() -> None:
         "smartrecruiters:Acme:4",
     }
     assert result.count == 4
+
+    # Pin the mechanical behavior the spec spells out explicitly: offset
+    # advances by PAGE_SIZE each call. Without this, a mock that ignores the
+    # url and just returns pages in order would pass even if `fetch()` never
+    # advanced `offset` at all.
+    urls = [call.args[0] for call in mocked.call_args_list]
+    assert "offset=0" in urls[0]
+    assert f"offset={sr.PAGE_SIZE}" in urls[1]
+    assert f"offset={2 * sr.PAGE_SIZE}" in urls[2]
+    assert all(f"limit={sr.PAGE_SIZE}" in url for url in urls)
+
+
+def test_fetch_respects_max_pages_even_with_nonzero_pages() -> None:
+    # Regression guard for the third loop bound: even if every page keeps
+    # returning items and totalFound keeps claiming there's more, max_pages
+    # must still cut the loop off.
+    page = _page([_job("1")], total_found=1_000_000)
+
+    with mock.patch.object(
+        sr, "request_json", side_effect=[page] * 20
+    ) as mocked:
+        result = sr.fetch("Acme", "Acme Inc", max_pages=2)
+
+    assert mocked.call_count == 2
+    assert result.ok is True
+    assert result.count == 2
 
 
 def test_fetch_404_on_first_page_returns_not_ok() -> None:

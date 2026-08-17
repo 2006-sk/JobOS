@@ -10,3 +10,9 @@ venv/
 # churning JSON every 30 minutes would add gigabytes of history for no benefit;
 # data/seen.json is the only file that genuinely needs to be durable.
 data/listings.json
+# Aggregator feed cache (~23MB) + its ETags. These live in the GitHub Actions
+# cache, not git: an eviction costs one full re-download, which is harmless.
+# Contrast data/seen.json, which is committed precisely because losing it would
+# re-notify every job.
+data/feed_cache.json
+data/etags.json

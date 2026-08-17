@@ -60,9 +60,12 @@ DEFAULT_MAX_PAGES = 5
 _PLACEHOLDER_LOCATIONS = re.compile(r"^\d+\s+locations?$", re.IGNORECASE)
 
 # Fallback for when bulletFields is empty: externalPath's last underscore-
-# delimited segment is the requisition id, e.g. "..._JR2021016" -> "JR2021016"
-# (also tolerates a trailing "-1" duplicate-posting suffix Workday sometimes
-# appends, e.g. "..._JR2023203-1").
+# delimited segment is the requisition id, e.g. "..._JR2021016" -> "JR2021016".
+# Some postings carry a trailing "-1" duplicate-posting suffix on this same
+# segment (seen in the wild as "..._JR2023203-1"); this regex keeps it as
+# part of the captured id rather than stripping it. That's fine in practice:
+# this path only fires when bulletFields is absent, so a given posting can't
+# flip between the bulletFields-derived id and this one from run to run.
 _REQ_ID_FROM_PATH = re.compile(r"_([A-Za-z0-9-]+)$")
 
 _DAY = 86_400
