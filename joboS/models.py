@@ -20,7 +20,7 @@ from __future__ import annotations
 import hashlib
 import re
 from dataclasses import asdict, dataclass, field
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from typing import Any
 
 # Every ATS an adapter may claim. Keeping this closed catches typos like
@@ -160,12 +160,12 @@ def parse_ts(value: Any) -> int | None:
     if dt.tzinfo is None:
         # A board that omits the offset is assumed UTC. Being off by a few hours
         # is harmless -- first-time-seen is the notification trigger, not this.
-        dt = dt.replace(tzinfo=timezone.utc)
-    return int(dt.astimezone(timezone.utc).timestamp())
+        dt = dt.replace(tzinfo=UTC)
+    return int(dt.astimezone(UTC).timestamp())
 
 
 def now_ts() -> int:
-    return int(datetime.now(timezone.utc).timestamp())
+    return int(datetime.now(UTC).timestamp())
 
 
 def clean_locations(*values: Any) -> tuple[str, ...]:

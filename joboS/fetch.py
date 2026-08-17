@@ -14,9 +14,10 @@ from __future__ import annotations
 
 import concurrent.futures as futures
 import logging
+from collections.abc import Iterable
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Any, Iterable
+from typing import Any
 
 import requests
 import yaml

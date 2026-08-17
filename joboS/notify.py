@@ -21,9 +21,10 @@ from __future__ import annotations
 import logging
 import os
 import smtplib
+from collections.abc import Sequence
 from dataclasses import dataclass
 from email.message import EmailMessage
-from typing import Protocol, Sequence
+from typing import Protocol
 
 import requests
 

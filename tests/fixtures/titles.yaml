@@ -1,0 +1,79 @@
+# Real-world title cases with expected (level, field) labels, used to pin
+# relevance.py's behavior against the aggregator corpus it was tuned on.
+#
+# Every case below was run through the real classifier (classify_level /
+# classify_field) before being committed here -- nothing in this file is a
+# guess. See tests/test_relevance.py for the parametrized assertions.
+#
+# NOTE ON A REAL GAP FOUND WHILE BUILDING THIS FIXTURE:
+# "Principal Packaging Integration Engineer New Grad" was expected to land in
+# field=stretch (it is a semiconductor hardware role). The actual classifier
+# returns field=none, because FIELD_KEYWORDS[stretch] has no entry for
+# "packaging" (only hardware/firmware/asic/fpga/silicon/devops/sre/vlsi/...).
+# That makes classify() reject the whole listing with "field not relevant",
+# so a genuine new-grad hardware role at, e.g., an Nvidia/Micron-style
+# packaging-integration team would be silently dropped rather than routed to
+# the digest. Recorded here as field: none (matching real behavior, per
+# instructions not to weaken the fixture) -- reported upstream as a probable
+# relevance.py gap, not fixed here.
+
+cases:
+  # --- tricky positives: must classify as early-career despite a seniority word
+  - title: "[2026] Senior Machine Learning Engineer, X - PhD Early Career"
+    level: new-grad
+    field: adjacent
+  - title: "Software Development Engineer - Early Career"
+    level: new-grad
+    field: core
+  - title: "Member of Technical Staff New Grad - Machine Learning Capabilities"
+    level: new-grad
+    field: adjacent
+  - title: "Senior Silicon Photonics Integration Engineer New Grad"
+    level: new-grad
+    field: stretch
+  - title: "Principal Packaging Integration Engineer New Grad"
+    level: new-grad
+    field: none  # see NOTE above -- expected stretch, classifier gives none
+  - title: "Staff Scientist/Engineering Intern - Summer 2026"
+    level: internship
+    field: none  # bare "engineering" has no FIELD_CORE keyword match
+  - title: "ERP Intern: Rising Senior Technology"
+    level: internship
+    field: none
+
+  # --- deliberate negatives: must NOT be early-career
+  - title: "Engineering Manager"
+    level: neither
+    field: none
+  - title: "Senior Staff SWE"
+    level: neither
+    field: core
+  - title: "Sales Engineer"
+    level: neither
+    field: none  # also non-engineering, see is_non_engineering()
+  - title: "Senior Product Manager - International Fulfillment"
+    level: neither
+    field: none  # regression: `intern` must not match inside "International"
+  - title: "Director of Platform Engineering"
+    level: neither
+    field: core
+  - title: "Engineering Manager, University Recruiting"
+    level: neither
+    field: none  # early-career marker must NOT rescue a manager title
+
+  # --- ordinary positives
+  - title: "Software Engineer Intern - Summer 2026"
+    level: internship
+    field: core
+  - title: "New Grad Software Engineer, Backend"
+    level: new-grad
+    field: core
+  - title: "2027 Summer Intern - Machine Learning"
+    level: internship
+    field: adjacent
+  - title: "Hardware Engineering Intern"
+    level: internship
+    field: stretch
+  - title: "Quantitative Developer - New Grad"
+    level: new-grad
+    field: adjacent

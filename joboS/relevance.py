@@ -24,10 +24,12 @@ student.
 from __future__ import annotations
 
 import re
-from dataclasses import dataclass, field as dc_field
+from collections.abc import Iterable
+from dataclasses import dataclass
+from dataclasses import field as dc_field
 from functools import lru_cache
 from pathlib import Path
-from typing import Any, Iterable
+from typing import Any
 
 import yaml
 
@@ -362,10 +364,14 @@ def is_non_engineering(title: str) -> bool:
 
 
 def requires_citizenship(*texts: str | None) -> bool:
-    for text in texts:
-        if text and CITIZENSHIP_RX.search(text):
-            return True
-    return False
+    """Whether any supplied text signals a citizenship or clearance requirement.
+
+    Best-effort by design: for direct boards we only have the title, and the
+    aggregator `sponsorship` field is ~99% "Other". It catches the explicit
+    cases and misses the rest, which is exactly why a hit routes a role to the
+    digest instead of dropping it.
+    """
+    return any(CITIZENSHIP_RX.search(text) for text in texts if text)
 
 
 def location_rank(locations: Iterable[str], preferred: list[str]) -> int:

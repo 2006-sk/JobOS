@@ -1,0 +1,42 @@
+[project]
+name = "joboS"
+version = "1.0.0"
+description = "A job-posting monitor that runs entirely on GitHub Actions"
+requires-python = ">=3.12"
+dependencies = ["requests>=2.31", "pyyaml>=6.0"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0", "ruff>=0.6", "mypy>=1.11", "types-requests", "types-PyYAML"]
+
+[tool.setuptools.packages.find]
+include = ["joboS*"]
+
+[tool.ruff]
+line-length = 88
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "UP", "B", "SIM"]
+ignore = [
+    "E501",   # long lines are caught by the formatter; a URL in a comment is fine
+    "B008",
+]
+
+[tool.mypy]
+python_version = "3.12"
+warn_unused_configs = true
+disallow_untyped_defs = true
+warn_redundant_casts = true
+warn_unused_ignores = true
+no_implicit_optional = true
+strict_equality = true
+
+[[tool.mypy.overrides]]
+module = ["tests.*"]
+disallow_untyped_defs = false
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+# The live smoke test is excluded by design: it makes ~32 real API calls against
+# other people's job boards, which is fine by hand and rude on every push.
+addopts = "-q"

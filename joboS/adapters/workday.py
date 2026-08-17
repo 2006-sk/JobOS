@@ -244,7 +244,12 @@ def fetch(
 
         raw_postings = payload.get("jobPostings") if isinstance(payload, dict) else None
         raw_total = payload.get("total") if isinstance(payload, dict) else None
-        if isinstance(raw_total, int):
+        # Only the FIRST page carries a real total: verified against NVIDIA,
+        # offset=0 reports total=2000 while offset=20/40/60 all report total=0
+        # while still returning a full page of jobs. Trusting the later value
+        # made `offset >= total` fire on page 2 and silently capped every
+        # Workday board at 40 jobs -- a coverage loss with no error anywhere.
+        if isinstance(raw_total, int) and raw_total > 0 and total is None:
             total = raw_total
 
         if not raw_postings:

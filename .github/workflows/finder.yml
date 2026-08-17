@@ -1,0 +1,58 @@
+name: finder
+
+on:
+  schedule:
+    # Mondays 08:00 UTC. Weekly is deliberate -- the watchlist should grow from
+    # evidence accumulated over time, not churn every day.
+    - cron: "0 8 * * 1"
+  workflow_dispatch:
+    inputs:
+      open_pr:
+        description: "Open a PR with the top candidates"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: finder
+  cancel-in-progress: false
+
+jobs:
+  finder:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # Full history so the PR branch can be pushed cleanly.
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install requests pyyaml
+
+      - name: Discover candidates
+        env:
+          # gh needs this to open the PR. The default GITHUB_TOKEN is enough --
+          # no personal access token, no secret to rotate.
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python -m joboS.finder --days 90 --top 10 \
+            ${{ (github.event_name == 'schedule' || inputs.open_pr) && '--open-pr' || '--dry-run' }}
+
+      - name: Upload candidate report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: finder-candidates-${{ github.run_id }}
+          path: data/finder_candidates.json
+          retention-days: 30
+          if-no-files-found: ignore

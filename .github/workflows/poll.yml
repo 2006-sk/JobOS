@@ -1,0 +1,140 @@
+name: poll
+
+on:
+  schedule:
+    # Every 30 minutes. GitHub's cron is best-effort and gets delayed under
+    # load, sometimes by 10+ minutes -- this is a target, not a guarantee.
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+    inputs:
+      bootstrap:
+        description: "Record everything as seen and send zero notifications"
+        type: boolean
+        default: false
+      dry_run:
+        description: "Print the notification instead of sending it"
+        type: boolean
+        default: false
+      test_notification:
+        description: "Send one sample notification to prove delivery works"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: poll
+  # Never cancel a run in flight: it might be between "notified" and "recorded
+  # as seen", and killing it there means re-notifying those roles next cycle.
+  cancel-in-progress: false
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install requests pyyaml
+
+      # The ~23MB of aggregator feeds. Losing this cache costs one full
+      # download and nothing else, which is why it lives here and seen.json
+      # does not -- an evicted seen.json would re-notify every job.
+      - name: Restore feed cache
+        uses: actions/cache@v4
+        with:
+          path: |
+            data/feed_cache.json
+            data/etags.json
+          key: joboS-feeds-${{ github.run_id }}
+          restore-keys: joboS-feeds-
+
+      - name: Poll
+        id: poll
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_SERVER: ${{ secrets.NTFY_SERVER }}
+        run: |
+          python -m joboS.poll \
+            ${{ inputs.bootstrap && '--bootstrap' || '' }} \
+            ${{ inputs.dry_run && '--dry-run' || '' }} \
+            ${{ inputs.test_notification && '--test-notification' || '' }}
+
+      - name: Commit state
+        if: always() && steps.poll.outcome != 'skipped'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/seen.json data/pending_digest.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "no state change; nothing to commit"
+            exit 0
+          fi
+          git commit -m "state: update seen store [skip ci]"
+          # Another poll may have pushed while we ran. Rebase and retry once
+          # rather than failing the run and losing this cycle's state.
+          git push || (git pull --rebase --autostash && git push)
+
+      - name: Upload listings snapshot
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: listings-${{ github.run_id }}
+          path: data/listings.json
+          retention-days: 7
+          if-no-files-found: ignore
+
+      - name: Alert on failure
+        # A monitor that dies quietly is the worst outcome: you keep trusting
+        # it while it silently reports nothing.
+        if: failure()
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: |
+          if [ -n "$NTFY_TOPIC" ]; then
+            curl -s -H "Title: JobOS poll FAILED" -H "Priority: high" -H "Tags: warning" \
+              -d "The poll workflow failed. Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" \
+              "https://ntfy.sh/$NTFY_TOPIC" || true
+          fi
+
+  digest:
+    # Stretch-tier roles and citizenship-excluded roles, batched once a day so
+    # hardware/devops noise never buzzes your phone at 3am.
+    runs-on: ubuntu-latest
+    if: github.event_name == 'schedule'
+    needs: poll
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install requests pyyaml
+
+      - name: Send digest at 09:00 UTC only
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: |
+          # The poll job runs every 30 minutes; the digest should fire once a
+          # day. Gating on the hour here avoids a second cron and keeps the
+          # digest downstream of a fresh poll.
+          if [ "$(date -u +%H:%M)" \< "09:00" ] || [ "$(date -u +%H:%M)" \> "09:29" ]; then
+            echo "not the 09:00 UTC window; skipping"
+            exit 0
+          fi
+          python -m joboS.poll --digest
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/pending_digest.json 2>/dev/null || true
+          git diff --cached --quiet || (git commit -m "state: clear digest queue [skip ci]" && (git push || (git pull --rebase --autostash && git push)))

@@ -29,9 +29,9 @@ import json
 import logging
 import os
 import tempfile
+from collections.abc import Iterable, Sequence
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Iterable, Sequence
 
 from .models import Listing, now_ts
 
