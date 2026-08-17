@@ -1,0 +1,1165 @@
+{
+ "offset": 0,
+ "limit": 10,
+ "totalFound": 359,
+ "content": [
+  {
+   "id": "744000143761249",
+   "name": "Technician 2, Failure Analysis Engineering ",
+   "uuid": "8afda9a7-8141-444a-870c-6741483daab1",
+   "jobAdId": "cfc545a6-4f25-4dd7-9958-52008b77e68e",
+   "defaultJobAd": true,
+   "refNumber": "REF33848V",
+   "company": {
+    "identifier": "WesternDigital",
+    "name": "Western Digital"
+   },
+   "releasedDate": "2026-08-17T07:35:02.787Z",
+   "location": {
+    "city": "Bayan Lepas",
+    "region": "Penang",
+    "country": "my",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "5.322244",
+    "longitude": "100.2770565",
+    "fullLocation": "Bayan Lepas, Penang, Malaysia"
+   },
+   "industry": {
+    "id": "electrical_manufacturing",
+    "label": "Electrical And Electronic Manufacturing"
+   },
+   "department": {},
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "entry_level",
+    "label": "Entry Level"
+   },
+   "customField": [
+    {
+     "fieldId": "61e861216796ff005736d217",
+     "fieldLabel": "Job Type (exemption status)",
+     "valueId": "f464bc93-cf91-46e3-9d02-1393d111a99c",
+     "valueLabel": "Non-Exempt position - Please see related compensation & benefits details below"
+    },
+    {
+     "fieldId": "625777e42ea6bf323c991b94",
+     "fieldLabel": "Positions",
+     "valueId": "P-0000196429",
+     "valueLabel": "Technician 2, Failure Analysis Engineering (Unfilled)--P-0000196429"
+    },
+    {
+     "fieldId": "60706a574748e43c47b1856e",
+     "fieldLabel": "Business Function",
+     "valueId": "Engineering Support",
+     "valueLabel": "Engineering Support"
+    },
+    {
+     "fieldId": "606f52f879838c3f1a5df578",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Western Digital"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "my",
+     "valueLabel": "Malaysia"
+    },
+    {
+     "fieldId": "607069e34bb1b86edc4b1150",
+     "fieldLabel": "Job Profile",
+     "valueId": "100523",
+     "valueLabel": "Technician 2, Engineering - 100523"
+    },
+    {
+     "fieldId": "60706c0fab6dab4d36f48132",
+     "fieldLabel": "Company",
+     "valueId": "CO_WD Media (Malaysia) Sdn.",
+     "valueLabel": "MY-WD Media (Malaysia) Sdn.--CO_WD Media (Malaysia) Sdn."
+    },
+    {
+     "fieldId": "60706d5a64ff7425248e65ea",
+     "fieldLabel": "Work Shift",
+     "valueId": "WDT N5A-N",
+     "valueLabel": "WDT N5A-N (Malaysia)--WDT N5A-N"
+    },
+    {
+     "fieldId": "60706ba04748e43c47b18571",
+     "fieldLabel": "Work Location",
+     "valueId": "LOC_WDT_MY0704",
+     "valueLabel": "Bayan Lepas PN2--LOC_WDT_MY0704"
+    },
+    {
+     "fieldId": "607066faab6dab4d36f48130",
+     "fieldLabel": "Requisition Type",
+     "valueId": "f6e645f7-335d-4432-b11b-c31381d1a39f",
+     "valueLabel": "Professional"
+    },
+    {
+     "fieldId": "60706d23ab6dab4d36f48136",
+     "fieldLabel": "Scheduled Weekly Hours",
+     "valueLabel": "45"
+    },
+    {
+     "fieldId": "634d66856a77a2043e8bcc3e",
+     "fieldLabel": "Approved Job Grade",
+     "valueLabel": "S102"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/WesternDigital/postings/744000143761249",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000143756489",
+   "name": "Senior Engineer, Analytical & Characterization Engineering",
+   "uuid": "868c2d4f-056e-424c-ba0f-86429fd85ce3",
+   "jobAdId": "589b9a6f-5e9f-471d-aea6-7227e20fa036",
+   "defaultJobAd": true,
+   "refNumber": "REF34182P",
+   "company": {
+    "identifier": "WesternDigital",
+    "name": "Western Digital"
+   },
+   "releasedDate": "2026-08-17T07:11:19.256Z",
+   "location": {
+    "city": "Bayan Lepas",
+    "region": "Penang",
+    "country": "my",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "5.322244",
+    "longitude": "100.2770565",
+    "fullLocation": "Bayan Lepas, Penang, Malaysia"
+   },
+   "industry": {
+    "id": "computer_hardware",
+    "label": "Computer Hardware"
+   },
+   "department": {},
+   "function": {
+    "id": "manufacturing",
+    "label": "Manufacturing"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "associate",
+    "label": "Associate"
+   },
+   "customField": [
+    {
+     "fieldId": "61e861216796ff005736d217",
+     "fieldLabel": "Job Type (exemption status)",
+     "valueId": "5f54df38-41d3-4559-9067-0b50c42e6e4f",
+     "valueLabel": "Exempt position - Please see related compensation & benefits details below"
+    },
+    {
+     "fieldId": "625777e42ea6bf323c991b94",
+     "fieldLabel": "Positions",
+     "valueId": "P-0000196719",
+     "valueLabel": "Senior Engineer, Analytical & Characterization Engineering (Unfilled)--P-0000196719"
+    },
+    {
+     "fieldId": "60706a574748e43c47b1856e",
+     "fieldLabel": "Business Function",
+     "valueId": "Analytical & Characterization Engineering",
+     "valueLabel": "Analytical & Characterization Engineering"
+    },
+    {
+     "fieldId": "606f52f879838c3f1a5df578",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Western Digital"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "my",
+     "valueLabel": "Malaysia"
+    },
+    {
+     "fieldId": "607069e34bb1b86edc4b1150",
+     "fieldLabel": "Job Profile",
+     "valueId": "100011",
+     "valueLabel": "Senior Engineer, Analytical & Characterization Engineering - 100011"
+    },
+    {
+     "fieldId": "60706c0fab6dab4d36f48132",
+     "fieldLabel": "Company",
+     "valueId": "CO_WD Media (Malaysia) Sdn.",
+     "valueLabel": "MY-WD Media (Malaysia) Sdn.--CO_WD Media (Malaysia) Sdn."
+    },
+    {
+     "fieldId": "60706ba04748e43c47b18571",
+     "fieldLabel": "Work Location",
+     "valueId": "LOC_WDT_MY0703",
+     "valueLabel": "Bayan Lepas PN1--LOC_WDT_MY0703"
+    },
+    {
+     "fieldId": "607066faab6dab4d36f48130",
+     "fieldLabel": "Requisition Type",
+     "valueId": "f6e645f7-335d-4432-b11b-c31381d1a39f",
+     "valueLabel": "Professional"
+    },
+    {
+     "fieldId": "634d66856a77a2043e8bcc3e",
+     "fieldLabel": "Approved Job Grade",
+     "valueLabel": "P106"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/WesternDigital/postings/744000143756489",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000143755890",
+   "name": "Engineer, Software Development Engineering (Apps)",
+   "uuid": "e23282dd-ac1a-411a-8a13-b09eacc82de2",
+   "jobAdId": "51fe6f81-f7ab-4007-8556-4d7f4b1e50b1",
+   "defaultJobAd": true,
+   "refNumber": "REF33911O",
+   "company": {
+    "identifier": "WesternDigital",
+    "name": "Western Digital"
+   },
+   "releasedDate": "2026-08-17T07:08:40.042Z",
+   "location": {
+    "city": "BangPa-in",
+    "region": "PHRA NAKHON SI AYUTTHAYA",
+    "country": "th",
+    "postalCode": "13160",
+    "remote": false,
+    "hybrid": false,
+    "fullLocation": "BangPa-in, PHRA NAKHON SI AYUTTHAYA, Thailand"
+   },
+   "industry": {
+    "id": "computer_hardware",
+    "label": "Computer Hardware"
+   },
+   "department": {},
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "not_applicable",
+    "label": "Not Applicable"
+   },
+   "customField": [
+    {
+     "fieldId": "625777e42ea6bf323c991b94",
+     "fieldLabel": "Positions",
+     "valueId": "P-0000079134",
+     "valueLabel": "New Grad Engineer, Software Development Engineering (Unfilled)-Chakrid Paipo (\u0e0a\u0e32\u0e04\u0e23\u0e34\u0e15 \u0e44\u0e1b\u0e1b\u0e2d) (Terminated)--P-0000079134"
+    },
+    {
+     "fieldId": "60706a574748e43c47b1856e",
+     "fieldLabel": "Business Function",
+     "valueId": "Software Development Engineering (Apps)",
+     "valueLabel": "Software Development"
+    },
+    {
+     "fieldId": "606f52f879838c3f1a5df578",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Western Digital"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "th",
+     "valueLabel": "Thailand"
+    },
+    {
+     "fieldId": "607069e34bb1b86edc4b1150",
+     "fieldLabel": "Job Profile",
+     "valueId": "102228",
+     "valueLabel": "Engineer, Software Development Engineering (Apps) - 102228"
+    },
+    {
+     "fieldId": "60706c0fab6dab4d36f48132",
+     "fieldLabel": "Company",
+     "valueId": "CO_WD Western Digital Storage Technologies (Thailand) Ltd.",
+     "valueLabel": "TH-Western Digital Storage Technologies (Thailand) Ltd.--CO_WD Western Digital Storage Technologies (Thailand) Ltd."
+    },
+    {
+     "fieldId": "60706ba04748e43c47b18571",
+     "fieldLabel": "Work Location",
+     "valueId": "LOC_WDT_TH1413",
+     "valueLabel": "BangPa-In Building 3--LOC_WDT_TH1413"
+    },
+    {
+     "fieldId": "607066faab6dab4d36f48130",
+     "fieldLabel": "Requisition Type",
+     "valueId": "9b65be5e-bac0-40eb-babf-17e8b10753da",
+     "valueLabel": "UR - NCG Ad Hoc"
+    },
+    {
+     "fieldId": "634d66856a77a2043e8bcc3e",
+     "fieldLabel": "Approved Job Grade",
+     "valueLabel": "P105"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/WesternDigital/postings/744000143755890",
+   "language": {
+    "code": "th",
+    "label": "Thai",
+    "labelNative": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+   }
+  },
+  {
+   "id": "744000143748858",
+   "name": "Senior Developer, Application Software Developer  - M.tech only ",
+   "uuid": "0f0938e3-d2c0-4b97-a188-b4373903fff0",
+   "jobAdId": "91627f64-4fca-4238-b476-c817482fa5cb",
+   "defaultJobAd": true,
+   "refNumber": "REF34268K",
+   "company": {
+    "identifier": "WesternDigital",
+    "name": "Western Digital"
+   },
+   "releasedDate": "2026-08-17T06:22:31.360Z",
+   "location": {
+    "city": "Bengaluru",
+    "region": "KA",
+    "country": "in",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "12.9628957",
+    "longitude": "77.57754",
+    "fullLocation": "Bengaluru, KA, India"
+   },
+   "industry": {
+    "id": "electrical_manufacturing",
+    "label": "Electrical And Electronic Manufacturing"
+   },
+   "department": {},
+   "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "entry_level",
+    "label": "Entry Level"
+   },
+   "customField": [
+    {
+     "fieldId": "61e861216796ff005736d217",
+     "fieldLabel": "Job Type (exemption status)",
+     "valueId": "5f54df38-41d3-4559-9067-0b50c42e6e4f",
+     "valueLabel": "Exempt position - Please see related compensation & benefits details below"
+    },
+    {
+     "fieldId": "625777e42ea6bf323c991b94",
+     "fieldLabel": "Positions",
+     "valueId": "P-0000196744",
+     "valueLabel": "Senior Developer, Application Software Developer  - M.tech (Unfilled)--P-0000196744"
+    },
+    {
+     "fieldId": "60706a574748e43c47b1856e",
+     "fieldLabel": "Business Function",
+     "valueId": "Software Development (Sys)",
+     "valueLabel": "Systems Development"
+    },
+    {
+     "fieldId": "606f52f879838c3f1a5df578",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Western Digital"
+    },
+    {
+     "fieldId": "64bab6e62b28b434523803f7",
+     "fieldLabel": "UR Fiscal Season (HR USE ONLY)",
+     "valueId": "36c59f24-b084-44cb-98eb-b7e7dced6f4e",
+     "valueLabel": "FY27"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "in",
+     "valueLabel": "India"
+    },
+    {
+     "fieldId": "607069e34bb1b86edc4b1150",
+     "fieldLabel": "Job Profile",
+     "valueId": "102214",
+     "valueLabel": "Senior Developer, Software Development (Sys) - 102214"
+    },
+    {
+     "fieldId": "60706c0fab6dab4d36f48132",
+     "fieldLabel": "Company",
+     "valueId": "CO_WD Storage Technologies India Private Limited",
+     "valueLabel": "IN-WD Storage Technologies India Private Limited--CO_WD Storage Technologies India Private Limited"
+    },
+    {
+     "fieldId": "60706ba04748e43c47b18571",
+     "fieldLabel": "Work Location",
+     "valueId": "LOC_WDT_IBS",
+     "valueLabel": "Bangalore Hallmark Office (IBS)--LOC_WDT_IBS"
+    },
+    {
+     "fieldId": "607066faab6dab4d36f48130",
+     "fieldLabel": "Requisition Type",
+     "valueId": "54f01073-0349-432d-bc1d-28ced0949287",
+     "valueLabel": "UR - NCG"
+    },
+    {
+     "fieldId": "634d66856a77a2043e8bcc3e",
+     "fieldLabel": "Approved Job Grade",
+     "valueLabel": "P106"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/WesternDigital/postings/744000143748858",
+   "creator": {
+    "name": "Sabeer C K"
+   },
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000143741739",
+   "name": "Staff Engineer, Manufacturing Engineering",
+   "uuid": "0c8e1862-11aa-46e6-a810-2ea2684992b7",
+   "jobAdId": "22765dd8-38c6-4032-956b-ec0f9e45db70",
+   "defaultJobAd": true,
+   "refNumber": "REF34162T",
+   "company": {
+    "identifier": "WesternDigital",
+    "name": "Western Digital"
+   },
+   "releasedDate": "2026-08-17T05:12:02.967Z",
+   "location": {
+    "city": "Bayan Lepas",
+    "region": "Penang",
+    "country": "my",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "5.322244",
+    "longitude": "100.2770565",
+    "fullLocation": "Bayan Lepas, Penang, Malaysia"
+   },
+   "industry": {
+    "id": "computer_hardware",
+    "label": "Computer Hardware"
+   },
+   "department": {},
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "61e861216796ff005736d217",
+     "fieldLabel": "Job Type (exemption status)",
+     "valueId": "5f54df38-41d3-4559-9067-0b50c42e6e4f",
+     "valueLabel": "Exempt position - Please see related compensation & benefits details below"
+    },
+    {
+     "fieldId": "625777e42ea6bf323c991b94",
+     "fieldLabel": "Positions",
+     "valueId": "P-0000004582",
+     "valueLabel": "Senior Supervisor, Manufacturing Engineering - MengHun Wang (Position Vacate:09/01/2026)-MengHun Wang--P-0000004582"
+    },
+    {
+     "fieldId": "60706a574748e43c47b1856e",
+     "fieldLabel": "Business Function",
+     "valueId": "Manufacturing Engineering",
+     "valueLabel": "Manufacturing Engineering"
+    },
+    {
+     "fieldId": "606f52f879838c3f1a5df578",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Western Digital"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "my",
+     "valueLabel": "Malaysia"
+    },
+    {
+     "fieldId": "607069e34bb1b86edc4b1150",
+     "fieldLabel": "Job Profile",
+     "valueId": "100258",
+     "valueLabel": "Staff Engineer, Manufacturing Engineering - 100258"
+    },
+    {
+     "fieldId": "60706c0fab6dab4d36f48132",
+     "fieldLabel": "Company",
+     "valueId": "CO_WD Media (Malaysia) Sdn.",
+     "valueLabel": "MY-WD Media (Malaysia) Sdn.--CO_WD Media (Malaysia) Sdn."
+    },
+    {
+     "fieldId": "60706ba04748e43c47b18571",
+     "fieldLabel": "Work Location",
+     "valueId": "LOC_WDT_MY0703",
+     "valueLabel": "Bayan Lepas PN1--LOC_WDT_MY0703"
+    },
+    {
+     "fieldId": "607066faab6dab4d36f48130",
+     "fieldLabel": "Requisition Type",
+     "valueId": "f6e645f7-335d-4432-b11b-c31381d1a39f",
+     "valueLabel": "Professional"
+    },
+    {
+     "fieldId": "634d66856a77a2043e8bcc3e",
+     "fieldLabel": "Approved Job Grade",
+     "valueLabel": "P107"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/WesternDigital/postings/744000143741739",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000143733879",
+   "name": "Technician 4, Test Equipment Maintenance",
+   "uuid": "abcd8a62-ac93-42bc-a015-1947128b163c",
+   "jobAdId": "94fb524e-48ec-48ff-b05a-bf81d3689032",
+   "defaultJobAd": true,
+   "refNumber": "REF33063D",
+   "company": {
+    "identifier": "WesternDigital",
+    "name": "Western Digital"
+   },
+   "releasedDate": "2026-08-17T02:22:40.023Z",
+   "location": {
+    "city": "Bayan Lepas",
+    "region": "Penang",
+    "country": "my",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "5.322244",
+    "longitude": "100.2770565",
+    "fullLocation": "Bayan Lepas, Penang, Malaysia"
+   },
+   "industry": {
+    "id": "computer_hardware",
+    "label": "Computer Hardware"
+   },
+   "department": {},
+   "function": {
+    "id": "manufacturing",
+    "label": "Manufacturing"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "entry_level",
+    "label": "Entry Level"
+   },
+   "customField": [
+    {
+     "fieldId": "61e861216796ff005736d217",
+     "fieldLabel": "Job Type (exemption status)",
+     "valueId": "f464bc93-cf91-46e3-9d02-1393d111a99c",
+     "valueLabel": "Non-Exempt position - Please see related compensation & benefits details below"
+    },
+    {
+     "fieldId": "625777e42ea6bf323c991b94",
+     "fieldLabel": "Positions",
+     "valueId": "P-0000194953",
+     "valueLabel": "Technician 4, Test Equipment Maintenance (Unfilled)--P-0000194953"
+    },
+    {
+     "fieldId": "60706a574748e43c47b1856e",
+     "fieldLabel": "Business Function",
+     "valueId": "Test Equipment Maintenance",
+     "valueLabel": "Test Equipment Maintenance"
+    },
+    {
+     "fieldId": "606f52f879838c3f1a5df578",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Western Digital"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "my",
+     "valueLabel": "Malaysia"
+    },
+    {
+     "fieldId": "607069e34bb1b86edc4b1150",
+     "fieldLabel": "Job Profile",
+     "valueId": "101902",
+     "valueLabel": "Technician 4, Test Equipment Maintenance - 101902"
+    },
+    {
+     "fieldId": "60706c0fab6dab4d36f48132",
+     "fieldLabel": "Company",
+     "valueId": "CO_WD Media (Malaysia) Sdn.",
+     "valueLabel": "MY-WD Media (Malaysia) Sdn.--CO_WD Media (Malaysia) Sdn."
+    },
+    {
+     "fieldId": "60706d5a64ff7425248e65ea",
+     "fieldLabel": "Work Shift",
+     "valueId": "WDT N5A-N",
+     "valueLabel": "WDT N5A-N (Malaysia)--WDT N5A-N"
+    },
+    {
+     "fieldId": "60706ba04748e43c47b18571",
+     "fieldLabel": "Work Location",
+     "valueId": "LOC_WDT_MY0703",
+     "valueLabel": "Bayan Lepas PN1--LOC_WDT_MY0703"
+    },
+    {
+     "fieldId": "607066faab6dab4d36f48130",
+     "fieldLabel": "Requisition Type",
+     "valueId": "f6e645f7-335d-4432-b11b-c31381d1a39f",
+     "valueLabel": "Professional"
+    },
+    {
+     "fieldId": "60706d23ab6dab4d36f48136",
+     "fieldLabel": "Scheduled Weekly Hours",
+     "valueLabel": "45"
+    },
+    {
+     "fieldId": "634d66856a77a2043e8bcc3e",
+     "fieldLabel": "Approved Job Grade",
+     "valueLabel": "S104"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/WesternDigital/postings/744000143733879",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000143639279",
+   "name": "Director of Human Resources ",
+   "uuid": "c9454c2d-51c7-4424-ac16-d8c3b0b0c3db",
+   "jobAdId": "927eb5e5-ebda-4549-b4e7-8d36f8a0d229",
+   "defaultJobAd": true,
+   "refNumber": "REF34101P",
+   "company": {
+    "identifier": "WesternDigital",
+    "name": "Western Digital"
+   },
+   "releasedDate": "2026-08-15T06:52:29.587Z",
+   "location": {
+    "city": "Bayan Lepas",
+    "region": "Penang",
+    "country": "my",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "5.322244",
+    "longitude": "100.2770565",
+    "fullLocation": "Bayan Lepas, Penang, Malaysia"
+   },
+   "industry": {
+    "id": "computer_hardware",
+    "label": "Computer Hardware"
+   },
+   "department": {},
+   "function": {
+    "id": "human_resources",
+    "label": "Human Resources"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "61e861216796ff005736d217",
+     "fieldLabel": "Job Type (exemption status)",
+     "valueId": "5f54df38-41d3-4559-9067-0b50c42e6e4f",
+     "valueLabel": "Exempt position - Please see related compensation & benefits details below"
+    },
+    {
+     "fieldId": "625777e42ea6bf323c991b94",
+     "fieldLabel": "Positions",
+     "valueId": "P-0000196536",
+     "valueLabel": "Director of Human Resources (Unfilled)--P-0000196536"
+    },
+    {
+     "fieldId": "60706a574748e43c47b1856e",
+     "fieldLabel": "Business Function",
+     "valueId": "Human Resources",
+     "valueLabel": "Human Resources"
+    },
+    {
+     "fieldId": "606f52f879838c3f1a5df578",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Western Digital"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "my",
+     "valueLabel": "Malaysia"
+    },
+    {
+     "fieldId": "607069e34bb1b86edc4b1150",
+     "fieldLabel": "Job Profile",
+     "valueId": "100884",
+     "valueLabel": "Business Partner 6, Human Resources - 100884"
+    },
+    {
+     "fieldId": "60706c0fab6dab4d36f48132",
+     "fieldLabel": "Company",
+     "valueId": "CO_WD Media (Malaysia) Sdn.",
+     "valueLabel": "MY-WD Media (Malaysia) Sdn.--CO_WD Media (Malaysia) Sdn."
+    },
+    {
+     "fieldId": "60706ba04748e43c47b18571",
+     "fieldLabel": "Work Location",
+     "valueId": "LOC_WDT_MY0101",
+     "valueLabel": "Pasir Gudang WD Media Office--LOC_WDT_MY0101"
+    },
+    {
+     "fieldId": "607066faab6dab4d36f48130",
+     "fieldLabel": "Requisition Type",
+     "valueId": "f6e645f7-335d-4432-b11b-c31381d1a39f",
+     "valueLabel": "Professional"
+    },
+    {
+     "fieldId": "634d66856a77a2043e8bcc3e",
+     "fieldLabel": "Approved Job Grade",
+     "valueLabel": "P110"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/WesternDigital/postings/744000143639279",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000143588524",
+   "name": "Technologist, Hardware Development Engineering ",
+   "uuid": "d948d1f5-c184-4a8a-8fbd-8afa25b4bcf9",
+   "jobAdId": "9278cfed-dda0-4508-880c-c5025fe60cf4",
+   "defaultJobAd": true,
+   "refNumber": "REF32451P",
+   "company": {
+    "identifier": "WesternDigital",
+    "name": "Western Digital"
+   },
+   "releasedDate": "2026-08-14T19:00:38.580Z",
+   "location": {
+    "city": "Roseville",
+    "region": "CA",
+    "country": "us",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "38.7482609",
+    "longitude": "-121.2832193",
+    "fullLocation": "Roseville, CA, United States"
+   },
+   "industry": {
+    "id": "computer_hardware",
+    "label": "Computer Hardware"
+   },
+   "department": {},
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "61e861216796ff005736d217",
+     "fieldLabel": "Job Type (exemption status)",
+     "valueId": "5f54df38-41d3-4559-9067-0b50c42e6e4f",
+     "valueLabel": "Exempt position - Please see related compensation & benefits details below"
+    },
+    {
+     "fieldId": "61710328e65c003e53504dd0",
+     "fieldLabel": "Salary Range",
+     "valueId": "170,600.00-227,400.00",
+     "valueLabel": "170,600.00-227,400.00"
+    },
+    {
+     "fieldId": "625777e42ea6bf323c991b94",
+     "fieldLabel": "Positions",
+     "valueId": "P-0000193825",
+     "valueLabel": "Technologist, Hardware Development Engineering (Unfilled)--P-0000193825"
+    },
+    {
+     "fieldId": "60706a574748e43c47b1856e",
+     "fieldLabel": "Business Function",
+     "valueId": "Hardware Development Engineering",
+     "valueLabel": "Hardware Development"
+    },
+    {
+     "fieldId": "69af98e74cf456484ba38b06",
+     "fieldLabel": "Business Group",
+     "valueId": "d916faf0-4658-4dc0-8f0b-5a41ab67b3f3",
+     "valueLabel": "Western Digital Technologies, Inc."
+    },
+    {
+     "fieldId": "606f52f879838c3f1a5df578",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Western Digital"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "us",
+     "valueLabel": "United States"
+    },
+    {
+     "fieldId": "607069e34bb1b86edc4b1150",
+     "fieldLabel": "Job Profile",
+     "valueId": "100218",
+     "valueLabel": "Technologist, Hardware Development Engineering - 100218"
+    },
+    {
+     "fieldId": "60706c0fab6dab4d36f48132",
+     "fieldLabel": "Company",
+     "valueId": "CO_WD Western Digital Technologies, Inc.",
+     "valueLabel": "US-Western Digital Technologies, Inc.--CO_WD Western Digital Technologies, Inc."
+    },
+    {
+     "fieldId": "69af99ee1613dbfae2c0f4d8",
+     "fieldLabel": "Division",
+     "valueId": "def505ff-6f2e-47e7-b3c2-6c6f6629ba6a",
+     "valueLabel": "United States"
+    },
+    {
+     "fieldId": "60706d5a64ff7425248e65ea",
+     "fieldLabel": "Work Shift",
+     "valueId": "WDT 1",
+     "valueLabel": "Shift 1 (Mon-Fri 8am - 5pm) (United States of America)--WDT 1"
+    },
+    {
+     "fieldId": "60706ba04748e43c47b18571",
+     "fieldLabel": "Work Location",
+     "valueId": "LOC_WDT_USCA12",
+     "valueLabel": "Roseville California Office--LOC_WDT_USCA12"
+    },
+    {
+     "fieldId": "607066faab6dab4d36f48130",
+     "fieldLabel": "Requisition Type",
+     "valueId": "f6e645f7-335d-4432-b11b-c31381d1a39f",
+     "valueLabel": "Professional"
+    },
+    {
+     "fieldId": "634d66856a77a2043e8bcc3e",
+     "fieldLabel": "Approved Job Grade",
+     "valueLabel": "P110"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/WesternDigital/postings/744000143588524",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000143573689",
+   "name": "Process Engineer",
+   "uuid": "71484dd2-be0f-4dd8-ab09-82ef9faf7294",
+   "jobAdId": "ff493689-8cb5-4584-8a99-2462e7863e9f",
+   "defaultJobAd": true,
+   "refNumber": "REF33667L",
+   "company": {
+    "identifier": "WesternDigital",
+    "name": "Western Digital"
+   },
+   "releasedDate": "2026-08-14T17:48:53.826Z",
+   "location": {
+    "city": "San Jose",
+    "region": "CA",
+    "country": "us",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "37.33874",
+    "longitude": "-121.8852525",
+    "fullLocation": "San Jose, CA, United States"
+   },
+   "industry": {
+    "id": "computer_hardware",
+    "label": "Computer Hardware"
+   },
+   "department": {},
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "entry_level",
+    "label": "Entry Level"
+   },
+   "customField": [
+    {
+     "fieldId": "61e861216796ff005736d217",
+     "fieldLabel": "Job Type (exemption status)",
+     "valueId": "5f54df38-41d3-4559-9067-0b50c42e6e4f",
+     "valueLabel": "Exempt position - Please see related compensation & benefits details below"
+    },
+    {
+     "fieldId": "61710328e65c003e53504dd0",
+     "fieldLabel": "Salary Range",
+     "valueId": "106,600.00-142,100.00",
+     "valueLabel": "106,600.00-142,100.00"
+    },
+    {
+     "fieldId": "625777e42ea6bf323c991b94",
+     "fieldLabel": "Positions",
+     "valueId": "P-0000195887",
+     "valueLabel": "Process Engineer (Unfilled)--P-0000195887"
+    },
+    {
+     "fieldId": "60706a574748e43c47b1856e",
+     "fieldLabel": "Business Function",
+     "valueId": "Hardware Development Engineering",
+     "valueLabel": "Hardware Development"
+    },
+    {
+     "fieldId": "69af98e74cf456484ba38b06",
+     "fieldLabel": "Business Group",
+     "valueId": "d916faf0-4658-4dc0-8f0b-5a41ab67b3f3",
+     "valueLabel": "Western Digital Technologies, Inc."
+    },
+    {
+     "fieldId": "606f52f879838c3f1a5df578",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Western Digital"
+    },
+    {
+     "fieldId": "64bab6e62b28b434523803f7",
+     "fieldLabel": "UR Fiscal Season (HR USE ONLY)",
+     "valueId": "36c59f24-b084-44cb-98eb-b7e7dced6f4e",
+     "valueLabel": "FY27"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "us",
+     "valueLabel": "United States"
+    },
+    {
+     "fieldId": "607069e34bb1b86edc4b1150",
+     "fieldLabel": "Job Profile",
+     "valueId": "100223",
+     "valueLabel": "Senior Engineer, Hardware Development Engineering - 100223"
+    },
+    {
+     "fieldId": "60706c0fab6dab4d36f48132",
+     "fieldLabel": "Company",
+     "valueId": "CO_WD Western Digital Technologies, Inc.",
+     "valueLabel": "US-Western Digital Technologies, Inc.--CO_WD Western Digital Technologies, Inc."
+    },
+    {
+     "fieldId": "69af99ee1613dbfae2c0f4d8",
+     "fieldLabel": "Division",
+     "valueId": "def505ff-6f2e-47e7-b3c2-6c6f6629ba6a",
+     "valueLabel": "United States"
+    },
+    {
+     "fieldId": "60706d5a64ff7425248e65ea",
+     "fieldLabel": "Work Shift",
+     "valueId": "WDT 1",
+     "valueLabel": "Shift 1 (Mon-Fri 8am - 5pm) (United States of America)--WDT 1"
+    },
+    {
+     "fieldId": "60706ba04748e43c47b18571",
+     "fieldLabel": "Work Location",
+     "valueId": "LOC_WDT_USCA23",
+     "valueLabel": "San Jose Great Oaks Headquarters--LOC_WDT_USCA23"
+    },
+    {
+     "fieldId": "607066faab6dab4d36f48130",
+     "fieldLabel": "Requisition Type",
+     "valueId": "54f01073-0349-432d-bc1d-28ced0949287",
+     "valueLabel": "UR - NCG"
+    },
+    {
+     "fieldId": "634d66856a77a2043e8bcc3e",
+     "fieldLabel": "Approved Job Grade",
+     "valueLabel": "P106"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/WesternDigital/postings/744000143573689",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000143485639",
+   "name": "Senior Manager, Accounting",
+   "uuid": "fcfe93e4-9ea1-4e49-aee9-a5fd237a71d2",
+   "jobAdId": "394da18a-9ea4-4337-ab9a-1745786b83c2",
+   "defaultJobAd": true,
+   "refNumber": "REF33986N",
+   "company": {
+    "identifier": "WesternDigital",
+    "name": "Western Digital"
+   },
+   "releasedDate": "2026-08-14T10:33:46.515Z",
+   "location": {
+    "city": "Bayan Lepas",
+    "region": "Penang",
+    "country": "my",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "5.322244",
+    "longitude": "100.2770565",
+    "fullLocation": "Bayan Lepas, Penang, Malaysia"
+   },
+   "industry": {
+    "id": "computer_hardware",
+    "label": "Computer Hardware"
+   },
+   "department": {},
+   "function": {
+    "id": "accounting_auditing",
+    "label": "Accounting/Auditing"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "61e861216796ff005736d217",
+     "fieldLabel": "Job Type (exemption status)",
+     "valueId": "5f54df38-41d3-4559-9067-0b50c42e6e4f",
+     "valueLabel": "Exempt position - Please see related compensation & benefits details below"
+    },
+    {
+     "fieldId": "625777e42ea6bf323c991b94",
+     "fieldLabel": "Positions",
+     "valueId": "P-0000176030",
+     "valueLabel": "Manager, Accounting - Shwu Ling Eng (Position Vacate:09/30/2026)-Shwu Ling Eng--P-0000176030"
+    },
+    {
+     "fieldId": "60706a574748e43c47b1856e",
+     "fieldLabel": "Business Function",
+     "valueId": "Accounting",
+     "valueLabel": "Accounting"
+    },
+    {
+     "fieldId": "606f52f879838c3f1a5df578",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Western Digital"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "my",
+     "valueLabel": "Malaysia"
+    },
+    {
+     "fieldId": "607069e34bb1b86edc4b1150",
+     "fieldLabel": "Job Profile",
+     "valueId": "100626",
+     "valueLabel": "Senior Manager, Accounting - 100626"
+    },
+    {
+     "fieldId": "60706c0fab6dab4d36f48132",
+     "fieldLabel": "Company",
+     "valueId": "CO_WD Media (Malaysia) Sdn.",
+     "valueLabel": "MY-WD Media (Malaysia) Sdn.--CO_WD Media (Malaysia) Sdn."
+    },
+    {
+     "fieldId": "60706ba04748e43c47b18571",
+     "fieldLabel": "Work Location",
+     "valueId": "LOC_WDT_MY0704",
+     "valueLabel": "Bayan Lepas PN2--LOC_WDT_MY0704"
+    },
+    {
+     "fieldId": "607066faab6dab4d36f48130",
+     "fieldLabel": "Requisition Type",
+     "valueId": "f6e645f7-335d-4432-b11b-c31381d1a39f",
+     "valueLabel": "Professional"
+    },
+    {
+     "fieldId": "634d66856a77a2043e8bcc3e",
+     "fieldLabel": "Approved Job Grade",
+     "valueLabel": "M109"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/WesternDigital/postings/744000143485639",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  }
+ ]
+}

@@ -1,0 +1,331 @@
+{
+ "jobs": [
+  {
+   "absolute_url": "https://stripe.com/jobs/search?gh_jid=8077887",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_required",
+   "internal_job_id": 3499744,
+   "location": {
+    "name": "SF, NYC, SEA, CHI"
+   },
+   "metadata": null,
+   "id": 8077887,
+   "updated_at": "2026-08-06T12:10:17-04:00",
+   "requisition_id": "See Opening ID",
+   "title": "Account Executive, Bridge ",
+   "company_name": "Stripe",
+   "first_published": "2026-07-22T13:15:53-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://stripe.com/jobs/search?gh_jid=8023928",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_required",
+   "internal_job_id": 3478585,
+   "location": {
+    "name": "London"
+   },
+   "metadata": null,
+   "id": 8023928,
+   "updated_at": "2026-08-10T09:04:22-04:00",
+   "requisition_id": "See Opening ID",
+   "title": "Account Executive, Bridge (Stripe Crypto and Stablecoins)",
+   "company_name": "Stripe",
+   "first_published": "2026-07-30T06:59:38-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://stripe.com/jobs/search?gh_jid=8123027",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_required",
+   "internal_job_id": 3518194,
+   "location": {
+    "name": "Chicago"
+   },
+   "metadata": null,
+   "id": 8123027,
+   "updated_at": "2026-08-11T19:45:35-04:00",
+   "requisition_id": "See Opening ID",
+   "title": "Account Executive, Commercial (Grower)",
+   "company_name": "Stripe",
+   "first_published": "2026-08-11T19:45:35-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://stripe.com/jobs/search?gh_jid=7789539",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_required",
+   "internal_job_id": 3407094,
+   "location": {
+    "name": "Japan"
+   },
+   "metadata": null,
+   "id": 7789539,
+   "updated_at": "2026-08-06T12:10:01-04:00",
+   "requisition_id": "See Opening ID",
+   "title": "Account Executive, Commercial Hunter (Japanese Fluency)",
+   "company_name": "Stripe",
+   "first_published": "2026-04-17T00:47:42-04:00",
+   "language": "ja",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://stripe.com/jobs/search?gh_jid=7893199",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_required",
+   "internal_job_id": 3431456,
+   "location": {
+    "name": "Singapore"
+   },
+   "metadata": null,
+   "id": 7893199,
+   "updated_at": "2026-08-06T12:10:03-04:00",
+   "requisition_id": "See Opening ID",
+   "title": "Account Executive, Cross Border China",
+   "company_name": "Stripe",
+   "first_published": "2026-05-06T04:59:55-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://stripe.com/jobs/search?gh_jid=8041076",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_required",
+   "internal_job_id": 3485360,
+   "location": {
+    "name": "Singapore"
+   },
+   "metadata": null,
+   "id": 8041076,
+   "updated_at": "2026-08-14T03:45:58-04:00",
+   "requisition_id": "See Opening ID",
+   "title": "Account Executive, Crypto/Stablecoins ",
+   "company_name": "Stripe",
+   "first_published": "2026-08-14T03:45:58-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://stripe.com/jobs/search?gh_jid=8119822",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_required",
+   "internal_job_id": 3516941,
+   "location": {
+    "name": "CA-Toronto, CA-Montreal, CA-Vancouver "
+   },
+   "metadata": null,
+   "id": 8119822,
+   "updated_at": "2026-08-12T11:04:53-04:00",
+   "requisition_id": "See Opening ID",
+   "title": "Account Executive, Enterprise (Canada) ",
+   "company_name": "Stripe",
+   "first_published": "2026-08-12T11:04:53-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://stripe.com/jobs/search?gh_jid=7993151",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_required",
+   "internal_job_id": 3467410,
+   "location": {
+    "name": "US-Remote, US-San Francisco, US-Chicago, US-New York, US-Seattle, US-Texas"
+   },
+   "metadata": null,
+   "id": 7993151,
+   "updated_at": "2026-08-06T12:10:10-04:00",
+   "requisition_id": "See Opening ID",
+   "title": "Account Executive - Enterprise, Grower",
+   "company_name": "Stripe",
+   "first_published": "2026-06-09T13:38:22-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://stripe.com/jobs/search?gh_jid=7997555",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_required",
+   "internal_job_id": 3468679,
+   "location": {
+    "name": "US-New York, US-Chicago, US-Atlanta, US-San Francisco, US-Texas"
+   },
+   "metadata": null,
+   "id": 7997555,
+   "updated_at": "2026-08-06T12:10:10-04:00",
+   "requisition_id": "See Opening ID",
+   "title": "Account Executive, Enterprise - Grower",
+   "company_name": "Stripe",
+   "first_published": "2026-06-10T15:14:52-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://stripe.com/jobs/search?gh_jid=8107136",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_required",
+   "internal_job_id": 3512080,
+   "location": {
+    "name": "US-San Francisco, US-Seattle, US-West Coast (Remote) "
+   },
+   "metadata": null,
+   "id": 8107136,
+   "updated_at": "2026-08-10T09:19:03-04:00",
+   "requisition_id": "See Opening ID",
+   "title": "Account Executive, Enterprise (Grower) ",
+   "company_name": "Stripe",
+   "first_published": "2026-08-10T09:19:03-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://stripe.com/jobs/search?gh_jid=7997146",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_required",
+   "internal_job_id": 3468546,
+   "location": {
+    "name": "US-San Francisco, US-California, US-Chicago"
+   },
+   "metadata": null,
+   "id": 7997146,
+   "updated_at": "2026-08-06T12:10:10-04:00",
+   "requisition_id": "See Opening ID",
+   "title": "Account Executive - Enterprise, Growth",
+   "company_name": "Stripe",
+   "first_published": "2026-06-29T09:19:16-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://stripe.com/jobs/search?gh_jid=7994330",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_required",
+   "internal_job_id": 3467829,
+   "location": {
+    "name": "US-San Francisco, US-Chicago, US-New York"
+   },
+   "metadata": null,
+   "id": 7994330,
+   "updated_at": "2026-08-06T12:10:10-04:00",
+   "requisition_id": "See Opening ID",
+   "title": "Account Executive, Enterprise - Hunter",
+   "company_name": "Stripe",
+   "first_published": "2026-06-10T10:30:26-04:00",
+   "language": "en",
+   "application_deadline": null
+  }
+ ],
+ "meta": {
+  "total": 572
+ }
+}

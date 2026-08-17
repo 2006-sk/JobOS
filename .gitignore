@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+# The full board snapshot is a run artifact, not state. Committing ~15MB of
+# churning JSON every 30 minutes would add gigabytes of history for no benefit;
+# data/seen.json is the only file that genuinely needs to be durable.
+data/listings.json

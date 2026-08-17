@@ -1,0 +1,68 @@
+# Everything personal lives here so relevance.py has no hardcoded assumptions.
+# Edit this file to retune the filter -- you should never need to touch the code
+# to change what pings you.
+
+major: "Computer Science, BS"
+school: "San Jose State University"
+
+# Recorded for context only. Deliberately NOT used as a filter input: internships
+# and new-grad roles are both full priority (see `levels`), so there is nothing
+# for a graduation date to gate. Left here because the finder's PR body quotes it.
+graduation: "2027-05"
+
+# Both levels are equal-priority. Nothing in relevance.py or notify.py may rank
+# one above the other -- if you ever want new-grad weighted higher, do it here,
+# not in code.
+levels: [new-grad, internship]
+
+fields:
+  core:
+    [
+      software engineering,
+      backend,
+      frontend,
+      full stack,
+      distributed systems,
+      infrastructure,
+      platform,
+      systems,
+      embedded,
+      security engineering,
+    ]
+  adjacent:
+    [
+      machine learning,
+      ai,
+      data engineering,
+      data science,
+      research engineering,
+      computer vision,
+      nlp,
+      quantitative developer,
+      robotics,
+    ]
+  stretch: [hardware, firmware, asic, fpga, silicon, devops, sre]
+
+locations:
+  preferred:
+    [Bay Area, San Jose, San Francisco, Seattle, New York, Remote US]
+  # Location never removes a listing; it only moves it up or down the ranking.
+  acceptable_anywhere: true
+
+sponsorship:
+  # Defaulted to true (the common case for an SJSU .edu). If you are a citizen or
+  # permanent resident, flip this to false and the cleared/defense roles at
+  # SpaceX, Anduril and Palantir come back into the instant channel.
+  needs_sponsorship: true
+  # Roles requiring US citizenship or an active clearance are pulled OUT of the
+  # instant ping when needs_sponsorship is true -- but they are still listed in
+  # the daily digest under "excluded", never silently dropped. A filter that
+  # hides things without telling you is the same failure mode as a broken monitor.
+  drop_citizenship_required: true
+
+notifications:
+  # Roles matching `core` or `adjacent` ping immediately; `stretch` is batched
+  # into the 09:00 UTC digest so hardware/devops noise never wakes you up.
+  instant_tiers: [core, adjacent]
+  digest_tiers: [stretch]
+  max_roles_per_notification: 15
