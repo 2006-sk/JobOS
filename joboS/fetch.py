@@ -158,17 +158,38 @@ def _dedupe(listings: list[Listing]) -> list[Listing]:
     to prevent.
     """
     by_id: dict[str, Listing] = {}
-    by_content: dict[tuple[str, str, str], str] = {}
     for listing in listings:
-        if listing.id in by_id:
+        by_id.setdefault(listing.id, listing)
+
+    # Group by (company, title) -- but ONLY collapse across sources, never
+    # within one. Companies really do post many distinct reqs under an identical
+    # title: SpaceX's board carries 243 repeated titles, including "Application
+    # Software Engineer" seven times, each a separate job with its own URL.
+    # Keying on (company, title) alone would silently drop six of those seven,
+    # trading a duplicate ping for a missed role -- the worse of the two.
+    groups: dict[tuple[str, str], list[Listing]] = {}
+    for listing in by_id.values():
+        key = (listing.company.lower().strip(), listing.title.lower().strip())
+        groups.setdefault(key, []).append(listing)
+
+    out: list[Listing] = []
+    for group in groups.values():
+        direct = [x for x in group if x.source_ats != "aggregator"]
+        if direct:
+            # The company's own board is authoritative and has the better apply
+            # URL, so aggregator copies of the same role are dropped. Comparing
+            # URLs instead would not work: Greenhouse reports
+            # "stripe.com/jobs/search?gh_jid=123" while the feed reports its own
+            # link, so the same job never matches on URL across sources.
+            out.extend(direct)
             continue
-        key = (
-            listing.company.lower().strip(),
-            listing.title.lower().strip(),
-            listing.url.split("?")[0].rstrip("/").lower(),
-        )
-        if key in by_content:
-            continue
-        by_content[key] = listing.id
-        by_id[listing.id] = listing
-    return list(by_id.values())
+        # All from the feeds: the same role can appear in two of the three, so
+        # collapse on URL, which those feeds do share for one job.
+        seen_urls: set[str] = set()
+        for listing in group:
+            url = listing.url.split("?")[0].rstrip("/").lower()
+            if url and url in seen_urls:
+                continue
+            seen_urls.add(url)
+            out.append(listing)
+    return out

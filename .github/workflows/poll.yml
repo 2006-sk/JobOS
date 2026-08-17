@@ -72,7 +72,13 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/seen.json data/pending_digest.json 2>/dev/null || true
+          # Stage each path separately. `git add a b` where b does not exist
+          # aborts the WHOLE command and stages nothing -- with `|| true` that
+          # failure is silent, the next check reports "no state change", and the
+          # job goes green while seen.json is never persisted. Every new role
+          # would then re-notify every 30 minutes, forever.
+          git add data/seen.json || true
+          git add data/pending_digest.json || true
           if git diff --cached --quiet; then
             echo "no state change; nothing to commit"
             exit 0
@@ -136,5 +142,5 @@ jobs:
           python -m joboS.poll --digest
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/pending_digest.json 2>/dev/null || true
+          git add data/pending_digest.json || true
           git diff --cached --quiet || (git commit -m "state: clear digest queue [skip ci]" && (git push || (git pull --rebase --autostash && git push)))

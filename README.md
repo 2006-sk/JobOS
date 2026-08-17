@@ -94,11 +94,15 @@ watchlist.
 
 **32 of the 50 seeded companies have a verified, directly-pollable board.**
 
-The other 18 run proprietary career sites with no public job-board API: Apple,
-Google, Amazon, Microsoft, TikTok, ByteDance, Tesla, Meta, JPMorgan, Oracle,
-Qualcomm, Texas Instruments, Garmin, Rippling, Applied Materials' peers, and the
-private HFT shops (Citadel, Hudson River Trading, Susquehanna, Two Sigma). Their
-apply URLs carry no ATS token to mine, and direct token guesses return 404/422.
+The other 18 run proprietary career sites or private ATS instances with no
+public job-board API:
+
+> Amazon · Apple · ByteDance · Citadel · Google · Hudson River Trading ·
+> JP Morgan Chase · Meta · Microsoft · Oracle · Qualcomm · Susquehanna ·
+> Tesla · TikTok · Two Sigma · Garmin · Rippling · Texas Instruments
+
+Their apply URLs carry no ATS token to mine, and direct token guesses return
+404 (Greenhouse/Lever/Ashby) or 422 (Workday).
 
 **They are still monitored.** All 18 post into the three community aggregator
 feeds, which are polled every run. That is what the "safety net" in
@@ -141,7 +145,7 @@ ranks one above the other.
     # host: "figma.wd1.myworkdayjobs.com"
 ```
 
-Then `make smoke --company Figma` to confirm it resolves. To find a token, open
+Then `python -m joboS.smoke --company Figma` to confirm it resolves. To find a token, open
 the company's careers page and look at an apply URL — the token is the path
 segment after the ATS domain (`job-boards.greenhouse.io/<token>/jobs/123`).
 
