@@ -1,6 +1,6 @@
 {
  "version": 1,
- "count": 9752,
+ "count": 9755,
  "entries": {
   "aggregator:new-grad:00592559-74bf-4659-b573-2b630465cfc8": 1786971939,
   "aggregator:new-grad:03846952-d653-4d85-82ca-f4d9b87f6a53": 1786971939,
@@ -9265,6 +9265,7 @@
   "workday:intel:External:JR0285451": 1787002258,
   "workday:intel:External:JR0285463": 1786971939,
   "workday:intel:External:JR0285464": 1786971939,
+  "workday:intel:External:JR0285535": 1787010719,
   "workday:intel:External:JR0285584": 1786992528,
   "workday:intel:External:JR0285730": 1786971939,
   "workday:intel:External:JR0285737": 1786971939,
@@ -9529,9 +9530,11 @@
   "workday:nvidia:NVIDIAExternalCareerSite:JR2014698": 1786971939,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2014710": 1786978538,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2014785": 1786971939,
+  "workday:nvidia:NVIDIAExternalCareerSite:JR2015189": 1787010719,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2015287": 1786978538,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2015659": 1786971939,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2015949": 1786971939,
+  "workday:nvidia:NVIDIAExternalCareerSite:JR2015953": 1787010719,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2015959": 1786971939,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2016116": 1786971939,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2016204": 1786971939,
