@@ -48,7 +48,7 @@ def test_ids_are_unique_stable_and_shaped() -> None:
         # hash, since every fixture posting carries an "id".
         assert listing.id.startswith(f"ashby:{TOKEN}:")
         native = listing.id.removeprefix(f"ashby:{TOKEN}:")
-        assert native and "h" != native[0]  # not the hashed_id fallback form
+        assert native and native[0] != "h"  # not the hashed_id fallback form
 
 
 def test_employment_type_full_time_normalizes() -> None:

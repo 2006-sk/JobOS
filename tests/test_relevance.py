@@ -54,13 +54,15 @@ def test_citizenship_required_is_surfaced_not_silently_dropped() -> None:
 
 
 def test_location_rank_prefers_san_jose_over_dublin() -> None:
-    san_jose = classify("New Grad Software Engineer, Backend", locations=["San Jose, CA"])
-    dublin = classify("New Grad Software Engineer, Backend", locations=["Dublin, Ireland"])
+    title = "New Grad Software Engineer, Backend"
+    san_jose = classify(title, locations=["San Jose, CA"])
+    dublin = classify(title, locations=["Dublin, Ireland"])
     assert san_jose.location_rank < dublin.location_rank
 
 
 def test_location_rank_function_directly() -> None:
-    preferred = ["Bay Area", "San Jose", "San Francisco", "Seattle", "New York", "Remote US"]
+    preferred = ["Bay Area", "San Jose", "San Francisco", "Seattle", "New York",
+                 "Remote US"]
     assert location_rank(["San Jose, CA"], preferred) < location_rank(
         ["Dublin, Ireland"], preferred
     )

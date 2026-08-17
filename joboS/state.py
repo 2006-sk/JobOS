@@ -70,7 +70,23 @@ class SeenStore:
                 f"history, or delete it deliberately and run with --bootstrap."
             ) from exc
 
-        entries = raw.get("entries", raw) if isinstance(raw, dict) else {}
+        # A file that parses as JSON but is not a mapping is still a corrupt
+        # store. Falling through to an empty dict here would set was_empty and
+        # silently AUTO-BOOTSTRAP -- discarding the real history and marking
+        # every current job as already-seen, so none of them ever notify.
+        # That is a silent miss dressed up as a clean run.
+        if not isinstance(raw, dict):
+            raise RuntimeError(
+                f"{p} holds {type(raw).__name__}, not an object. Refusing to "
+                f"continue: an empty store would discard notification history. "
+                f"Restore it from git history, or delete it and use --bootstrap."
+            )
+        entries = raw.get("entries", raw)
+        if not isinstance(entries, dict):
+            raise RuntimeError(
+                f"{p} has a non-object 'entries' field ({type(entries).__name__}). "
+                f"Restore it from git history, or delete it and use --bootstrap."
+            )
         clean = {str(k): int(v) for k, v in entries.items() if isinstance(v, (int, float))}
         return cls(p, clean, was_empty=not clean)
 

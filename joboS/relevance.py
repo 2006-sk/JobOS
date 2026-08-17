@@ -219,6 +219,9 @@ FIELD_KEYWORDS: dict[str, tuple[str, ...]] = {
         r"generative\s+ai",
         r"applied\s+scien(ce|tist)",
         r"algorithm\s+engineer",
+        # "Quantitative Trading Intern" and similar were missed by the stricter
+        # quantitative-(developer|researcher|trader|analyst) form alone.
+        r"\bquantitative\b",
     ),
     FIELD_STRETCH: (
         r"\bhardware\b",
@@ -244,11 +247,33 @@ FIELD_KEYWORDS: dict[str, tuple[str, ...]] = {
         r"quality\s+assurance",
         r"test\s+engineer",
         r"validation\s+engineer",
+        # "Principal Packaging Integration Engineer New Grad" is a real
+        # early-career hardware role that matched no field keyword at all and
+        # was therefore rejected outright rather than routed to the digest.
+        r"packaging",
+        r"digital\s+design",
+        r"design\s+engineer",
+        r"process\s+engineer",
     ),
+}
+
+# Broad catch-alls, checked only AFTER every specific keyword above has missed.
+# They must not run in the main pass: a bare `developer` in `core` would claim
+# "Quantitative Developer - New Grad" before `quantitative` in `adjacent` ever
+# got a look, silently reclassifying every quant role as generic software.
+FIELD_FALLBACK: dict[str, tuple[str, ...]] = {
+    # Without these, real postings like "Entry-Level Java Developer" and "Entry
+    # Level .Net Developer" fell out as field=none -- 51 such titles in a 33k
+    # corpus, every one a genuine target.
+    FIELD_CORE: (r"\bdevelopers?\b", r"\bprogramming\b"),
+    FIELD_STRETCH: (r"design\s+engineer", r"process\s+engineer"),
 }
 
 _FIELD_RX: dict[str, re.Pattern[str]] = {
     name: _rx(*(rf"\b(?:{k})" for k in pats)) for name, pats in FIELD_KEYWORDS.items()
+}
+_FALLBACK_RX: dict[str, re.Pattern[str]] = {
+    name: _rx(*(rf"\b(?:{k})" for k in pats)) for name, pats in FIELD_FALLBACK.items()
 }
 
 # --- sponsorship / clearance ----------------------------------------------
@@ -355,6 +380,11 @@ def classify_field(title: str) -> str:
     t = _normalize(title)
     for name in (FIELD_CORE, FIELD_ADJACENT, FIELD_STRETCH):
         if _FIELD_RX[name].search(t):
+            return name
+    # Second pass: broad catch-alls, so a specific match in ANY tier always wins
+    # over a generic one in a higher tier.
+    for name in (FIELD_CORE, FIELD_STRETCH):
+        if name in _FALLBACK_RX and _FALLBACK_RX[name].search(t):
             return name
     return FIELD_NONE
 

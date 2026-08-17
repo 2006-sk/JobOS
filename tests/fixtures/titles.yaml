@@ -5,17 +5,13 @@
 # classify_field) before being committed here -- nothing in this file is a
 # guess. See tests/test_relevance.py for the parametrized assertions.
 #
-# NOTE ON A REAL GAP FOUND WHILE BUILDING THIS FIXTURE:
-# "Principal Packaging Integration Engineer New Grad" was expected to land in
-# field=stretch (it is a semiconductor hardware role). The actual classifier
-# returns field=none, because FIELD_KEYWORDS[stretch] has no entry for
-# "packaging" (only hardware/firmware/asic/fpga/silicon/devops/sre/vlsi/...).
-# That makes classify() reject the whole listing with "field not relevant",
-# so a genuine new-grad hardware role at, e.g., an Nvidia/Micron-style
-# packaging-integration team would be silently dropped rather than routed to
-# the digest. Recorded here as field: none (matching real behavior, per
-# instructions not to weaken the fixture) -- reported upstream as a probable
-# relevance.py gap, not fixed here.
+# A GAP THIS FIXTURE CAUGHT, SINCE FIXED:
+# "Principal Packaging Integration Engineer New Grad" originally classified as
+# field=none -- FIELD_KEYWORDS[stretch] had no "packaging" entry -- so a genuine
+# new-grad hardware role was rejected outright instead of being routed to the
+# digest. The same pass found "Entry Level .Net Developer" (51 such titles in
+# the corpus) falling out because only compound forms like "software developer"
+# were matched. Both are now covered; the cases below pin the fixed behavior.
 
 cases:
   # --- tricky positives: must classify as early-career despite a seniority word
@@ -33,7 +29,7 @@ cases:
     field: stretch
   - title: "Principal Packaging Integration Engineer New Grad"
     level: new-grad
-    field: none  # see NOTE above -- expected stretch, classifier gives none
+    field: stretch  # regression: "packaging" was missing from the stretch tier
   - title: "Staff Scientist/Engineering Intern - Summer 2026"
     level: internship
     field: none  # bare "engineering" has no FIELD_CORE keyword match
