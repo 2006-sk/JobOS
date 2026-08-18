@@ -207,10 +207,12 @@ def run_test_notification(*, dry_run: bool = False) -> int:
                               channel="instant", location_rank=1), tier="1")
     title, body = format_instant([hit])
     if notifier.send(title, body, priority="high", tags=["white_check_mark"]):
-        print(f"test notification sent via {notifier.name}. Check your phone.")
+        where = "your inbox (check spam on the first one)" if "smtp" in notifier.name \
+            else "your phone"
+        print(f"test notification sent via {notifier.name}. Check {where}.")
         return 0
     print(f"test notification FAILED via {notifier.name}. "
-          f"Is NTFY_TOPIC set correctly?")
+          f"Check the SMTP_* secrets (or NTFY_TOPIC) and the error above.")
     return 1
 
 
