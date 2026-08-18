@@ -389,5 +389,28 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:new-grad:d1b109a6-58b7-44a3-8f0d-f218c896370a",
+   "company": "Applied Intuition",
+   "title": "Hardware Integration Engineer New Grad",
+   "url": "https://jobs.ashbyhq.com/applied/4c3cd892-2ef0-40b6-877a-39540a224a5c/application?embed=true",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "posted_at": 1787093935,
+   "source_ats": "aggregator",
+   "board_token": "new-grad",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1787094137,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
