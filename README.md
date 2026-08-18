@@ -34,35 +34,48 @@ by 10+ minutes. "Every 30 minutes" is a target, not a guarantee.
 
 ## Setup
 
-### 1. Pick an ntfy topic
+Alerts are delivered by **email**. Every configured channel is used, so adding
+`NTFY_TOPIC` later turns on phone push alongside email with no code change.
 
-Notifications go through [ntfy.sh](https://ntfy.sh) — free, no account needed.
+### 1. Create a Gmail App Password
 
-> **ntfy topics are public.** Anyone who learns your topic can read it *and post
-> to it*. Pick something unguessable — not `shresth-jobs`. For example:
-> `joboS-7f3a9c2e4b1d`. Since this repo is public, the topic must live only in
-> Actions secrets, never in a committed file.
+Gmail rejects your normal password over SMTP. You need a 16-character App
+Password, which requires 2-Step Verification on that Google account:
 
-### 2. Add the secret
+1. [myaccount.google.com/security](https://myaccount.google.com/security) →
+   turn on **2-Step Verification** (required; the option below won't appear otherwise).
+2. [myaccount.google.com/apppasswords](https://myaccount.google.com/apppasswords)
+   → create one named `JobOS` → copy the 16 characters.
+
+> Use a **personal Gmail** as the sender. University Google Workspace accounts
+> (including `@sjsu.edu`) often have App Passwords disabled by the admin, and the
+> failure is a confusing `535 Username and Password not accepted` rather than
+> anything that mentions policy. The sender and the recipient don't have to
+> match — send from Gmail, receive at your `.edu`.
+
+### 2. Add the secrets
 
 Repo → **Settings** → **Secrets and variables** → **Actions** → **New repository
-secret**:
+secret**, five times:
 
 | Name | Value |
 |---|---|
-| `NTFY_TOPIC` | your unguessable topic, e.g. `joboS-7f3a9c2e4b1d` |
+| `SMTP_HOST` | `smtp.gmail.com` |
+| `SMTP_PORT` | `587` |
+| `SMTP_USER` | the Gmail address you made the App Password on |
+| `SMTP_PASS` | the 16-character App Password (no spaces) |
+| `SMTP_TO` | where alerts land, e.g. `you@sjsu.edu` |
 
-### 3. Install the app and subscribe
-
-Install ntfy ([iOS](https://apps.apple.com/us/app/ntfy/id1625396347) /
-[Android](https://play.google.com/store/apps/details?id=io.heckel.ntfy)),
-tap **+**, and subscribe to the same topic string.
-
-### 4. Prove delivery works
+### 3. Prove delivery works
 
 Actions → **poll** → **Run workflow** → tick **test_notification** → **Run
-workflow**. A sample push should arrive within seconds. If it doesn't, the topic
-in the secret and the topic in the app don't match.
+workflow**. A sample email arrives within a minute or so.
+
+If nothing arrives, open the run log — the step prints which backend it chose.
+`dry-run` there means the secrets aren't visible to the workflow; `smtp` plus an
+error means the credentials were rejected. **Check spam on the first one** — a
+new sender to a university mailbox often lands there once, and marking it
+"not spam" fixes it permanently.
 
 ### 5. Let it run
 
@@ -186,7 +199,9 @@ managerial titles (manager, director, VP) are unconditional drops.
 
 | Symptom | Cause |
 |---|---|
-| No notifications ever | `NTFY_TOPIC` secret missing or differs from the app's topic. Run the test notification. |
+| No emails ever | Secrets missing, or Gmail rejected the App Password. Run the test notification and read the run log. |
+| First email never arrived | Check spam. A new sender to a `.edu` mailbox is often filed there once. |
+| `535 Username and Password not accepted` | Using a normal password, or a Workspace account with App Passwords disabled. Use a personal Gmail. |
 | Thousands of notifications | `seen.json` was deleted or emptied. Restore it from git history — do **not** let it run. |
 | A board shows `404` in smoke | Token changed. Find the new one from an apply URL, or drop the company. |
 | "run FAILED" push | Unhandled exception; the Actions log has the traceback. |
@@ -202,7 +217,7 @@ config/companies.yaml     the watchlist (generated + verified)
 joboS/adapters/           one module per ATS + the aggregator feeds
 joboS/relevance.py        title -> level/field/channel
 joboS/state.py            seen store, the anti-duplicate-ping layer
-joboS/notify.py           ntfy + Discord/Pushover/SMTP backends
+joboS/notify.py           SMTP email + ntfy/Discord/Pushover, fanned out
 joboS/poll.py             the run: fetch -> filter -> notify -> record
 joboS/finder.py           weekly watchlist discovery, opens a PR
 joboS/smoke.py            live board health table

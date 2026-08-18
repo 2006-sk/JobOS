@@ -59,6 +59,14 @@ jobs:
       - name: Poll
         id: poll
         env:
+          # Email is the configured channel. NTFY_* are left wired but unset --
+          # every configured channel is used, so adding a topic later turns on
+          # push alongside email without touching this file.
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          SMTP_TO: ${{ secrets.SMTP_TO }}
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           NTFY_SERVER: ${{ secrets.NTFY_SERVER }}
         run: |
@@ -102,11 +110,40 @@ jobs:
         # it while it silently reports nothing.
         if: failure()
         env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          SMTP_TO: ${{ secrets.SMTP_TO }}
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
         run: |
+          # Stdlib only, and deliberately NOT importing joboS: the most likely
+          # reason we are in this step is that dependency install or an import
+          # failed, and an alerter that needs the broken thing cannot report it.
+          python - <<'PY' || true
+          import os, smtplib
+          from email.message import EmailMessage
+          host, user = os.environ.get("SMTP_HOST"), os.environ.get("SMTP_USER")
+          pw, to = os.environ.get("SMTP_PASS"), os.environ.get("SMTP_TO")
+          if not all((host, user, pw, to)):
+              raise SystemExit("no SMTP config; cannot send failure alert")
+          msg = EmailMessage()
+          msg["Subject"] = "JobOS poll FAILED"
+          msg["From"], msg["To"] = user, to
+          msg.set_content(
+              "The JobOS poll workflow failed, so no job alerts were sent this "
+              f"cycle.\n\nRun log: {os.environ.get('RUN_URL', '')}\n"
+          )
+          with smtplib.SMTP(host, int(os.environ.get("SMTP_PORT") or 587), timeout=20) as s:
+              s.starttls()
+              s.login(user, pw)
+              s.send_message(msg)
+          print("failure alert emailed")
+          PY
           if [ -n "$NTFY_TOPIC" ]; then
             curl -s -H "Title: JobOS poll FAILED" -H "Priority: high" -H "Tags: warning" \
-              -d "The poll workflow failed. Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" \
+              -d "The poll workflow failed. Run: $RUN_URL" \
               "https://ntfy.sh/$NTFY_TOPIC" || true
           fi
 
@@ -130,6 +167,13 @@ jobs:
 
       - name: Send digest at 09:00 UTC only
         env:
+          # Must mirror the poll job's credentials, or the daily digest
+          # silently falls back to dry-run and you never receive it.
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          SMTP_TO: ${{ secrets.SMTP_TO }}
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
         run: |
           # The poll job runs every 30 minutes; the digest should fire once a

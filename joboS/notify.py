@@ -184,23 +184,70 @@ class DryRunNotifier:
         return True
 
 
+class MultiNotifier:
+    """Send through every configured channel.
+
+    Reports success if AT LEAST ONE channel delivered. That threshold is
+    deliberate: `poll.py` only records a role as seen when this returns True, so
+    requiring every channel to succeed would mean a single flaky one re-sends the
+    same roles through the healthy channels on every run until it recovers.
+    One delivered message means you have been told, which is the thing that
+    matters.
+    """
+
+    def __init__(self, backends: Sequence[Notifier]) -> None:
+        self.backends = list(backends)
+        self.name = "+".join(b.name for b in self.backends)
+
+    def send(self, title: str, body: str, *, priority: str = "default",
+             tags: Sequence[str] = ()) -> bool:
+        delivered = False
+        for backend in self.backends:
+            try:
+                if backend.send(title, body, priority=priority, tags=tags):
+                    delivered = True
+                else:
+                    log.error("channel %s failed to deliver", backend.name)
+            except Exception:  # noqa: BLE001 -- one bad channel must not sink the rest
+                log.exception("channel %s raised", backend.name)
+        return delivered
+
+
 def build_notifier(dry_run: bool = False) -> Notifier:
-    """Pick a backend from the environment. ntfy is the default."""
+    """Build a notifier from the environment.
+
+    Every configured channel is used, not just the first one found. Returning
+    early on the first match meant that setting NTFY_TOPIC silently disabled a
+    fully-configured email backend -- you would set up email, see nothing arrive,
+    and have no error to explain why.
+    """
     if dry_run:
         return DryRunNotifier()
+
+    backends: list[Notifier] = []
     if topic := os.environ.get("NTFY_TOPIC"):
-        return NtfyNotifier(topic, os.environ.get("NTFY_SERVER", "https://ntfy.sh"))
-    if hook := os.environ.get("DISCORD_WEBHOOK"):
-        return DiscordNotifier(hook)
-    if (tok := os.environ.get("PUSHOVER_TOKEN")) and (usr := os.environ.get("PUSHOVER_USER")):
-        return PushoverNotifier(tok, usr)
-    if all(os.environ.get(k) for k in ("SMTP_HOST", "SMTP_USER", "SMTP_PASS", "SMTP_TO")):
-        return SMTPNotifier(
-            os.environ["SMTP_HOST"], int(os.environ.get("SMTP_PORT", "587")),
-            os.environ["SMTP_USER"], os.environ["SMTP_PASS"], os.environ["SMTP_TO"],
+        backends.append(
+            NtfyNotifier(topic, os.environ.get("NTFY_SERVER", "https://ntfy.sh"))
         )
-    log.warning("no notifier configured (set NTFY_TOPIC); falling back to dry-run")
-    return DryRunNotifier()
+    if hook := os.environ.get("DISCORD_WEBHOOK"):
+        backends.append(DiscordNotifier(hook))
+    if (tok := os.environ.get("PUSHOVER_TOKEN")) and (usr := os.environ.get("PUSHOVER_USER")):
+        backends.append(PushoverNotifier(tok, usr))
+    if all(os.environ.get(k) for k in ("SMTP_HOST", "SMTP_USER", "SMTP_PASS", "SMTP_TO")):
+        backends.append(
+            SMTPNotifier(
+                os.environ["SMTP_HOST"], int(os.environ.get("SMTP_PORT", "587")),
+                os.environ["SMTP_USER"], os.environ["SMTP_PASS"], os.environ["SMTP_TO"],
+            )
+        )
+
+    if not backends:
+        log.warning("no notifier configured (set NTFY_TOPIC and/or SMTP_*); "
+                    "falling back to dry-run")
+        return DryRunNotifier()
+    if len(backends) == 1:
+        return backends[0]
+    return MultiNotifier(backends)
 
 
 def _ascii(text: str) -> str:
