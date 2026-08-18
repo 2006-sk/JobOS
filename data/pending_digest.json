@@ -366,5 +366,28 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR106564",
+   "company": "Micron",
+   "title": "New College Grad - Design Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/San-Jose-CA/Senior-Design-Engineer_JR106564",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1787093732,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
