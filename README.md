@@ -2,7 +2,7 @@
 
 A job-posting monitor that runs entirely on GitHub Actions. It polls company
 career-page APIs directly, filters for new-grad and internship roles in software
-and adjacent fields, and pushes to your phone within ~30 minutes of a posting
+and adjacent fields, and emails you within ~30 minutes of a posting
 going live.
 
 It runs on Actions rather than a laptop because a laptop scheduler only fires
@@ -15,8 +15,8 @@ applying within hours.
 
 ```
 config/companies.yaml ──► adapters (5 ATSes) ─┐
-                                              ├──► relevance.py ──► state.py ──► notify.py ──► phone
-aggregator feeds (3) ─────────────────────────┘      (filter)      (dedupe)       (ntfy)
+                                              ├──► relevance.py ──► state.py ──► notify.py ──► inbox
+aggregator feeds (3) ─────────────────────────┘      (filter)      (dedupe)      (email)
 ```
 
 1. **Fetch** — 32 company boards across five ATSes, concurrently, 8 at a time.
@@ -25,7 +25,7 @@ aggregator feeds (3) ───────────────────�
    polling loop: a model call every 30 minutes would cost money and hallucinate
    listings, and the decision is a regex problem.
 3. **Dedupe** — `data/seen.json` records every id ever notified. New ids only.
-4. **Notify** — one push per run, not one per role.
+4. **Notify** — one message per run, not one per role.
 
 **Cron is best-effort.** GitHub delays scheduled workflows under load, sometimes
 by 10+ minutes. "Every 30 minutes" is a target, not a guarantee.
@@ -77,7 +77,7 @@ error means the credentials were rejected. **Check spam on the first one** — a
 new sender to a university mailbox often lands there once, and marking it
 "not spam" fixes it permanently.
 
-### 5. Let it run
+### 4. Let it run
 
 The first scheduled run auto-bootstraps: it records every currently-open role as
 seen and sends **zero** notifications. Without this you would get ~9,000 pings on
@@ -202,7 +202,7 @@ managerial titles (manager, director, VP) are unconditional drops.
 | No emails ever | Secrets missing, or Gmail rejected the App Password. Run the test notification and read the run log. |
 | First email never arrived | Check spam. A new sender to a `.edu` mailbox is often filed there once. |
 | `535 Username and Password not accepted` | Using a normal password, or a Workspace account with App Passwords disabled. Use a personal Gmail. |
-| Thousands of notifications | `seen.json` was deleted or emptied. Restore it from git history — do **not** let it run. |
+| Thousands of emails | `seen.json` was deleted or emptied. Restore it from git history — do **not** let it run. |
 | A board shows `404` in smoke | Token changed. Find the new one from an apply URL, or drop the company. |
 | "run FAILED" push | Unhandled exception; the Actions log has the traceback. |
 | Cron drifted | Expected. Actions schedules are best-effort. |

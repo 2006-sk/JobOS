@@ -184,6 +184,32 @@ class DryRunNotifier:
         return True
 
 
+class UnconfiguredNotifier:
+    """Used when no channel is configured. Always FAILS, deliberately.
+
+    The obvious alternative -- quietly falling back to dry-run -- is a trap.
+    DryRunNotifier reports success, `poll.py` records the roles as seen on a
+    truthy send, and they are never notified once real credentials appear. The
+    monitor looks healthy, commits state every 30 minutes, and silently eats
+    every matching job in the meantime.
+
+    Returning False keeps those roles unrecorded and makes the run exit
+    non-zero, so an unfinished setup is loud and self-correcting rather than an
+    invisible data-loss window.
+    """
+
+    name = "unconfigured"
+
+    def send(self, title: str, body: str, *, priority: str = "default",
+             tags: Sequence[str] = ()) -> bool:
+        log.error(
+            "NO NOTIFICATION CHANNEL CONFIGURED -- would have sent: %r. "
+            "Set the SMTP_* secrets (or NTFY_TOPIC). These roles are left "
+            "unrecorded and will be retried, so nothing is lost.", title
+        )
+        return False
+
+
 class MultiNotifier:
     """Send through every configured channel.
 
@@ -242,9 +268,7 @@ def build_notifier(dry_run: bool = False) -> Notifier:
         )
 
     if not backends:
-        log.warning("no notifier configured (set NTFY_TOPIC and/or SMTP_*); "
-                    "falling back to dry-run")
-        return DryRunNotifier()
+        return UnconfiguredNotifier()
     if len(backends) == 1:
         return backends[0]
     return MultiNotifier(backends)
