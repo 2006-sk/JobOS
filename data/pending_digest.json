@@ -228,5 +228,51 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR106821",
+   "company": "Micron",
+   "title": "New College Grad - Mixed Signal Design Engineer, HBM",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Richardson-TX/Staff-Physical-Design-Engineer--HBM_JR106821",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "posted_at": 1787067431,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:new-grad:6fc7e4af-87e1-4ae0-9903-2066010754a3",
+   "company": "Micron Technology",
+   "title": "Digital Design Engineer New Grad - Mixed Signal Design Engineer - HBM",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Staff-Physical-Design-Engineer--HBM_JR106821",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "posted_at": 1785715200,
+   "source_ats": "aggregator",
+   "board_token": "new-grad",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1787065941,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
