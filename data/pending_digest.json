@@ -274,5 +274,74 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR108061",
+   "company": "Micron",
+   "title": "DRAM Design Engineer (Intern)",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Jalisco-Mexico/DRAM-Design-Engineer--Intern-_JR108061",
+   "locations": [
+    "Jalisco, Mexico"
+   ],
+   "posted_at": 1787078781,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR108395",
+   "company": "Micron",
+   "title": "DRAM Design Engineer (Intern)",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Jalisco-Mexico/DRAM-Design-Engineer--Intern-_JR108395",
+   "locations": [
+    "Jalisco, Mexico"
+   ],
+   "posted_at": 1787078781,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR107487",
+   "company": "Micron",
+   "title": "Design Verification Engineer Intern",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Jalisco-Mexico/Design-Verification-Engineer-Intern_JR107487",
+   "locations": [
+    "Jalisco, Mexico"
+   ],
+   "posted_at": 1787078781,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
