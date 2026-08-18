@@ -343,5 +343,28 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "ashby:applied:4c3cd892-2ef0-40b6-877a-39540a224a5c",
+   "company": "Applied Intuition",
+   "title": "Hardware Integration Engineer - New Grad (December 2026)",
+   "url": "https://jobs.ashbyhq.com/applied/4c3cd892-2ef0-40b6-877a-39540a224a5c",
+   "locations": [
+    "Sunnyvale"
+   ],
+   "posted_at": 1787086608,
+   "source_ats": "ashby",
+   "board_token": "applied",
+   "employment_type": "Full-time",
+   "raw_category": "2027 New Grad",
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
