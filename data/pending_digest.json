@@ -113,5 +113,120 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "greenhouse:jumptrading:8003013",
+   "company": "Jump Trading",
+   "title": "Campus FPGA Engineer (Intern)",
+   "url": "https://www.jumptrading.com/hr/job?gh_jid=8003013",
+   "locations": [
+    "Chicago"
+   ],
+   "posted_at": 1783546573,
+   "source_ats": "greenhouse",
+   "board_token": "jumptrading",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1786165304,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:globalfoundries:External:JR-2604747",
+   "company": "GlobalFoundries",
+   "title": "Electrical Test Engineer, Wafer Test (2027 New College Graduate)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/USA---Vermont---Essex-Junction/Electrical-Test-Engineer--Wafer-Test--2027-New-College-Graduate-_JR-2604747",
+   "locations": [
+    "USA - Vermont - Essex Junction"
+   ],
+   "posted_at": 1787029426,
+   "source_ats": "workday",
+   "board_token": "globalfoundries:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:globalfoundries:External:JR-2604746",
+   "company": "GlobalFoundries",
+   "title": "Process Engineer, Contamination Free Manufacturing (2027 New College Graduate)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/USA---Vermont---Essex-Junction/Process-Engineer--Contamination-Free-Manufacturing--2027-New-College-Graduate-_JR-2604746",
+   "locations": [
+    "USA - Vermont - Essex Junction"
+   ],
+   "posted_at": 1787029426,
+   "source_ats": "workday",
+   "board_token": "globalfoundries:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:9c12dcc7-3cb4-42ae-9f92-b25cd4e324c3",
+   "company": "Micron Technology",
+   "title": "DRAM Design Engineer Intern",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108458",
+   "locations": [
+    "Boise, ID"
+   ],
+   "posted_at": 1786924800,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1786974922,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:b6112e21-7193-4107-bf60-6a9ac74a7a62",
+   "company": "Rivian",
+   "title": "FPGA Design Intern - FPGA Design",
+   "url": "https://careers.rivian.com/jobs/32954?icims=1",
+   "locations": [
+    "Champaign, IL"
+   ],
+   "posted_at": 1786975587,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1786975776,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
