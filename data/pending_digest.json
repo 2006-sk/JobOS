@@ -619,5 +619,143 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:03f5f454-515c-41f5-b670-e30a0e59a27e",
+   "company": "NVIDIA",
+   "title": "Hardware ASIC Design Intern - Hardware",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1787097600,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1787132055,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:832f302a-8bc2-45f2-8ada-37a23bf080a7",
+   "company": "NVIDIA",
+   "title": "Hardware Engineering Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1787097600,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1787132054,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:26db23e0-d70f-49b8-ab98-f6c54330d92b",
+   "company": "NVIDIA",
+   "title": "Hardware Physical Design / VLSI Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1787097600,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1787132049,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:60fd19b0-17cd-4cb7-8cf0-99bd3743c1c9",
+   "company": "NVIDIA",
+   "title": "Hardware Verification Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1787097600,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1787132048,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:194ec80b-618d-4a9c-a170-c88f9e6fb8ca",
+   "company": "NVIDIA",
+   "title": "Ph.D. Research Hardware Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Hardware_JR2023855",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1787097600,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1787132048,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:c61cdf4f-3d6a-41b3-90d6-c83ad103fffd",
+   "company": "NVIDIA",
+   "title": "Hardware Design for Test Intern - DFT",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Design-for-Test--DFT-_JR2023487-1",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1787097600,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1787132048,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
