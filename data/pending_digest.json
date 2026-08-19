@@ -803,5 +803,97 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:globalfoundries:External:JR-2604772",
+   "company": "GlobalFoundries",
+   "title": "Advanced Manufacturing Process Engineer (2027 New College Graduate)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/USA---New-York---Malta/Advanced-Manufacturing-Process-Engineer--2027-New-College-Graduate-_JR-2604772",
+   "locations": [
+    "USA - New York - Malta"
+   ],
+   "posted_at": 1787182073,
+   "source_ats": "workday",
+   "board_token": "globalfoundries:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:globalfoundries:External:JR-2604771",
+   "company": "GlobalFoundries",
+   "title": "Advanced Manufacturing Process Engineer (2027 New College Graduate)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/USA---New-York---Malta/Advanced-Manufacturing-Process-Engineer--2027-New-College-Graduate-_JR-2604771",
+   "locations": [
+    "USA - New York - Malta"
+   ],
+   "posted_at": 1787182073,
+   "source_ats": "workday",
+   "board_token": "globalfoundries:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:globalfoundries:External:JR-2604722",
+   "company": "GlobalFoundries",
+   "title": "Advanced Manufacturing Process Engineer (2027 New College Graduate)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/USA---New-York---Malta/Advanced-Manufacturing-Process-Engineer--2027-New-College-Graduate-_JR-2604722",
+   "locations": [
+    "USA - New York - Malta"
+   ],
+   "posted_at": 1787182073,
+   "source_ats": "workday",
+   "board_token": "globalfoundries:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:globalfoundries:External:JR-2604721",
+   "company": "GlobalFoundries",
+   "title": "Advanced Manufacturing Process Engineer (2027 New College Graduate)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/USA---New-York---Malta/Advanced-Manufacturing-Process-Engineer--2027-New-College-Graduate-_JR-2604721",
+   "locations": [
+    "USA - New York - Malta"
+   ],
+   "posted_at": 1787182073,
+   "source_ats": "workday",
+   "board_token": "globalfoundries:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
