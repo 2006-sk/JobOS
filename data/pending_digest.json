@@ -780,5 +780,28 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2625917",
+   "company": "Applied Materials",
+   "title": "Mechanical Engineer New College Graduate- Bachelor's (Santa Clara, CA)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/Mechanical-Engineer-New-College-Graduate_R2625917",
+   "locations": [
+    "Santa Clara,CA"
+   ],
+   "posted_at": 1787178630,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
