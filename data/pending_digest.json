@@ -941,5 +941,51 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR109290",
+   "company": "Micron",
+   "title": "Intern - HBM SoC RTL Design Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Folsom-CA/Intern---HBM-SoC-RTL-Design-Engineer_JR109290",
+   "locations": [
+    "Folsom, CA"
+   ],
+   "posted_at": 1787261592,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR108464",
+   "company": "Micron",
+   "title": "Intern - Photomask Wet Process Engineering",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---Main-Site/Intern---Photomask-Wet-Process-Engineering_JR108464",
+   "locations": [
+    "Boise, ID - Main Site"
+   ],
+   "posted_at": 1787261592,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
