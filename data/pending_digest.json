@@ -21,5 +21,26 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:analogdevices:External:R265297",
+   "company": "Analog Devices",
+   "title": "Analog Design Engineer Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/job/US-MA-Wilmington/Analog-Design-Engineer-Intern_R265297",
+   "locations": [],
+   "posted_at": 1787337861,
+   "source_ats": "workday",
+   "board_token": "analogdevices:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
