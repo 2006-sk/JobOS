@@ -42,5 +42,28 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:new-grad:158354ff-729f-4923-845b-d4f59eea424f",
+   "company": "Micron Technology",
+   "title": "Design for Test Engineer New Grad - HBM",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---Engineer---HBM-Design-for-Test--DFT-_JR109696",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "posted_at": 1787270400,
+   "source_ats": "aggregator",
+   "board_token": "new-grad",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1787352680,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
