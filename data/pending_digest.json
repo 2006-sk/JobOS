@@ -1,1 +1,25 @@
-[]
+[
+ {
+  "listing": {
+   "id": "workday:analogdevices:External:R265309",
+   "company": "Analog Devices",
+   "title": "FY27  Engineering Intern \u2013 Hardware, Software & Systems",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/job/Spain-Valencia-Cortes-Valencianas/FY27--Engineering-Intern---Hardware--Software---Systems_R265309",
+   "locations": [
+    "Spain, Valencia, Cortes Valencianas"
+   ],
+   "posted_at": 1787306546,
+   "source_ats": "workday",
+   "board_token": "analogdevices:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ }
+]
