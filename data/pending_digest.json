@@ -987,5 +987,28 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:afa64b8c-e29c-4c0b-bc7d-fbca02771094",
+   "company": "Micron Technology",
+   "title": "SoC RTL Design Engineer Intern - HBM",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---HBM-SoC-RTL-Design-Engineer_JR109290",
+   "locations": [
+    "Folsom, CA"
+   ],
+   "posted_at": 1787184000,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1787275280,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
