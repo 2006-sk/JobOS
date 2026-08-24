@@ -190,6 +190,65 @@ companies:
     token: "WesternDigital"
 
 # ---------------------------------------------------------------------------
+
+  - company: "Capital One"
+    tier: "unranked"
+    ats: workday
+    token: "capitalone"
+    site: "Capital_One"
+    host: "capitalone.wd12.myworkdayjobs.com"
+
+  - company: "Copart"
+    tier: "unranked"
+    ats: workday
+    token: "copart"
+    site: "copart"
+    host: "copart.wd12.myworkdayjobs.com"
+
+  - company: "Notion"
+    tier: "unranked"
+    ats: ashby
+    token: "notion"
+
+  - company: "TransMarket Group"
+    tier: "unranked"
+    ats: greenhouse
+    token: "transmarketgroup"
+
+  - company: "Ciena"
+    tier: "unranked"
+    ats: workday
+    token: "ciena"
+    site: "Careers"
+    host: "ciena.wd5.myworkdayjobs.com"
+
+  - company: "NXP Semiconductors"
+    tier: "unranked"
+    ats: workday
+    token: "nxp"
+    site: "careers"
+    host: "nxp.wd3.myworkdayjobs.com"
+
+  - company: "Bot Auto"
+    tier: "unranked"
+    ats: greenhouse
+    token: "botauto"
+
+  - company: "Melius"
+    tier: "unranked"
+    ats: ashby
+    token: "melius"
+
+  - company: "Maven Securities"
+    tier: "unranked"
+    ats: greenhouse
+    token: "mavensecuritiesholdingltd"
+
+  - company: "Persona AI"
+    tier: "unranked"
+    ats: ashby
+    token: "persona.ai"
+
 # UNRESOLVED -- no public job-board API we can reach.
 #
 # These run proprietary career sites (Apple, Google, Amazon, Microsoft,
