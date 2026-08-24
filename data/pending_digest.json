@@ -178,5 +178,28 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR93183",
+   "company": "Micron",
+   "title": "New College Grad - Memory Design Engineer, HBM",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Richardson-TX/New-College-Grad---Memory-Design-Engineer--HBM_JR93183-1",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "posted_at": 1787594372,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
