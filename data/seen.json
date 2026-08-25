@@ -1,6 +1,6 @@
 {
  "version": 1,
- "count": 12528,
+ "count": 12530,
  "entries": {
   "aggregator:new-grad:00592559-74bf-4659-b573-2b630465cfc8": 1786971939,
   "aggregator:new-grad:03846952-d653-4d85-82ca-f4d9b87f6a53": 1786971939,
@@ -12026,6 +12026,7 @@
   "workday:nvidia:NVIDIAExternalCareerSite:JR2023307": 1786971939,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2023310": 1787115861,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2023311": 1787029430,
+  "workday:nvidia:NVIDIAExternalCareerSite:JR2023314": 1787702075,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2023320": 1787540994,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2023337": 1786971939,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2023339": 1786971939,
@@ -12215,6 +12216,7 @@
   "workday:nvidia:NVIDIAExternalCareerSite:JR2024260": 1787627104,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2024266": 1787614022,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2024270": 1787615438,
+  "workday:nvidia:NVIDIAExternalCareerSite:JR2024352": 1787702075,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2024363": 1787690195,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2024374": 1787697204,
   "workday:paloaltonetworks:panwexternalcareers:JR-003392": 1786971939,
