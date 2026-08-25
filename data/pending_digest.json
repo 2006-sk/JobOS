@@ -1,1 +1,71 @@
-[]
+[
+ {
+  "listing": {
+   "id": "aggregator:summer2027:aacc4ee3-09a8-40e8-99a0-5bc47790fe52",
+   "company": "Cadence Design Systems",
+   "title": "Product Engineering Intern - Electronics Hardware Design",
+   "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-1",
+   "locations": [
+    "Burlington, MA"
+   ],
+   "posted_at": 1787616000,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Software",
+   "first_seen_at": null,
+   "updated_at": 1787655703,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:2ced41cc-c8cf-41e5-ae1d-1ded73852520",
+   "company": "Cadence Design Systems",
+   "title": "Product Engineering Intern - Electronics Hardware Design",
+   "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158",
+   "locations": [
+    "Burlington, MA"
+   ],
+   "posted_at": 1787616000,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Software",
+   "first_seen_at": null,
+   "updated_at": 1787655441,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:2601d254-0c81-443b-b1ca-3c2293da624a",
+   "company": "Cadence Design Systems",
+   "title": "Product Engineering Intern - Electronics Hardware Design",
+   "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-2",
+   "locations": [
+    "Burlington, MA"
+   ],
+   "posted_at": 1787616000,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Software",
+   "first_seen_at": null,
+   "updated_at": 1787655441,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ }
+]
