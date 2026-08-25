@@ -224,5 +224,51 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "ashby:applied:c222bb2f-893d-455b-8dd2-f585205632e4",
+   "company": "Applied Intuition",
+   "title": "UX Test Engineer - New Grad (December 2026)",
+   "url": "https://jobs.ashbyhq.com/applied/c222bb2f-893d-455b-8dd2-f585205632e4",
+   "locations": [
+    "Sunnyvale"
+   ],
+   "posted_at": 1787620189,
+   "source_ats": "ashby",
+   "board_token": "applied",
+   "employment_type": "Full-time",
+   "raw_category": "2027 New Grad",
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "ashby:applied:e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95",
+   "company": "Applied Intuition",
+   "title": "OTA/Cloud Validation Engineer - New Grad (December 2026)",
+   "url": "https://jobs.ashbyhq.com/applied/e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95",
+   "locations": [
+    "Sunnyvale"
+   ],
+   "posted_at": 1787620273,
+   "source_ats": "ashby",
+   "board_token": "applied",
+   "employment_type": "Full-time",
+   "raw_category": "2027 New Grad",
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
