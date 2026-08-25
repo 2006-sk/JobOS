@@ -385,5 +385,29 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "smartrecruiters:WesternDigital:744000145431699",
+   "company": "Western Digital",
+   "title": "Intern - Process Engineer",
+   "url": "https://jobs.smartrecruiters.com/WesternDigital/744000145431699",
+   "locations": [
+    "Johor, , Malaysia",
+    "Johor"
+   ],
+   "posted_at": 1787640776,
+   "source_ats": "smartrecruiters",
+   "board_token": "WesternDigital",
+   "employment_type": "Intern",
+   "raw_category": "Engineering",
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
