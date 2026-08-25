@@ -316,5 +316,74 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR108533",
+   "company": "Micron",
+   "title": "Intern - Digital IP Design Engineer, DRAM",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---Main-Site/Intern---Digital-IP-Design-Engineer--DRAM_JR108533",
+   "locations": [
+    "Boise, ID - Main Site"
+   ],
+   "posted_at": 1787631017,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2023920",
+   "company": "NVIDIA",
+   "title": "ASIC Engineering Intern, Networking Chip Design - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/ASIC-Engineering-Intern--Networking-Chip-Design---2027_JR2023920-1",
+   "locations": [
+    "China, Shanghai"
+   ],
+   "posted_at": 1787631018,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2626574",
+   "company": "Applied Materials",
+   "title": "Process Engineer Intern",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/SingaporeSGP/Process-Engineer-Intern_R2626574",
+   "locations": [
+    "Singapore,SGP"
+   ],
+   "posted_at": 1787631019,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
