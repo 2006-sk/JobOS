@@ -67,5 +67,120 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR109568",
+   "company": "Micron",
+   "title": "New College Grad - RAM Shift Process Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Manassas-VA----Fab-6/New-College-Grad---RAM-Shift-Process-Engineer_JR109568",
+   "locations": [
+    "Manassas, VA -  Fab 6"
+   ],
+   "posted_at": 1787690131,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR109571",
+   "company": "Micron",
+   "title": "New College Grad - RAM Shift Process Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Manassas-VA----Fab-6/New-College-Grad---RAM-Shift-Process-Engineer_JR109571",
+   "locations": [
+    "Manassas, VA -  Fab 6"
+   ],
+   "posted_at": 1787690131,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR109567",
+   "company": "Micron",
+   "title": "New College Grad - RAM Shift Process Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Manassas-VA----Fab-6/New-College-Grad---RAM-Shift-Process-Engineer_JR109567",
+   "locations": [
+    "Manassas, VA -  Fab 6"
+   ],
+   "posted_at": 1787690131,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR109569",
+   "company": "Micron",
+   "title": "New College Grad - RAM Shift Process Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Manassas-VA----Fab-6/New-College-Grad---RAM-Shift-Process-Engineer_JR109569",
+   "locations": [
+    "Manassas, VA -  Fab 6"
+   ],
+   "posted_at": 1787690131,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2011631",
+   "company": "NVIDIA",
+   "title": "Cell Modeling and Verification Engineer - New College Grad 2026",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Cell-Modelling-and-Verification-Engineer---New-College-Grad-2026_JR2011631",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "posted_at": 1787690132,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
