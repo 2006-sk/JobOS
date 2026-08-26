@@ -1,1 +1,25 @@
-[]
+[
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2023644",
+   "company": "NVIDIA",
+   "title": "System Design Validation Engineer (RDSS Intern)",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/System-Design-Validation-Engineer--RDSS-Intern-_JR2023644",
+   "locations": [
+    "Taiwan, Taipei"
+   ],
+   "posted_at": 1787742192,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ }
+]
