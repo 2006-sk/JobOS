@@ -67,5 +67,28 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:new-grad:7a614b8e-eeeb-467f-a654-af659a1021c7",
+   "company": "Micron Technology",
+   "title": "Electrical Engineer New Grad - DRAM Design Engineering",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---DRAM-Design-Engineer_JR109572",
+   "locations": [
+    "Boise, ID"
+   ],
+   "posted_at": 1787702400,
+   "source_ats": "aggregator",
+   "board_token": "new-grad",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1787763895,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
