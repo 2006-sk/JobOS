@@ -90,5 +90,28 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2627312",
+   "company": "Applied Materials",
+   "title": "2026 NCG - Process Engineer III - Doctorate",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/XMLNAME-2026-NCG---Process-Engineer-III---Doctorate_R2627312",
+   "locations": [
+    "Santa Clara,CA"
+   ],
+   "posted_at": 1787790985,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
