@@ -113,5 +113,51 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:globalfoundries:External:JR-2604277",
+   "company": "GlobalFoundries",
+   "title": "Technology Development Engineer Intern (Silicon Photonics) (Jan-Jun 2027)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/SGP---Science-Park/Technology-Development-Engineer-Intern--Silicon-Photonics---Jan-Jun-2027-_JR-2604277-1",
+   "locations": [
+    "SGP - Science Park"
+   ],
+   "posted_at": 1787742260,
+   "source_ats": "workday",
+   "board_token": "globalfoundries:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:globalfoundries:External:JR-2604281",
+   "company": "GlobalFoundries",
+   "title": "Technology Development Engineer Intern (Silicon Photonics) (Jan-Jun 2027)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/SGP---Science-Park/Technology-Development-Engineer-Intern--Silicon-Photonics---Jan-Jun-2027-_JR-2604281",
+   "locations": [
+    "SGP - Science Park"
+   ],
+   "posted_at": 1787742260,
+   "source_ats": "workday",
+   "board_token": "globalfoundries:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
