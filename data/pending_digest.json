@@ -297,5 +297,26 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2626998",
+   "company": "Applied Materials",
+   "title": "Mechanical Engineer (Intern)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/FagareITA/Mechanical-Engineer--Intern-_R2626998",
+   "locations": [],
+   "posted_at": 1787941653,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
