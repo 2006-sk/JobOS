@@ -342,5 +342,28 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:1de737c5-bccf-4549-af82-84d6fcf7cb26",
+   "company": "Cadence Design Systems",
+   "title": "Post-Silicon Validation Engineering Intern - Characterization and Support",
+   "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Intern---Characterization-and-Support--Fall-2026-_R56108-2",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1787875200,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1788022030,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
