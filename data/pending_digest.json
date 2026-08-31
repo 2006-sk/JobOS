@@ -664,5 +664,143 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR107194",
+   "company": "Micron",
+   "title": "New College Grad - Dry Etch Process Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---ID1/New-College-Grad---Dry-Etch-Process-Engineer_JR107194",
+   "locations": [
+    "Boise, ID - ID1"
+   ],
+   "posted_at": 1788218270,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2024651",
+   "company": "NVIDIA",
+   "title": "ASIC Floorplan Design Engineer - New College Grad 2026",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2024651",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "posted_at": 1788218272,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2627689",
+   "company": "Applied Materials",
+   "title": "Electrical Engineer New College Grad - BS/MS Degree (Santa Clara, CA)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/Electrical-Engineer-New-College-Grad---BS-MS-Degree--Santa-Clara--CA-_R2627689",
+   "locations": [
+    "Santa Clara,CA"
+   ],
+   "posted_at": 1788218274,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2627688",
+   "company": "Applied Materials",
+   "title": "Mechanical Engineer New College Grad - BS/MS Degree (Santa Clara, CA)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/Mechanical-Engineer-New-College-Grad---BS-MS-Degree--Santa-Clara--CA-_R2627688",
+   "locations": [
+    "Santa Clara,CA"
+   ],
+   "posted_at": 1788218274,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2627687",
+   "company": "Applied Materials",
+   "title": "Process Engineer New College Grad - BS/MS Degree (Santa Clara, CA)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/Process-Engineer-New-College-Grad---BS-MS-Degree--Santa-Clara--CA-_R2627687-1",
+   "locations": [
+    "Santa Clara,CA"
+   ],
+   "posted_at": 1788218274,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:new-grad:ea3f3cbc-74b2-495a-b20d-db469c9ce81e",
+   "company": "NVIDIA",
+   "title": "ASIC Floorplan Design Engineer New Grad",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2024651",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1788134400,
+   "source_ats": "aggregator",
+   "board_token": "new-grad",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1788215197,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
