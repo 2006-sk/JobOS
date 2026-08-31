@@ -641,5 +641,28 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR109884",
+   "company": "Micron",
+   "title": "Intern - Chemical Mechanical Planarization Process Engineering",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Fab-10NX-Singapore/Intern---Chemical-Mechanical-Planarization-Process-Engineering_JR109884",
+   "locations": [
+    "Fab 10N/X, Singapore"
+   ],
+   "posted_at": 1788175921,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
