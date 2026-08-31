@@ -503,5 +503,143 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "greenhouse:samsara:8163118",
+   "company": "Samsara",
+   "title": "Electrical Engineering Co-Op",
+   "url": "https://www.samsara.com/company/careers/roles/8163118?gh_jid=8163118",
+   "locations": [
+    "San Francisco - SF9"
+   ],
+   "posted_at": 1788150282,
+   "source_ats": "greenhouse",
+   "board_token": "samsara",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1788150282,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2626437",
+   "company": "Applied Materials",
+   "title": "Process Engineering Intern (Hybrid Bonding)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/SingaporeSGP/Process-Engineering-Intern--Hybrid-Bonding-_R2626437",
+   "locations": [
+    "Singapore,SGP"
+   ],
+   "posted_at": 1788152237,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2626901",
+   "company": "Applied Materials",
+   "title": "Technology Development Engineer \u2013 Hybrid Bonding & Advanced Packaging (Internship)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/SingaporeSGP/Technology-Development-Engineer---Hybrid-Bonding---Advanced-Packaging--Internship-_R2626901",
+   "locations": [
+    "Singapore,SGP"
+   ],
+   "posted_at": 1788152237,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2627094",
+   "company": "Applied Materials",
+   "title": "College Intern (Hardware)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/SingaporeSGP/College-Intern--Hardware-_R2627094",
+   "locations": [
+    "Singapore,SGP"
+   ],
+   "posted_at": 1788152237,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2627095",
+   "company": "Applied Materials",
+   "title": "College Intern (Hardware)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/SingaporeSGP/College-Intern--Hardware-_R2627095",
+   "locations": [
+    "Singapore,SGP"
+   ],
+   "posted_at": 1788152237,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2626530",
+   "company": "Applied Materials",
+   "title": "Process Engineer Internship: Enhancing CVD process efficiency and film quality through systematic recipe optimization",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/SingaporeSGP/Process-Engineer-Internship--Enhancing-CVD-process-efficiency-and-film-quality-through-systematic-recipe-optimization_R2626530",
+   "locations": [
+    "Singapore,SGP"
+   ],
+   "posted_at": 1788152237,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
