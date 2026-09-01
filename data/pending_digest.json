@@ -984,5 +984,28 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:new-grad:b670db2d-c732-42ce-9b3c-0ba2e7ebe208",
+   "company": "Micron Technology",
+   "title": "Digital Design Engineer New Grad - Mixed Signal Design Engineer - HBM",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---Mixed-Signal-Design-Engineer--HBM_JR110753",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "posted_at": 1788220800,
+   "source_ats": "aggregator",
+   "board_token": "new-grad",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1788286180,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
