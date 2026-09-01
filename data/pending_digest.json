@@ -915,5 +915,74 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR89035",
+   "company": "Micron",
+   "title": "New College Grad - Shift Process Engineer ID1",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---ID1/Engineer--Shift-Process_JR89035",
+   "locations": [
+    "Boise, ID - ID1"
+   ],
+   "posted_at": 1788283474,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR110753",
+   "company": "Micron",
+   "title": "New College Grad - Mixed Signal Design Engineer, HBM",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Richardson-TX/New-College-Grad---Mixed-Signal-Design-Engineer--HBM_JR110753",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "posted_at": 1788283474,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:globalfoundries:External:JR-2604138",
+   "company": "GlobalFoundries",
+   "title": "CPU Design Verification Engineer (2027 New College Graduate)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/USA---Texas---Richardson/CPU-Design-Verification-Engineer--2027-New-College-Graduate-_JR-2604138",
+   "locations": [
+    "USA - Texas - Richardson"
+   ],
+   "posted_at": 1788283477,
+   "source_ats": "workday",
+   "board_token": "globalfoundries:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
