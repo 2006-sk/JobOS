@@ -825,5 +825,28 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:intel:External:JR0286607",
+   "company": "Intel",
+   "title": "Advanced Packaging Internship Program",
+   "url": "https://intel.wd1.myworkdayjobs.com/job/Malaysia-Kulim/Advanced-Packaging-Internship-Program_JR0286607",
+   "locations": [
+    "Malaysia, Kulim"
+   ],
+   "posted_at": 1788248590,
+   "source_ats": "workday",
+   "board_token": "intel:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
