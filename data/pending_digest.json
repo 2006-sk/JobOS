@@ -848,5 +848,72 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2024940",
+   "company": "NVIDIA",
+   "title": "Physical Design, VLSI - New College Grad 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Physical-Design--VLSI---New-College-Grad-2027_JR2024940",
+   "locations": [],
+   "posted_at": 1788268951,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2024822",
+   "company": "NVIDIA",
+   "title": "ASIC Design Engineer (RDSS Intern)",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Hsinchu/ASIC-Design-Engineer--RDSS-Intern-_JR2024822",
+   "locations": [
+    "Taiwan, Hsinchu"
+   ],
+   "posted_at": 1788268951,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2024681",
+   "company": "NVIDIA",
+   "title": "Design Verification Engineer (RDSS Intern)",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Hsinchu/Design-Verification-Engineer--RDSS-Intern-_JR2024681",
+   "locations": [
+    "Taiwan, Hsinchu"
+   ],
+   "posted_at": 1788268951,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
