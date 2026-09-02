@@ -1076,5 +1076,51 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:intel:External:JR0286731",
+   "company": "Intel",
+   "title": "Hardware Engineering Intern",
+   "url": "https://intel.wd1.myworkdayjobs.com/job/Ireland-Leixlip/Hardware-Engineering-Intern_JR0286731",
+   "locations": [
+    "Ireland, Leixlip"
+   ],
+   "posted_at": 1788346868,
+   "source_ats": "workday",
+   "board_token": "intel:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2627816",
+   "company": "Applied Materials",
+   "title": "R&D Process Engineer (Entry-level)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/SingaporeSGP/R-D-Process-Engineer--Entry-level-_R2627816",
+   "locations": [
+    "Singapore,SGP"
+   ],
+   "posted_at": 1788346871,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
