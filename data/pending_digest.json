@@ -1053,5 +1053,28 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR84517",
+   "company": "Micron",
+   "title": "New College Grad - ATE Process Engineer ID1",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---Main-Site/ATE-Process-Engineer-ID1_JR84517",
+   "locations": [
+    "Boise, ID - Main Site"
+   ],
+   "posted_at": 1788327511,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
