@@ -276,5 +276,28 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:14d3699d-c47b-49aa-a37d-92ba2f907b04",
+   "company": "Akuna Capital University",
+   "title": "Hardware Engineer Intern",
+   "url": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "posted_at": 1783980581,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1783982164,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
