@@ -1,1 +1,211 @@
-[]
+[
+ {
+  "listing": {
+   "id": "aggregator:new-grad:6c2fe943-5778-43b7-9845-06428b3eec92",
+   "company": "Micron Technology",
+   "title": "Design Engineer New Grad - Design Engineer - DRAM Technology and Products",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Design-Engineer--DRAM-Technology-and-Products_JR105519",
+   "locations": [
+    "Boise, ID"
+   ],
+   "posted_at": 1783555200,
+   "source_ats": "aggregator",
+   "board_token": "new-grad",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1783636672,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:new-grad:eae3b99e-8a7e-4960-9ce5-b8afaa1e5fce",
+   "company": "Anduril",
+   "title": "Early Career Electrical Engineer",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/4802172007",
+   "locations": [
+    "Fort Collins, CO",
+    "Costa Mesa, CA"
+   ],
+   "posted_at": 1777587051,
+   "source_ats": "aggregator",
+   "board_token": "new-grad",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1787649398,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:new-grad:ae6eb5ff-93c2-452f-bbef-228ba626267e",
+   "company": "SpaceX",
+   "title": "Electrical Engineer New Grad - Starlink",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8696469002",
+   "locations": [
+    "Bastrop, TX"
+   ],
+   "posted_at": 1786745892,
+   "source_ats": "aggregator",
+   "board_token": "new-grad",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1786746166,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:new-grad:26974045-db71-468b-954a-9e11ac55fb38",
+   "company": "SpaceX",
+   "title": "Electrical Engineer New Grad - Starlink",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8696490002",
+   "locations": [
+    "Redmond, WA"
+   ],
+   "posted_at": 1786745891,
+   "source_ats": "aggregator",
+   "board_token": "new-grad",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1786746165,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:new-grad:0af9fbff-d4af-4c25-99cb-b4793e64d117",
+   "company": "Applied Materials",
+   "title": "Electrical Engineer 1 New Grad - Engineer Development Rotation Program",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Engineer-Development-Rotation-Program---Electrical-Engineer-I-New-College-Grad---BS-or-MS--Gloucester--MA-_R2625757-1",
+   "locations": [
+    "Gloucester, MA"
+   ],
+   "posted_at": 1786665600,
+   "source_ats": "aggregator",
+   "board_token": "new-grad",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1786698585,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:new-grad:acdc834d-c47e-47e7-bef1-d25858f94848",
+   "company": "NVIDIA",
+   "title": "Circuit Design Engineer New Grad",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Circuit-Design-Engineer---New-College-Grad-2026_JR2018635",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1783160137,
+   "source_ats": "aggregator",
+   "board_token": "new-grad",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1784673515,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:new-grad:61c4ab4f-d4d9-4028-bd6b-e45e731dcfb2",
+   "company": "NVIDIA",
+   "title": "Circuit Design Engineer New Grad",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Circuit-Design-Engineer---New-College-Grad-2026_JR2019567",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1781953668,
+   "source_ats": "aggregator",
+   "board_token": "new-grad",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1784628766,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:7b4326db-4150-48f3-a6af-a5492b8a0b2a",
+   "company": "Analog Devices",
+   "title": "Analog Design Engineer Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Analog-Design-Engineer-Intern_R265297",
+   "locations": [
+    "Wilmington, MA",
+    "Durham, NC"
+   ],
+   "posted_at": 1787270400,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1787350502,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:06415fd2-4ba4-404c-994b-e4a1e06156fb",
+   "company": "Etched",
+   "title": "Signal Integrity / Power Integrity Intern",
+   "url": "https://jobs.ashbyhq.com/Etched/ce683632-421a-4ef9-8664-b253356969a3/application?embed=true",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1781082437,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1786004758,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ }
+]
