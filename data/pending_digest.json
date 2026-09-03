@@ -1187,5 +1187,90 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR105519",
+   "company": "Micron",
+   "title": "New College Grad - Design Engineer, DRAM Technology and Products",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---Main-Site/New-College-Grad---Design-Engineer--DRAM-Technology-and-Products_JR105519",
+   "locations": [
+    "Boise, ID - Main Site"
+   ],
+   "posted_at": 1788408596,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:new-grad:a3c338cc-d68e-48c8-a215-39d211fae7b6",
+   "company": "Anduril",
+   "title": "Early Career Electrical Engineer",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5136925007",
+   "locations": [
+    "Boston, MA",
+    "Seattle, WA",
+    "Irvine, CA",
+    "Colorado Springs, CO",
+    "Reston, VA",
+    "Fort Collins, CO",
+    "Broomfield, CO",
+    "Atlanta, GA",
+    "Costa Mesa, CA"
+   ],
+   "posted_at": 1781216095,
+   "source_ats": "aggregator",
+   "board_token": "new-grad",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1788403744,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:fa9fe56f-b359-4990-84d8-bf75393d78e5",
+   "company": "Anduril",
+   "title": "Electrical Engineer Intern",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148101007",
+   "locations": [
+    "Boston, MA",
+    "Seattle, WA",
+    "Irvine, CA",
+    "Colorado Springs, CO",
+    "Reston, VA",
+    "Fort Collins, CO",
+    "Broomfield, CO",
+    "Atlanta, GA",
+    "Costa Mesa, CA"
+   ],
+   "posted_at": 1781216095,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1788403809,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
