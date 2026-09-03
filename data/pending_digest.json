@@ -1272,5 +1272,174 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR94667",
+   "company": "Micron",
+   "title": "New College Grad - Design Engineer, Circuit Design",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/San-Jose-CA/Staff-Engineer--Circuit-Design_JR94667",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1788426405,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:new-grad:54cabb56-5337-4344-9f40-9ad54dc468b3",
+   "company": "Micron Technology",
+   "title": "Product Test Engineer New Grad",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Product-Test-Engineer_JR109985",
+   "locations": [
+    "Boise, ID"
+   ],
+   "posted_at": 1788048000,
+   "source_ats": "aggregator",
+   "board_token": "new-grad",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1788413227,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:new-grad:9bd9bb46-2f64-4736-aa7a-2b2095c05d99",
+   "company": "Micron Technology",
+   "title": "Electrical Design Engineer New Grad - Systems Integration Group",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---SIG-Building/New-College-Grad---ENGINEER--SIG-ELECTRICAL-DESIGN_JR109492",
+   "locations": [
+    "Boise, ID"
+   ],
+   "posted_at": 1787616000,
+   "source_ats": "aggregator",
+   "board_token": "new-grad",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1788424568,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:4ba241d0-99b3-4fa5-a8cc-38e1bc93ce59",
+   "company": "Intel",
+   "title": "Silicon Hardware Engineering Intern - Bachelor's",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Bachelor-s_JR0286829",
+   "locations": [
+    "Austin, TX",
+    "Santa Clara, CA",
+    "Hillsboro, OR",
+    "Folsom, CA",
+    "Phoenix, AZ"
+   ],
+   "posted_at": 1788307200,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1788414281,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:fbbaa89d-fca9-49aa-9d4a-14d71883ea4a",
+   "company": "Intel",
+   "title": "Silicon Hardware Engineering Intern - Graduate",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Graduate_JR0286830",
+   "locations": [
+    "Austin, TX",
+    "Santa Clara, CA",
+    "Hillsboro, OR",
+    "Folsom, CA",
+    "Phoenix, AZ"
+   ],
+   "posted_at": 1788307200,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1788414265,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:1fd9f3fb-b5dd-4e12-9bf7-6d3ff988d2c3",
+   "company": "Samsara",
+   "title": "Electrical Engineer Co-op",
+   "url": "https://www.samsara.com/company/careers/roles/8163118?gh_jid=8163118",
+   "locations": [
+    "SF"
+   ],
+   "posted_at": 1788152383,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1788413227,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:22e8ae7a-01f6-45a4-b1e6-5dbd92874d50",
+   "company": "Micron Technology",
+   "title": "Product Test Engineer Intern - DRAM",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/DRAM-Prodcut-Test-Engineer-Intern_JR109996",
+   "locations": [
+    "Boise, ID"
+   ],
+   "posted_at": 1788048000,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1788413227,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
