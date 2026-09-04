@@ -299,5 +299,28 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:intel:External:JR0283311",
+   "company": "Intel",
+   "title": "Design Verification Student Worker",
+   "url": "https://intel.wd1.myworkdayjobs.com/job/Mexico-Guadalajara/Design-Verification-Student-Worker_JR0283311",
+   "locations": [
+    "Mexico, Guadalajara"
+   ],
+   "posted_at": 1788503152,
+   "source_ats": "workday",
+   "board_token": "intel:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
