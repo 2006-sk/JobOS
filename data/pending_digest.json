@@ -414,5 +414,28 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2628093",
+   "company": "Applied Materials",
+   "title": "Summer 2027 Mechanical Engineer Intern- Bachelor's (Austin, TX)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/AustinTX/Summer-2027-Mechanical-Engineer-Intern--Bachelor-s--Austin--TX-_R2628093",
+   "locations": [
+    "Austin,TX"
+   ],
+   "posted_at": 1788565884,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
