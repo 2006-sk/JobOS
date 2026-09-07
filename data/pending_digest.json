@@ -460,5 +460,97 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:analogdevices:External:R264204",
+   "company": "Analog Devices",
+   "title": "IC Design Engineering Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/job/Turkey-Istanbul-Bilisim-Vadisi/IC-Design-Engineering-Intern_R264204",
+   "locations": [
+    "Turkey, Istanbul, Bilisim Vadisi"
+   ],
+   "posted_at": 1788787516,
+   "source_ats": "workday",
+   "board_token": "analogdevices:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2626935",
+   "company": "Applied Materials",
+   "title": "College Intern - Process & hardware development in PVD Al chambers for N3,N5 and more advanced nodes.",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/SingaporeSGP/College-Intern---Process---hardware-development-in-PVD-Al-chambers-for-N3-N5-and-more-advanced-nodes_R2626935",
+   "locations": [
+    "Singapore,SGP"
+   ],
+   "posted_at": 1788787519,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2626934",
+   "company": "Applied Materials",
+   "title": "College Intern - Process & hardware development in PVD chambers for new films: AlN as thermal interface material (TIM), SiN as photonic waveguide .",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/SingaporeSGP/College-Intern---Process---hardware-development-in-PVD-chambers-for-new-films--AlN-as-thermal-interface-material--TIM---SiN-as-photonic-waveguide-_R2626934",
+   "locations": [
+    "Singapore,SGP"
+   ],
+   "posted_at": 1788787519,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2626936",
+   "company": "Applied Materials",
+   "title": "College Intern - Process & product development in PVD chambers in Hybrid bonding for SOIC (advanced packaging)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/SingaporeSGP/College-Intern---Process---product-development-in-PVD-chambers-in-Hybrid-bonding-for-SOIC--advanced-packaging-_R2626936",
+   "locations": [
+    "Singapore,SGP"
+   ],
+   "posted_at": 1788787519,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
