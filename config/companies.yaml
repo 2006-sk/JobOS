@@ -190,6 +190,75 @@ companies:
     token: "WesternDigital"
 
 # ---------------------------------------------------------------------------
+
+  - company: "Marvell"
+    tier: "unranked"
+    ats: workday
+    token: "marvell"
+    site: "MarvellCareers"
+    host: "marvell.wd1.myworkdayjobs.com"
+
+  - company: "Royal Bank of Canada"
+    tier: "unranked"
+    ats: workday
+    token: "rbc"
+    site: "RBCEARLYTALENT1"
+    host: "rbc.wd3.myworkdayjobs.com"
+
+  - company: "Booz Allen"
+    tier: "unranked"
+    ats: workday
+    token: "bah"
+    site: "bah_jobs"
+    host: "bah.wd1.myworkdayjobs.com"
+
+  - company: "NXP Semiconductors"
+    tier: "unranked"
+    ats: workday
+    token: "nxp"
+    site: "careers"
+    host: "nxp.wd3.myworkdayjobs.com"
+
+  - company: "Bank of Montreal"
+    tier: "unranked"
+    ats: workday
+    token: "bmo"
+    site: "Privileged"
+    host: "bmo.wd3.myworkdayjobs.com"
+
+  - company: "RTX"
+    tier: "unranked"
+    ats: workday
+    token: "globalhr"
+    site: "Private_Posting_No_TMP"
+    host: "globalhr.wd5.myworkdayjobs.com"
+
+  - company: "Capital One"
+    tier: "unranked"
+    ats: workday
+    token: "capitalone"
+    site: "Capital_One"
+    host: "capitalone.wd12.myworkdayjobs.com"
+
+  - company: "Copart"
+    tier: "unranked"
+    ats: workday
+    token: "copart"
+    site: "copart"
+    host: "copart.wd12.myworkdayjobs.com"
+
+  - company: "Fab2"
+    tier: "unranked"
+    ats: ashby
+    token: "fab2"
+
+  - company: "CACI"
+    tier: "unranked"
+    ats: workday
+    token: "caci"
+    site: "external"
+    host: "caci.wd1.myworkdayjobs.com"
+
 # UNRESOLVED -- no public job-board API we can reach.
 #
 # These run proprietary career sites (Apple, Google, Amazon, Microsoft,
