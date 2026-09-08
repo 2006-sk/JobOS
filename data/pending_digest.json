@@ -552,5 +552,28 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR111318",
+   "company": "Micron",
+   "title": "Intern - STPG PE Firmware",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/MSB-Singapore/Intern---STPG-PE-FIrmware_JR111318",
+   "locations": [
+    "MSB, Singapore"
+   ],
+   "posted_at": 1788861620,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
