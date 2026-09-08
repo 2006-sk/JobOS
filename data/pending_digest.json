@@ -575,5 +575,30 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "ashby:rivianvw.tech:be70e02f-46d3-488e-b3c2-8dadc3bb34b8",
+   "company": "Rivian",
+   "title": "Electromechanical Design Engineering Intern (January - August 2027)",
+   "url": "https://jobs.ashbyhq.com/rivianvw.tech/be70e02f-46d3-488e-b3c2-8dadc3bb34b8",
+   "locations": [
+    "Irvine, California",
+    "Palo Alto, California",
+    "Remote"
+   ],
+   "posted_at": 1788888985,
+   "source_ats": "ashby",
+   "board_token": "rivianvw.tech",
+   "employment_type": "Intern",
+   "raw_category": "Technology and Innovation",
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
