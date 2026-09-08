@@ -600,5 +600,51 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR110781",
+   "company": "Micron",
+   "title": "New College Grad - HBM DIGITAL VERIFICATION ENGINEER",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Jalisco-Mexico/New-College-Grad---HBM-DIGITAL-VERIFICATION-ENGINEER_JR110781",
+   "locations": [
+    "Jalisco, Mexico"
+   ],
+   "posted_at": 1788902474,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR110780",
+   "company": "Micron",
+   "title": "New College Grad - HBM Digital Verification Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Jalisco-Mexico/New-College-Grad---HBM-Digital-Verification-Engineer_JR110780",
+   "locations": [
+    "Jalisco, Mexico"
+   ],
+   "posted_at": 1788902474,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
