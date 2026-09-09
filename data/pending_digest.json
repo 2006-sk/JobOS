@@ -44,5 +44,187 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "greenhouse:andurilindustries:5231555007",
+   "company": "Anduril Industries",
+   "title": "2027 Hardware Engineer Intern",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5231555007?gh_jid=5231555007",
+   "locations": [
+    "Dublin, Dublin, Ireland"
+   ],
+   "posted_at": 1788963912,
+   "source_ats": "greenhouse",
+   "board_token": "andurilindustries",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1788963912,
+   "sponsorship": null
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "greenhouse:andurilindustries:5232027007",
+   "company": "Anduril Industries",
+   "title": "2027 Mechanical Engineer Intern",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5232027007?gh_jid=5232027007",
+   "locations": [
+    "Dublin, Dublin, Ireland"
+   ],
+   "posted_at": 1788963744,
+   "source_ats": "greenhouse",
+   "board_token": "andurilindustries",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1788963744,
+   "sponsorship": null
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "greenhouse:andurilindustries:5231653007",
+   "company": "Anduril Industries",
+   "title": "2027 Quality & Test Engineer Intern",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5231653007?gh_jid=5231653007",
+   "locations": [
+    "Dublin, Dublin, Ireland"
+   ],
+   "posted_at": 1788963856,
+   "source_ats": "greenhouse",
+   "board_token": "andurilindustries",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1788963856,
+   "sponsorship": null
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "greenhouse:andurilindustries:5232025007",
+   "company": "Anduril Industries",
+   "title": "2027 Software Quality Assurance Intern",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5232025007?gh_jid=5232025007",
+   "locations": [
+    "Dublin, Dublin, Ireland"
+   ],
+   "posted_at": 1788963801,
+   "source_ats": "greenhouse",
+   "board_token": "andurilindustries",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1788963801,
+   "sponsorship": null
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "ashby:applied:e698dd47-7515-4c1c-a71d-dd7e33adfc78",
+   "company": "Applied Intuition",
+   "title": "Electrical Engineer - New Grad (December 2026)",
+   "url": "https://jobs.ashbyhq.com/applied/e698dd47-7515-4c1c-a71d-dd7e33adfc78",
+   "locations": [
+    "Sunnyvale"
+   ],
+   "posted_at": 1788975623,
+   "source_ats": "ashby",
+   "board_token": "applied",
+   "employment_type": "Full-time",
+   "raw_category": "2027 New Grad",
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR110662",
+   "company": "Micron",
+   "title": "New College Grad - Controls Design Engineering",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---SIG-Building/New-College-Grad---Controls-Design-Engineering_JR110662",
+   "locations": [
+    "Boise, ID - SIG Building"
+   ],
+   "posted_at": 1788975857,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:intel:External:JR0287009",
+   "company": "Intel",
+   "title": "Advanced Packaging Integration and Simulation Intern",
+   "url": "https://intel.wd1.myworkdayjobs.com/job/US-Arizona-Phoenix/Advanced-Packaging-Integration-and-Simulation-Intern_JR0287009",
+   "locations": [],
+   "posted_at": 1788975859,
+   "source_ats": "workday",
+   "board_token": "intel:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:441d92c8-bb63-49f4-94cb-afcd777fa84a",
+   "company": "Applied Materials",
+   "title": "Electrical Engineer Co-op",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Electrical-Engineer-Co-op-BS-or-MS--Gloucester--MA-_R2628288-1",
+   "locations": [
+    "Gloucester, MA"
+   ],
+   "posted_at": 1788912000,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1788965843,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
