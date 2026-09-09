@@ -646,5 +646,49 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "ashby:applied:6e57a97e-62bb-46fb-92ec-dd12831fd6f9",
+   "company": "Applied Intuition",
+   "title": "Mechanical Engineer - New Grad",
+   "url": "https://jobs.ashbyhq.com/applied/6e57a97e-62bb-46fb-92ec-dd12831fd6f9",
+   "locations": [
+    "Sunnyvale"
+   ],
+   "posted_at": 1788925999,
+   "source_ats": "ashby",
+   "board_token": "applied",
+   "employment_type": "Full-time",
+   "raw_category": "2027 New Grad",
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2025022",
+   "company": "NVIDIA",
+   "title": "Physical Design Intern, VLSI - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Beijing/Physical-Design-Intern--VLSI---2027_JR2025022-1",
+   "locations": [],
+   "posted_at": 1788927034,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
