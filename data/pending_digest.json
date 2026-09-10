@@ -226,5 +226,51 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2628366",
+   "company": "Applied Materials",
+   "title": "Process Engineer III New College Grad - Doctorate Degree (Santa Clara, CA)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/Process-Engineer-III-New-College-Grad---Doctorate-Degree--Santa-Clara--CA-_R2628366",
+   "locations": [
+    "Santa Clara,CA"
+   ],
+   "posted_at": 1789003301,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:new-grad:cc8f0398-e64f-4cfe-99a9-c684b6eeb34e",
+   "company": "Applied Intuition",
+   "title": "Electrical Engineer New Grad",
+   "url": "https://jobs.ashbyhq.com/applied/e698dd47-7515-4c1c-a71d-dd7e33adfc78/application?embed=true",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "posted_at": 1788993132,
+   "source_ats": "aggregator",
+   "board_token": "new-grad",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1788994418,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
