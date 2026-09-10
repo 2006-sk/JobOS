@@ -364,5 +364,28 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:new-grad:4ca513a9-c75f-4b24-b016-16df26b72782",
+   "company": "NVIDIA",
+   "title": "ASIC Design Engineer New Grad",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2017581",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1778105400,
+   "source_ats": "aggregator",
+   "board_token": "new-grad",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1778106272,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
