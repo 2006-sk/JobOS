@@ -318,5 +318,51 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR110885",
+   "company": "Micron",
+   "title": "New College Grad - FAB Process Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Manassas-VA----Fab-6/New-College-Grad---FAB-Process-Engineer_JR110885",
+   "locations": [
+    "Manassas, VA -  Fab 6"
+   ],
+   "posted_at": 1789076979,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2624055",
+   "company": "Applied Materials",
+   "title": "New College Grad - Process Engineer - Doctorate (Fall 2026 Start)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/Process-Engineer-IV_R2624055",
+   "locations": [
+    "Santa Clara,CA"
+   ],
+   "posted_at": 1789076990,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
