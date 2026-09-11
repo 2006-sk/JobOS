@@ -387,5 +387,28 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR110515",
+   "company": "Micron",
+   "title": "Intern- MSB Test Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/MSB-Singapore/Intern--MSB-Test-Engineer_JR110515",
+   "locations": [
+    "MSB, Singapore"
+   ],
+   "posted_at": 1789099568,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
