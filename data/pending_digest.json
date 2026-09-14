@@ -45,5 +45,97 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR110641",
+   "company": "Micron",
+   "title": "Intern - PHY Digital Design & Automation Engineer, HBM",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Richardson-TX/Intern---PHY-Digital-Design---Automation-Engineer--HBM_JR110641",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "posted_at": 1789413001,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:intel:External:JR0286647",
+   "company": "Intel",
+   "title": "Silicon Design - Flows and Methodology Intern",
+   "url": "https://intel.wd1.myworkdayjobs.com/job/Mexico-Guadalajara/Silicon-Design---Flows-and-Methodology-Intern_JR0286647",
+   "locations": [
+    "Mexico, Guadalajara"
+   ],
+   "posted_at": 1789413002,
+   "source_ats": "workday",
+   "board_token": "intel:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:intel:External:JR0287080",
+   "company": "Intel",
+   "title": "Packaging Technology Development Graduate Intern",
+   "url": "https://intel.wd1.myworkdayjobs.com/job/US-Arizona-Phoenix/Packaging-Technology-Development-Graduate-Intern_JR0287080",
+   "locations": [
+    "US, Arizona, Phoenix"
+   ],
+   "posted_at": 1789413002,
+   "source_ats": "workday",
+   "board_token": "intel:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:d223a623-0565-4e7d-86f4-c5a03ffc81b1",
+   "company": "Micron Technology",
+   "title": "PHY Digital Design & Automation Engineer Intern - HBM",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---PHY-Digital-Design---Automation-Engineer--HBM_JR110641",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "posted_at": 1789344000,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1789409658,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
