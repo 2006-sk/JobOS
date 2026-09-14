@@ -21,5 +21,29 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "smartrecruiters:WesternDigital:744000149229769",
+   "company": "Western Digital",
+   "title": "Intern - Technologist, Hardware Development Engineering (Studying Ph.D Degree)",
+   "url": "https://jobs.smartrecruiters.com/WesternDigital/744000149229769",
+   "locations": [
+    "BangPa-in, PHRA NAKHON SI AYUTTHAYA, Thailand",
+    "BangPa-in"
+   ],
+   "posted_at": 1789353245,
+   "source_ats": "smartrecruiters",
+   "board_token": "WesternDigital",
+   "employment_type": "Intern",
+   "raw_category": "Engineering",
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
