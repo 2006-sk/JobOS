@@ -137,5 +137,73 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR111456",
+   "company": "Micron",
+   "title": "New College Grad - HBM SoC Design Engineer/Architect",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Folsom-CA/New-College-Grad---HBM-SoC-Design-Engineer-Architect_JR111456",
+   "locations": [],
+   "posted_at": 1789425643,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2627547",
+   "company": "Applied Materials",
+   "title": "Packaging Engineer II, New College Grad- Master's (Santa Clara, CA)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/Packaging-Engineer-II--New-College-Grad--Master-s--Santa-Clara--CA-_R2627547",
+   "locations": [
+    "Santa Clara,CA"
+   ],
+   "posted_at": 1789425646,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:new-grad:e1b9ccaa-f9f2-4ca4-9214-4e2a0d51dffe",
+   "company": "Micron Technology",
+   "title": "HBM SoC Design Engineer/Architect New Grad",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/New-College-Grad---HBM-SoC-Design-Engineer-Architect_JR111456",
+   "locations": [
+    "Folsom, CA",
+    "Richardson, TX"
+   ],
+   "posted_at": 1789344000,
+   "source_ats": "aggregator",
+   "board_token": "new-grad",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1789424604,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
