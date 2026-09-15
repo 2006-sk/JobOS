@@ -205,5 +205,74 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:globalfoundries:External:JR-2605182",
+   "company": "GlobalFoundries",
+   "title": "Associate Process Engineer (NCG)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/Penang/Associate-Process-Engineer--NCG-_JR-2605182",
+   "locations": [
+    "Penang"
+   ],
+   "posted_at": 1789454066,
+   "source_ats": "workday",
+   "board_token": "globalfoundries:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2025027",
+   "company": "NVIDIA",
+   "title": "Physical Design Engineer (RDSS Intern)",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Hsinchu/Physical-Design-Engineer--RDSS-Intern-_JR2025027",
+   "locations": [
+    "Taiwan, Hsinchu"
+   ],
+   "posted_at": 1789454065,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2025048",
+   "company": "NVIDIA",
+   "title": "VLSI Physical Design CAD Intern - Summer 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Hsinchu/VLSI-Physical-Design-CAD-Intern---Summer-2027_JR2025048",
+   "locations": [
+    "Taiwan, Hsinchu"
+   ],
+   "posted_at": 1789454065,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
