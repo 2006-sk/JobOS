@@ -574,5 +574,213 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "greenhouse:andurilindustries:5236601007",
+   "company": "Anduril Industries",
+   "title": "Winter 2027 Mechanical Engineer Co-op",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236601007?gh_jid=5236601007",
+   "locations": [
+    "Quincy, Massachusetts, United States"
+   ],
+   "posted_at": 1789493830,
+   "source_ats": "greenhouse",
+   "board_token": "andurilindustries",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1789493830,
+   "sponsorship": null
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "greenhouse:andurilindustries:5236579007",
+   "company": "Anduril Industries",
+   "title": "Winter 2027 PCB Layout Engineer Co-op",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236579007?gh_jid=5236579007",
+   "locations": [
+    "Costa Mesa, California, United States"
+   ],
+   "posted_at": 1789493883,
+   "source_ats": "greenhouse",
+   "board_token": "andurilindustries",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1789493883,
+   "sponsorship": null
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:83a6fa1e-2e59-414e-9c23-5b68b7d11e8a",
+   "company": "NVIDIA",
+   "title": "Physical Design and Timing Engineer Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-Design-and-Timing-Engineer-Intern---Summer-2027_JR2025511",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1789430400,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1789511155,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:c7299060-2757-43d9-8414-5e0c2b0433c6",
+   "company": "Anduril",
+   "title": "PCB Layout Engineer Co-op",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236579007",
+   "locations": [
+    "Costa Mesa, CA"
+   ],
+   "posted_at": 1789509978,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1789510824,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:7facf78c-a3d2-4cd9-bbbe-c1673f0e7b99",
+   "company": "Anduril",
+   "title": "Electrical Engineer Co-op",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236565007",
+   "locations": [
+    "Quincy, MA",
+    "Costa Mesa, CA"
+   ],
+   "posted_at": 1789509978,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1789510627,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:f79a534a-9fa4-4f5a-970a-603c7c67ce1e",
+   "company": "Micron Technology",
+   "title": "ASIC Validation Intern",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Minneapolis-MN/Intern---ASIC-Validation_JR111823",
+   "locations": [
+    "Minneapolis, MN"
+   ],
+   "posted_at": 1789430400,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1789512788,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:9158832e-544f-42af-af55-12573eabe341",
+   "company": "Micron Technology",
+   "title": "Firmware Engineer Intern",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---Firmware-Engineer_JR111584",
+   "locations": [
+    "Longmont, CO"
+   ],
+   "posted_at": 1789430400,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1789512815,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:e83d5205-2c76-4f34-adbc-45a543b7b26b",
+   "company": "Micron Technology",
+   "title": "Data Center SSD Firmware Intern",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---Data-Center-SSD-Firmware_JR111461",
+   "locations": [
+    "Longmont, CO"
+   ],
+   "posted_at": 1789430400,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1789512778,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:563ce3fa-deec-437a-883e-6c9179763ddc",
+   "company": "Micron Technology",
+   "title": "HBM SoC Physical Design Engineer Intern",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---HBM-SoC-Physical-Design-Engineer_JR111041",
+   "locations": [
+    "Folsom, CA"
+   ],
+   "posted_at": 1789430400,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1789512781,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
