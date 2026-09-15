@@ -343,5 +343,236 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR111823",
+   "company": "Micron",
+   "title": "Intern - ASIC Validation",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Minneapolis-MN/Intern---ASIC-Validation_JR111823",
+   "locations": [
+    "Minneapolis, MN"
+   ],
+   "posted_at": 1789493736,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR111584",
+   "company": "Micron",
+   "title": "Intern - Firmware Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Longmont-MAX--Office-CO/Intern---Firmware-Engineer_JR111584",
+   "locations": [
+    "Longmont-MAX- Office, CO"
+   ],
+   "posted_at": 1789493736,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR111041",
+   "company": "Micron",
+   "title": "Intern - HBM SoC Physical Design Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Folsom-CA/Intern---HBM-SoC-Physical-Design-Engineer_JR111041",
+   "locations": [
+    "Folsom, CA"
+   ],
+   "posted_at": 1789493736,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR111478",
+   "company": "Micron",
+   "title": "HBM PROCESS ENGINEER (FY28 NCG)",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Taichung---MTB-Taiwan/HBM-PROCESS-ENGINEER--FY28-NCG-_JR111478",
+   "locations": [
+    "Taichung - MTB, Taiwan"
+   ],
+   "posted_at": 1789493738,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR111477",
+   "company": "Micron",
+   "title": "HBM PROCESS ENGINEER(FY28 NCG)",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Taichung---MTB-Taiwan/HBM-PROCESS-ENGINEER-FY28-NCG-_JR111477",
+   "locations": [
+    "Taichung - MTB, Taiwan"
+   ],
+   "posted_at": 1789493738,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR111461",
+   "company": "Micron",
+   "title": "Intern - Data Center SSD Firmware",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Longmont-MAX--Office-CO/Intern---Data-Center-SSD-Firmware_JR111461",
+   "locations": [
+    "Longmont-MAX- Office, CO"
+   ],
+   "posted_at": 1789493738,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR110452",
+   "company": "Micron",
+   "title": "Intern - Design Engineer, HBM",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Richardson-TX/Intern---Design-Engineer--HBM_JR110452",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "posted_at": 1789493738,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2025511",
+   "company": "NVIDIA",
+   "title": "Physical Design and Timing Engineer Intern - Summer 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Physical-Design-and-Timing-Engineer-Intern---Summer-2027_JR2025511",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "posted_at": 1789493737,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "greenhouse:andurilindustries:5236565007",
+   "company": "Anduril Industries",
+   "title": "Winter 2027 Electrical Engineer Co-op",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236565007?gh_jid=5236565007",
+   "locations": [
+    "Costa Mesa, California, United States",
+    "Quincy, Massachusetts, United States"
+   ],
+   "posted_at": 1789493390,
+   "source_ats": "greenhouse",
+   "board_token": "andurilindustries",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1789493390,
+   "sponsorship": null
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:732402ac-f881-41b0-ba07-73a97342ee5f",
+   "company": "Micron Technology",
+   "title": "Design Engineer Intern - HBM",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR110452",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "posted_at": 1789430400,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1789482628,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
