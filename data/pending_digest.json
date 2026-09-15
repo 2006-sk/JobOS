@@ -274,5 +274,74 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR111534",
+   "company": "Micron",
+   "title": "MTB PWF TF Process Engineer(FY28 NCG)",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Taichung---MTB-Taiwan/MTB-PWF-TF-Process-Engineer-FY28-NCG-_JR111534",
+   "locations": [
+    "Taichung - MTB, Taiwan"
+   ],
+   "posted_at": 1789475664,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2627921",
+   "company": "Applied Materials",
+   "title": "New College Grad - Mechanical Engineer III - PhD (2027 Summer Cohort)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/New-College-Grad---Mechanical-Engineer-III---PhD--2027-Summer-Cohort-_R2627921",
+   "locations": [
+    "Santa Clara,CA"
+   ],
+   "posted_at": 1789475668,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2627920",
+   "company": "Applied Materials",
+   "title": "New College Grad - Process Engineer III - PhD (2027 Summer Cohort)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/New-College-Grad---Process-Engineer-III---PhD--2027-Summer-Cohort-_R2627920",
+   "locations": [
+    "Santa Clara,CA"
+   ],
+   "posted_at": 1789475668,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
