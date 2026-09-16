@@ -826,5 +826,52 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR111417",
+   "company": "Micron",
+   "title": "Intern- Manufacturing Test Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/MSB-Singapore/Intern--Manufacturing-Test-Engineer_JR111417",
+   "locations": [
+    "MSB, Singapore"
+   ],
+   "posted_at": 1789550850,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:83127520-9aed-4eb4-a7c5-63d711f65e1f",
+   "company": "Analog Devices",
+   "title": "Test Engineer Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Test-Engineering-Intern_R266146",
+   "locations": [
+    "Wilmington, MA",
+    "Durham, NC"
+   ],
+   "posted_at": 1789516800,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1789539253,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
