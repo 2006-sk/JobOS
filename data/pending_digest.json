@@ -782,5 +782,49 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:analogdevices:External:R266146",
+   "company": "Analog Devices",
+   "title": "Test Engineering Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/job/US-NC-Durham/Test-Engineering-Intern_R266146",
+   "locations": [],
+   "posted_at": 1789532456,
+   "source_ats": "workday",
+   "board_token": "analogdevices:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2025558",
+   "company": "NVIDIA",
+   "title": "Server Firmware Developer (RDSS Intern)",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/Server-Firmware-Developer--RDSS-Intern-_JR2025558",
+   "locations": [
+    "Taiwan, Taipei"
+   ],
+   "posted_at": 1789532456,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
