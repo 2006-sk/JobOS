@@ -44,5 +44,51 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR110471",
+   "company": "Micron",
+   "title": "New College Grad - Dry Etch Process Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Manassas-VA----Fab-6/Dry-Etch-Process-Engineer_JR110471",
+   "locations": [
+    "Manassas, VA -  Fab 6"
+   ],
+   "posted_at": 1789683799,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR111233",
+   "company": "Micron",
+   "title": "INTERN- ID1 Process Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---ID1/INTERN--ID1-Process-Engineer_JR111233",
+   "locations": [
+    "Boise, ID - ID1"
+   ],
+   "posted_at": 1789683799,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
