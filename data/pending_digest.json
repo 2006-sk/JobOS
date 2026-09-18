@@ -182,5 +182,51 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR112163",
+   "company": "Micron",
+   "title": "Intern - ASIC Digital Design",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Minneapolis-MN/Intern---ASIC-Digital-Design_JR112163",
+   "locations": [
+    "Minneapolis, MN"
+   ],
+   "posted_at": 1789755272,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR105872",
+   "company": "Micron",
+   "title": "New College Grad - Design Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/San-Jose-CA/Senior-Design-Engineer_JR105872",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1789755272,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
