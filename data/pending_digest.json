@@ -90,5 +90,51 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:new-grad:8475b72d-9c39-499b-b18d-a7ba42919fb2",
+   "company": "Micron Technology",
+   "title": "ASIC Digital Design Engineer New Grad",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Minneapolis-MN/New-College-Grad---Engineer--ASIC-Digital-Design_JR112164",
+   "locations": [
+    "Minneapolis, MN"
+   ],
+   "posted_at": 1789603200,
+   "source_ats": "aggregator",
+   "board_token": "new-grad",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1789683843,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:ea5ee9d4-b9cf-4ed2-b1ab-93db2d16e7bc",
+   "company": "NVIDIA",
+   "title": "Research Intern - Hardware and Systems Architecture",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Hardware-and-Systems-Architecture---2027_JR2025893",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1789603200,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1789684003,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
