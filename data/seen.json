@@ -1,6 +1,6 @@
 {
  "version": 1,
- "count": 20401,
+ "count": 20402,
  "entries": {
   "aggregator:new-grad:00592559-74bf-4659-b573-2b630465cfc8": 1786971939,
   "aggregator:new-grad:02b1a0de-a038-4729-9f05-bf985321a918": 1788503159,
@@ -14952,6 +14952,7 @@
   "workday:cadence:External_Careers:R56322": 1789148466,
   "workday:cadence:External_Careers:R56364": 1789148466,
   "workday:cadence:External_Careers:R56365": 1789413046,
+  "workday:cadence:External_Careers:R56369": 1789879600,
   "workday:cadence:External_Careers:R56375": 1789640385,
   "workday:cadence:External_Careers:R56379": 1789683805,
   "workday:cadence:External_Careers:R56380": 1789594572,
