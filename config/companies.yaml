@@ -190,6 +190,77 @@ companies:
     token: "WesternDigital"
 
 # ---------------------------------------------------------------------------
+
+  - company: "RTX"
+    tier: "unranked"
+    ats: workday
+    token: "globalhr"
+    site: "rec_rtx_ext_gateway"
+    host: "globalhr.wd5.myworkdayjobs.com"
+
+  - company: "Marvell"
+    tier: "unranked"
+    ats: workday
+    token: "marvell"
+    site: "MarvellCareers"
+    host: "marvell.wd1.myworkdayjobs.com"
+
+  - company: "Booz Allen"
+    tier: "unranked"
+    ats: workday
+    token: "bah"
+    site: "bah_jobs"
+    host: "bah.wd1.myworkdayjobs.com"
+
+  - company: "NXP Semiconductors"
+    tier: "unranked"
+    ats: workday
+    token: "nxp"
+    site: "careers"
+    host: "nxp.wd3.myworkdayjobs.com"
+
+  - company: "Barclays"
+    tier: "unranked"
+    ats: workday
+    token: "barclays"
+    site: "External_Career_Site_Barclays"
+    host: "barclays.wd3.myworkdayjobs.com"
+
+  - company: "Capital One"
+    tier: "unranked"
+    ats: workday
+    token: "capitalone"
+    site: "Capital_One"
+    host: "capitalone.wd12.myworkdayjobs.com"
+
+  - company: "CACI"
+    tier: "unranked"
+    ats: workday
+    token: "caci"
+    site: "external"
+    host: "caci.wd1.myworkdayjobs.com"
+
+  - company: "Manulife Financial"
+    tier: "unranked"
+    ats: workday
+    token: "manulife"
+    site: "MFCJH_Jobs"
+    host: "manulife.wd3.myworkdayjobs.com"
+
+  - company: "Ciena"
+    tier: "unranked"
+    ats: workday
+    token: "ciena"
+    site: "Careers"
+    host: "ciena.wd5.myworkdayjobs.com"
+
+  - company: "Oshkosh"
+    tier: "unranked"
+    ats: workday
+    token: "oshkoshcorporation"
+    site: "Oshkosh"
+    host: "oshkoshcorporation.wd5.myworkdayjobs.com"
+
 # UNRESOLVED -- no public job-board API we can reach.
 #
 # These run proprietary career sites (Apple, Google, Amazon, Microsoft,
