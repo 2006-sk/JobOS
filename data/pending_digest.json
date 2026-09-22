@@ -435,5 +435,51 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "greenhouse:andurilindustries:5246141007",
+   "company": "Anduril Industries",
+   "title": "2027 Early Career Firmware Engineer",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007",
+   "locations": [
+    "Costa Mesa, California, United States"
+   ],
+   "posted_at": 1790101635,
+   "source_ats": "greenhouse",
+   "board_token": "andurilindustries",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1790110489,
+   "sponsorship": null
+  },
+  "tier": "unranked",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "greenhouse:andurilindustries:5246225007",
+   "company": "Anduril Industries",
+   "title": "2027 Early Career Flight Test Engineer",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5246225007?gh_jid=5246225007",
+   "locations": [
+    "Costa Mesa, California, United States"
+   ],
+   "posted_at": 1790102521,
+   "source_ats": "greenhouse",
+   "board_token": "andurilindustries",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1790102521,
+   "sponsorship": null
+  },
+  "tier": "unranked",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
