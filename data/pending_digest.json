@@ -389,5 +389,28 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR113040",
+   "company": "Micron",
+   "title": "Intern - ATE Process Engineer ID1",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---ID1/Intern---ATE-Process-Engineer-ID1_JR113040",
+   "locations": [
+    "Boise, ID - ID1"
+   ],
+   "posted_at": 1790041518,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
