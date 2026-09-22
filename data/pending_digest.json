@@ -412,5 +412,28 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR111158",
+   "company": "Micron",
+   "title": "Intern- Silicon Design Validation Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/MSB-Singapore/Intern--Silicon-Design-Validation-Engineer_JR111158",
+   "locations": [
+    "MSB, Singapore"
+   ],
+   "posted_at": 1790083028,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
