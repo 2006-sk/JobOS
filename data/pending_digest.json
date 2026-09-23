@@ -90,5 +90,97 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR104060",
+   "company": "Micron",
+   "title": "New College Grad - Design Engineer, DEG Design Method",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---Main-Site/Sr-Design-Engineer--DEG-Design-Method_JR104060",
+   "locations": [
+    "Boise, ID - Main Site"
+   ],
+   "posted_at": 1790188386,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR112516",
+   "company": "Micron",
+   "title": "Intern Design Engineer - HIG HBM",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Richardson-TX/Intern-Design-Engineer---HIG-HBM_JR112516",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "posted_at": 1790188386,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:globalfoundries:External:JR-2604059",
+   "company": "GlobalFoundries",
+   "title": "Design Verification Engineer (2027 New College Graduate)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/USA---Texas---Richardson/Design-Verification-Engineer--2027-New-College-Graduate-_JR-2604059",
+   "locations": [
+    "USA - Texas - Richardson"
+   ],
+   "posted_at": 1790188388,
+   "source_ats": "workday",
+   "board_token": "globalfoundries:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:globalfoundries:External:JR-2604295",
+   "company": "GlobalFoundries",
+   "title": "Principal Eng Device Engineering, Silicon Phonics Compact Modeling (2027 New College Grad)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/USA---New-York---Malta/Principal-Eng-Device-Engineering--Silicon-Phonics-Compact-Modeling--2027-New-College-Grad-_JR-2604295",
+   "locations": [
+    "USA - New York - Malta"
+   ],
+   "posted_at": 1790188388,
+   "source_ats": "workday",
+   "board_token": "globalfoundries:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
