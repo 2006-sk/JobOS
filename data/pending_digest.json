@@ -527,5 +527,28 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:5a07cf07-d505-4525-bec1-6e0fa482b1d9",
+   "company": "Micron Technology",
+   "title": "Design Engineer Intern - High Bandwidth Memory",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HIG-HBM_JR112512",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "posted_at": 1790035200,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1790144149,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
