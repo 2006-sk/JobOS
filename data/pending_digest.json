@@ -481,5 +481,51 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR112512",
+   "company": "Micron",
+   "title": "Intern - Design Engineer, HIG HBM",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Richardson-TX/Intern---Design-Engineer--HIG-HBM_JR112512",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "posted_at": 1790137090,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:new-grad:571da82a-c8c1-4683-bcd8-35ce56fdb8c4",
+   "company": "Anduril",
+   "title": "Early Career Firmware Engineer",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5246141007",
+   "locations": [
+    "Costa Mesa, CA"
+   ],
+   "posted_at": 1790115358,
+   "source_ats": "aggregator",
+   "board_token": "new-grad",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1790116537,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
