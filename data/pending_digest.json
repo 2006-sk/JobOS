@@ -274,5 +274,51 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:globalfoundries:External:JR-2604740",
+   "company": "GlobalFoundries",
+   "title": "Post-Fab Test Engineer\u00a0(2027 New College Graduate)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/USA---Vermont---Essex-Junction/Post-Fab-Test-Engineer--2027-New-College-Graduate-_JR-2604740",
+   "locations": [
+    "USA - Vermont - Essex Junction"
+   ],
+   "posted_at": 1790268910,
+   "source_ats": "workday",
+   "board_token": "globalfoundries:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:globalfoundries:External:JR-2604739",
+   "company": "GlobalFoundries",
+   "title": "Post-Fab Test Engineer (2027 New College Graduate)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/USA---Vermont---Essex-Junction/Post-Fab-Test-Engineer--2027-New-College-Graduate-_JR-2604739",
+   "locations": [
+    "USA - Vermont - Essex Junction"
+   ],
+   "posted_at": 1790268910,
+   "source_ats": "workday",
+   "board_token": "globalfoundries:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
