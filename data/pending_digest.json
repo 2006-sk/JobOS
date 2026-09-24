@@ -320,5 +320,51 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR112000",
+   "company": "Micron",
+   "title": "New College Grad - PCVD Process Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---ID1/New-College-Grad---PCVD-Process-Engineer_JR112000",
+   "locations": [
+    "Boise, ID - ID1"
+   ],
+   "posted_at": 1790281200,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "greenhouse:samsara:8226602",
+   "company": "Samsara",
+   "title": "Firmware Engineer Co-Op",
+   "url": "https://www.samsara.com/company/careers/roles/8226602?gh_jid=8226602",
+   "locations": [
+    "San Francisco - SF9"
+   ],
+   "posted_at": 1790277525,
+   "source_ats": "greenhouse",
+   "board_token": "samsara",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1790277525,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
