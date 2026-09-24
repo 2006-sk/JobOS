@@ -251,5 +251,28 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:new-grad:7402d967-f0d4-417e-8818-d1342baa43dd",
+   "company": "Micron Technology",
+   "title": "Electrical Design Engineer New Grad - Design Method",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Sr-Design-Engineer--DEG-Design-Method_JR104060",
+   "locations": [
+    "Boise, ID"
+   ],
+   "posted_at": 1784505600,
+   "source_ats": "aggregator",
+   "board_token": "new-grad",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1790247019,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
