@@ -366,5 +366,28 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:analogdevices:External:R266691",
+   "company": "Analog Devices",
+   "title": "Healthcare Mechanical Engineering Co-op (Spring)",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/job/US-MA-Wilmington/Healthcare-Mechanical-Engineering-Co-op--Spring-_R266691",
+   "locations": [
+    "US, MA, Wilmington"
+   ],
+   "posted_at": 1790371372,
+   "source_ats": "workday",
+   "board_token": "analogdevices:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
