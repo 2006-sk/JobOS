@@ -389,5 +389,116 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR113177",
+   "company": "Micron",
+   "title": "New College Grad - Module Hardware Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---Main-Site/Module-Hardware-Engineer_JR113177",
+   "locations": [
+    "Boise, ID - Main Site"
+   ],
+   "posted_at": 1790610687,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2026343",
+   "company": "NVIDIA",
+   "title": "ASIC Verification Engineer - New College Grad 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-TX-Austin/ASIC-Verification-Engineer---New-College-Grad-2027_JR2026343",
+   "locations": [],
+   "posted_at": 1790610688,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2025693",
+   "company": "NVIDIA",
+   "title": "Mixed Signal Design Engineer - New College Grad 2026",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Mixed-Signal-Design-Engineer---New-College-Grad-2026_JR2025693",
+   "locations": [],
+   "posted_at": 1790610688,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:globalfoundries:External:JR-2604361",
+   "company": "GlobalFoundries",
+   "title": "Reliability Test Engineering Intern (Summer 2027)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/USA---New-York---Malta/Reliability-Test-Engineering-Intern--Summer-2027-_JR-2604361",
+   "locations": [
+    "USA - New York - Malta"
+   ],
+   "posted_at": 1790610693,
+   "source_ats": "workday",
+   "board_token": "globalfoundries:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:globalfoundries:External:JR-2604333",
+   "company": "GlobalFoundries",
+   "title": "Reliability Test Engineer (2027 New College Graduate)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/USA---New-York---Malta/Reliability-Test-Engineer--2027-New-College-Graduate-_JR-2604333",
+   "locations": [
+    "USA - New York - Malta"
+   ],
+   "posted_at": 1790610693,
+   "source_ats": "workday",
+   "board_token": "globalfoundries:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
