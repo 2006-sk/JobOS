@@ -705,5 +705,28 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:dea5dba9-d950-4c4f-bde6-abe568af5ea9",
+   "company": "Analog Devices",
+   "title": "Analog Design Engineering Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Analog-Design-Engineering-Intern_R266614",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1790121600,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1790212681,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
