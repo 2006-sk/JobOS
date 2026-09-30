@@ -842,5 +842,97 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR113799",
+   "company": "Micron",
+   "title": "New College Grad - DIR Process Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Manassas-VA----Fab-6/New-College-Grad---DIR-Process-Engineer_JR113799",
+   "locations": [
+    "Manassas, VA -  Fab 6"
+   ],
+   "posted_at": 1790803406,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:intel:External:JR0287532",
+   "company": "Intel",
+   "title": "GPU Physical Design Engineer Intern",
+   "url": "https://intel.wd1.myworkdayjobs.com/job/Costa-Rica-San-Jose/GPU-Physical-Design-Engineer-Intern_JR0287532",
+   "locations": [
+    "Costa Rica, San Jose"
+   ],
+   "posted_at": 1790803407,
+   "source_ats": "workday",
+   "board_token": "intel:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2011879",
+   "company": "NVIDIA",
+   "title": "System Design Engineer - New College Grad 2026",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/System-Design-Engineer---New-College-Grad-2026_JR2011879",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "posted_at": 1790803407,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2628743",
+   "company": "Applied Materials",
+   "title": "Process Engineer III New College Grad - (E3)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/Process-Engineer-III-New-College-Grad----E3-_R2628743",
+   "locations": [
+    "Santa Clara,CA"
+   ],
+   "posted_at": 1790803409,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
