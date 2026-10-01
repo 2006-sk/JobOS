@@ -934,5 +934,74 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:new-grad:7fb2f96e-3662-4a02-a0c2-e7bbd2663ce9",
+   "company": "NVIDIA",
+   "title": "System Design Engineer \u2013 New College Grad 2026",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Design-Engineer---New-College-Grad-2026_JR2011879",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1771543465,
+   "source_ats": "aggregator",
+   "board_token": "new-grad",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1771543465,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:5d100053-6d4b-4c33-8d82-3223fd0e3410",
+   "company": "Rivian",
+   "title": "Engineering Intern/Co-op - Design Verification - Neural Engine",
+   "url": "https://careers.rivian.com/jobs/33833?icims=1",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "posted_at": 1790806533,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1790807386,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:a92fa0b6-3ef2-4c58-8fc3-5597e8ac9fcb",
+   "company": "Rivian",
+   "title": "Audio Hardware Engineer Intern Co-op - Audio Hardware and DSP",
+   "url": "https://careers.rivian.com/jobs/33874?icims=1",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "posted_at": 1790806533,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1790807762,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
