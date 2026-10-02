@@ -1187,5 +1187,28 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:f59257fb-9deb-439b-867b-379bc02454b2",
+   "company": "Intel",
+   "title": "Thermal Mechanical Engineering Intern - GPU Platforms",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Thermal-Mechanical-Engineering-Undergraduate-Intern--GPU-Platforms_JR0287516",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1790899200,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1790980185,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
