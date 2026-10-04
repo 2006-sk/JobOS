@@ -1,6 +1,6 @@
 {
  "version": 1,
- "count": 24446,
+ "count": 24447,
  "entries": {
   "aggregator:new-grad:00592559-74bf-4659-b573-2b630465cfc8": 1786971939,
   "aggregator:new-grad:014218c7-74e9-499b-888f-5ce3ebb739dd": 1790381117,
@@ -23107,6 +23107,7 @@
   "workday:nvidia:NVIDIAExternalCareerSite:JR2025929": 1789925828,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2025930": 1790111259,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2025934": 1790111259,
+  "workday:nvidia:NVIDIAExternalCareerSite:JR2025935": 1791112488,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2025936": 1790610710,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2025937": 1790631949,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2025956": 1789672406,
