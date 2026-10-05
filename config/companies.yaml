@@ -190,6 +190,77 @@ companies:
     token: "WesternDigital"
 
 # ---------------------------------------------------------------------------
+
+  - company: "RTX"
+    tier: "unranked"
+    ats: workday
+    token: "globalhr"
+    site: "rec_rtx_ext_gateway"
+    host: "globalhr.wd5.myworkdayjobs.com"
+
+  - company: "Marvell"
+    tier: "unranked"
+    ats: workday
+    token: "marvell"
+    site: "MarvellCareers"
+    host: "marvell.wd1.myworkdayjobs.com"
+
+  - company: "Booz Allen"
+    tier: "unranked"
+    ats: workday
+    token: "bah"
+    site: "bah_jobs"
+    host: "bah.wd1.myworkdayjobs.com"
+
+  - company: "Ciena"
+    tier: "unranked"
+    ats: workday
+    token: "ciena"
+    site: "Careers"
+    host: "ciena.wd5.myworkdayjobs.com"
+
+  - company: "Johnson & Johnson"
+    tier: "unranked"
+    ats: workday
+    token: "jj"
+    site: "JJ"
+    host: "jj.wd5.myworkdayjobs.com"
+
+  - company: "Capital One"
+    tier: "unranked"
+    ats: workday
+    token: "capitalone"
+    site: "Capital_One"
+    host: "capitalone.wd12.myworkdayjobs.com"
+
+  - company: "CACI"
+    tier: "unranked"
+    ats: workday
+    token: "caci"
+    site: "external"
+    host: "caci.wd1.myworkdayjobs.com"
+
+  - company: "Motorola"
+    tier: "unranked"
+    ats: workday
+    token: "motorolasolutions"
+    site: "Careers"
+    host: "motorolasolutions.wd5.myworkdayjobs.com"
+
+  - company: "General Motors"
+    tier: "unranked"
+    ats: workday
+    token: "generalmotors"
+    site: "Careers_GM"
+    host: "generalmotors.wd5.myworkdayjobs.com"
+
+  - company: "Oshkosh"
+    tier: "unranked"
+    ats: workday
+    token: "oshkoshcorporation"
+    site: "Oshkosh"
+    host: "oshkoshcorporation.wd5.myworkdayjobs.com"
+
 # UNRESOLVED -- no public job-board API we can reach.
 #
 # These run proprietary career sites (Apple, Google, Amazon, Microsoft,
