@@ -1371,5 +1371,51 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR108414",
+   "company": "Micron",
+   "title": "Intern - SSD Validation Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/MSB-Singapore/Intern---SSD-Validation-Engineer_JR108414",
+   "locations": [
+    "MSB, Singapore"
+   ],
+   "posted_at": 1791189886,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2027047",
+   "company": "NVIDIA",
+   "title": "NVIDIA 2027 Ignite Internships: Hardware Engineering",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Hardware-Engineering_JR2027047",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "posted_at": 1791189886,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
