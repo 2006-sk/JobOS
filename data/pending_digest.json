@@ -1233,5 +1233,143 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR112528",
+   "company": "Micron",
+   "title": "Intern - Memory Design Engineer, HBM",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Richardson-TX/Intern---Memory-Design-Engineer--HBM_JR112528",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "posted_at": 1791164845,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR111821",
+   "company": "Micron",
+   "title": "Intern - Design Engineer, HBM",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111821",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "posted_at": 1791164845,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR114119",
+   "company": "Micron",
+   "title": "New College Grad - Semiconductor Design Engineer, DRAM Products Group",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---Main-Site/New-College-Grad---Semiconductor-Design-Engineer--DRAM-Products-Group_JR114119",
+   "locations": [
+    "Boise, ID - Main Site"
+   ],
+   "posted_at": 1791164845,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:new-grad:01b25e77-d266-4fd0-b7a5-b44915daf85f",
+   "company": "Micron Technology",
+   "title": "Semiconductor Design Engineer New Grad - DRAM Products Group",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Semiconductor-Design-Engineer--DRAM-Products-Group_JR114119",
+   "locations": [
+    "Boise, ID"
+   ],
+   "posted_at": 1791072000,
+   "source_ats": "aggregator",
+   "board_token": "new-grad",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1791162974,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:a9abc1d3-27bf-4290-9ab4-f785087a3634",
+   "company": "Micron Technology",
+   "title": "HBM Memory Design Engineer Intern - HBM",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111821",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "posted_at": 1791072000,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1791162980,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:3ec3bd30-a625-49ef-bad3-4a40b9de33ea",
+   "company": "Micron Technology",
+   "title": "Memory Design Engineer Intern - HBM",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Memory-Design-Engineer--HBM_JR112528",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "posted_at": 1791072000,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1791162979,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
