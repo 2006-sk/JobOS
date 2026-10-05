@@ -1417,5 +1417,74 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:intel:External:JR0287613",
+   "company": "Intel",
+   "title": "CPU Core Physical Design Technical Graduate Intern, Spring",
+   "url": "https://intel.wd1.myworkdayjobs.com/job/US-California-Folsom/CPU-Core-Physical-Design-Technical-Graduate-Intern--Spring_JR0287613",
+   "locations": [
+    "US, California, Folsom"
+   ],
+   "posted_at": 1791223947,
+   "source_ats": "workday",
+   "board_token": "intel:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2626900",
+   "company": "Applied Materials",
+   "title": "Technology Development Engineer \u2013 Hybrid Bonding & Advanced Packaging (Internship)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/SingaporeSGP/Technology-Development-Engineer---Hybrid-Bonding---Advanced-Packaging--Internship-_R2626900",
+   "locations": [
+    "Singapore,SGP"
+   ],
+   "posted_at": 1791223949,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:613293d2-6943-4f9a-ab4a-7bb7883891fc",
+   "company": "NVIDIA",
+   "title": "Hardware Engineering Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Hardware-Engineering_JR2027047",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1791158400,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1791195844,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
