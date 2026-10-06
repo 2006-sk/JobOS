@@ -1606,5 +1606,97 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:kla:UR:2641708",
+   "company": "KLA",
+   "title": "Electrical Design Engineering Intern",
+   "url": "https://kla.wd1.myworkdayjobs.com/job/Ann-Arbor-MI/Electrical-Design-Engineering-Intern_2641708",
+   "locations": [
+    "Ann Arbor, MI"
+   ],
+   "posted_at": 1791315904,
+   "source_ats": "workday",
+   "board_token": "kla:UR",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2026704",
+   "company": "NVIDIA",
+   "title": "PCIe Design Verification Intern - Spring 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/PCIe-Design-Verification-Intern---Spring-2027_JR2026704",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "posted_at": 1791315902,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2026708",
+   "company": "NVIDIA",
+   "title": "PCIe Design Verification Intern - Summer 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-TX-Austin/PCIe-Design-Verification-Intern---Summer-2027_JR2026708",
+   "locations": [
+    "US, TX, Austin"
+   ],
+   "posted_at": 1791315902,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2020837",
+   "company": "NVIDIA",
+   "title": "Formal Verification Engineer - New College Grad 2026",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2026_JR2020837",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "posted_at": 1791315902,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
