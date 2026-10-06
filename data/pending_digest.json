@@ -1583,5 +1583,28 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR112641",
+   "company": "Micron",
+   "title": "Intern - Test Engineering",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Penang-Malaysia---Grande/Intern---Test-Engineering_JR112641",
+   "locations": [
+    "Penang, Malaysia - Grande"
+   ],
+   "posted_at": 1791269148,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
