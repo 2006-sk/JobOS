@@ -1698,5 +1698,143 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR113796",
+   "company": "Micron",
+   "title": "New College Grad - ID1 ATE Photolithography Process Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---ID1/New-College-Grad---ID1-ATE-Photolithography-Process-Engineer_JR113796",
+   "locations": [
+    "Boise, ID - ID1"
+   ],
+   "posted_at": 1791330096,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR113797",
+   "company": "Micron",
+   "title": "New College Grad - ID1 ATE Photolithography Process Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---ID1/New-College-Grad---ID1-ATE-Photolithography-Process-Engineer_JR113797",
+   "locations": [
+    "Boise, ID - ID1"
+   ],
+   "posted_at": 1791330096,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2026800",
+   "company": "NVIDIA",
+   "title": "High Speed SerDes Validation Engineer - New College Grad 2026",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/High-Speed-SerDes-Validation-Engineer---New-College-Grad-2026_JR2026800",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "posted_at": 1791330098,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:0e97ac62-0c17-4e03-94cd-c494e43101ee",
+   "company": "NVIDIA",
+   "title": "PCIe Design Verification Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PCIe-Design-Verification-Intern---Spring-2027_JR2026704",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1791244800,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1791325449,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:7041f2db-7b76-4047-a3f8-ffe4cfe4d262",
+   "company": "NVIDIA",
+   "title": "PCIe Design Verification Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/PCIe-Design-Verification-Intern---Summer-2027_JR2026708",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1791244800,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1791325447,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:e7e5340d-7429-4968-a924-69f08afda503",
+   "company": "KLA",
+   "title": "Electrical Design Engineer Intern",
+   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Electrical-Design-Engineering-Intern_2641708",
+   "locations": [
+    "Ann Arbor, MI"
+   ],
+   "posted_at": 1791244800,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1791327272,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
