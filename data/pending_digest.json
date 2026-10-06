@@ -1486,5 +1486,102 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "greenhouse:andurilindustries:5257674007",
+   "company": "Anduril Industries",
+   "title": "2027 Quality & Test Engineer Intern",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007",
+   "locations": [
+    "Ashville, Ohio, United States",
+    "Costa Mesa, California, United States",
+    "Irvine, California, United States",
+    "Quonset, Rhode Island, United States",
+    "Santa Ana, California, United States"
+   ],
+   "posted_at": 1791244253,
+   "source_ats": "greenhouse",
+   "board_token": "andurilindustries",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1791244650,
+   "sponsorship": null
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "greenhouse:andurilindustries:5257571007",
+   "company": "Anduril Industries",
+   "title": "Winter 2027 Quality & Test Engineer Co-op",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257571007?gh_jid=5257571007",
+   "locations": [
+    "Ashville, Ohio, United States",
+    "Santa Ana, California, United States"
+   ],
+   "posted_at": 1791240956,
+   "source_ats": "greenhouse",
+   "board_token": "andurilindustries",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1791244066,
+   "sponsorship": null
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:89620c7b-f9cc-4d47-90dd-0d033e926047",
+   "company": "Intel",
+   "title": "CPU Core Physical Design Technical Graduate Intern",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/CPU-Core-Physical-Design-Technical-Graduate-Intern--Spring_JR0287613",
+   "locations": [
+    "Folsom, CA"
+   ],
+   "posted_at": 1791158400,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1791238605,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:0867f4c7-93df-4147-964b-980fbc6f31fb",
+   "company": "Rivian",
+   "title": "Electronics Design Engineer Co-op Intern - Electronics Design",
+   "url": "https://careers.rivian.com/jobs/34040?icims=1",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "posted_at": 1791238892,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1791240154,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
