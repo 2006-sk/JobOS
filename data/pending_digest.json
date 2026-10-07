@@ -1836,5 +1836,51 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2623409",
+   "company": "Applied Materials",
+   "title": "2026 Process Engineer Co-op - Adv Degree (Gloucester, MA)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/GloucesterMA/XMLNAME-2026-Process-Engineer-Co-op---Adv-Degree--Gloucester--MA-_R2623409",
+   "locations": [
+    "Gloucester,MA"
+   ],
+   "posted_at": 1791350690,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:c29d0eb0-d886-48aa-910f-b36696f9f839",
+   "company": "Intel",
+   "title": "Graphics Hardware Validation Undergraduate Engineering Intern",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1790812800,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1790921612,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
