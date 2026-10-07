@@ -1951,5 +1951,28 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR114527",
+   "company": "Micron",
+   "title": "New College Grad - Facilities Electrical Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Manassas-VA----Fab-6/Facilities-Electrical-Engineer_JR114527",
+   "locations": [
+    "Manassas, VA -  Fab 6"
+   ],
+   "posted_at": 1791415869,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
