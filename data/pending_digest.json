@@ -1905,5 +1905,51 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR101714",
+   "company": "Micron",
+   "title": "New College Grad - Photolithography Process Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---ID1/New-College-Grad---Photolithography-Process-Engineer_JR101714",
+   "locations": [
+    "Boise, ID - ID1"
+   ],
+   "posted_at": 1791398953,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR114194",
+   "company": "Micron",
+   "title": "New College Grad - FAB Process Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Manassas-VA----Fab-6/New-College-Grad---FAB-Process-Engineer_JR114194",
+   "locations": [
+    "Manassas, VA -  Fab 6"
+   ],
+   "posted_at": 1791398953,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
