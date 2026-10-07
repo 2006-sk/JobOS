@@ -1882,5 +1882,28 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:new-grad:c6de9e69-3c38-46eb-8533-e55050dcce1b",
+   "company": "Rivian",
+   "title": "Early Career Validation Engineer - Vehicle Hardware",
+   "url": "https://careers.rivian.com/jobs/32131?icims=1",
+   "locations": [
+    "Irvine, CA"
+   ],
+   "posted_at": 1783548570,
+   "source_ats": "aggregator",
+   "board_token": "new-grad",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1791369912,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
