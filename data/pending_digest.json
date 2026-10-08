@@ -2018,5 +2018,28 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:analogdevices:External:R267032",
+   "company": "Analog Devices",
+   "title": "Analog Design Engineering Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/job/Germany-Munich-Otl-Aicher-Strasse/Analog-Design-Engineering-Intern_R267032-1",
+   "locations": [
+    "Germany, Munich, Otl-Aicher-Strasse"
+   ],
+   "posted_at": 1791487350,
+   "source_ats": "workday",
+   "board_token": "analogdevices:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
