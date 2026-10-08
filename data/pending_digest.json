@@ -1974,5 +1974,26 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:intel:External:JR0287536",
+   "company": "Intel",
+   "title": "Firmware and Development Tools Intern",
+   "url": "https://intel.wd1.myworkdayjobs.com/job/PRC-Shanghai/Firmware-and-Development-Tools-Intern_JR0287536",
+   "locations": [],
+   "posted_at": 1791437602,
+   "source_ats": "workday",
+   "board_token": "intel:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
