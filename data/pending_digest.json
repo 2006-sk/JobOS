@@ -2064,5 +2064,282 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "ashby:rivianvw.tech:526c87f2-fba4-4744-8b87-1cb949b5cdfc",
+   "company": "Rivian",
+   "title": "Hardware Thermal Simulation Engineering Intern at UIUC Research Park (January-August 2027)",
+   "url": "https://jobs.ashbyhq.com/rivianvw.tech/526c87f2-fba4-4744-8b87-1cb949b5cdfc",
+   "locations": [
+    "Champaign, Illinois",
+    "Remote"
+   ],
+   "posted_at": 1791557184,
+   "source_ats": "ashby",
+   "board_token": "rivianvw.tech",
+   "employment_type": "Intern",
+   "raw_category": "Technology and Innovation",
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2026901",
+   "company": "NVIDIA",
+   "title": "Hardware Design Validation Engineer - Memory Subsystem - New College Grad 2026",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Hardware-Design-Validation-Engineer---Memory-Subsystem---New-College-Grad-2026_JR2026901",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "posted_at": 1791571479,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:kla:UR:2640653",
+   "company": "KLA",
+   "title": "Mechanical Engineering Intern",
+   "url": "https://kla.wd1.myworkdayjobs.com/job/Ann-Arbor-MI/Mechanical-Engineering-Intern_2640653",
+   "locations": [
+    "Ann Arbor, MI"
+   ],
+   "posted_at": 1791571482,
+   "source_ats": "workday",
+   "board_token": "kla:UR",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2629428",
+   "company": "Applied Materials",
+   "title": "2027 Summer Intern - Electrical Engineer - BS/MS Degree, (Santa Clara)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern---Electrical-Engineer---BS-MS-Degree---Santa-Clara-_R2629428",
+   "locations": [
+    "Santa Clara,CA"
+   ],
+   "posted_at": 1791571481,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2629426",
+   "company": "Applied Materials",
+   "title": "2027 Summer Intern - Mechanical Engineer - BS/MS Degree, (Santa Clara)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern---Mechanical-Engineer---BS-MS-Degree---Santa-Clara-_R2629426",
+   "locations": [
+    "Santa Clara,CA"
+   ],
+   "posted_at": 1791571481,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2629427",
+   "company": "Applied Materials",
+   "title": "2027 Summer Intern - Mechanical Engineer - PhD, (Santa Clara)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern---Mechanical-Engineer---PhD---Santa-Clara-_R2629427",
+   "locations": [
+    "Santa Clara,CA"
+   ],
+   "posted_at": 1791571481,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2629425",
+   "company": "Applied Materials",
+   "title": "2027 Summer Intern - Process Engineer - PhD, (Santa Clara)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern---Process-Engineer---PhD---Santa-Clara-_R2629425",
+   "locations": [
+    "Santa Clara,CA"
+   ],
+   "posted_at": 1791571481,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2629424",
+   "company": "Applied Materials",
+   "title": "2027 Summer Intern - Process Engineer - BS/MS Degree (Santa Clara, CA)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern---Process-Engineer---BS-MS-Degree--Santa-Clara--CA-_R2629424",
+   "locations": [
+    "Santa Clara,CA"
+   ],
+   "posted_at": 1791571481,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2630658",
+   "company": "Applied Materials",
+   "title": "2027 Summer Electrical Engineer  Intern (Controls/PCB) - BS or MS (Gloucester, MA)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/GloucesterMA/XMLNAME-2027-Summer-Electrical-Engineer--Intern--Controls-PCB----BS-or-MS--Gloucester--MA-_R2630658",
+   "locations": [
+    "Gloucester,MA"
+   ],
+   "posted_at": 1791571482,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2630657",
+   "company": "Applied Materials",
+   "title": "2027 Summer Mechanical Engineer Intern - BS or MS (Gloucester, MA)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/GloucesterMA/XMLNAME-2027-Summer-Mechanical-Engineer-Intern---BS-or-MS--Gloucester--MA-_R2630657",
+   "locations": [
+    "Gloucester,MA"
+   ],
+   "posted_at": 1791571482,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:globalfoundries:External:JR-2604294",
+   "company": "GlobalFoundries",
+   "title": "Design Manual Publishing & Ground Rule Validation Engineer (2027 New College Graduate)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/USA---Vermont---Essex-Junction/Design-Manual-Publishing---Ground-Rule-Validation-Engineer--2027-New-College-Graduate-_JR-2604294",
+   "locations": [
+    "USA - Vermont - Essex Junction"
+   ],
+   "posted_at": 1791571483,
+   "source_ats": "workday",
+   "board_token": "globalfoundries:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:4e69af63-87c5-4fd4-87cc-63e4dcf7613a",
+   "company": "Applied Materials",
+   "title": "Electrical Engineer Intern - Controls/PCB",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Electrical-Engineer--Intern--Controls-PCB----BS-or-MS--Gloucester--MA-_R2630658",
+   "locations": [
+    "Gloucester, MA"
+   ],
+   "posted_at": 1791504000,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1791557170,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
