@@ -2041,5 +2041,28 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "greenhouse:andurilindustries:5261873007",
+   "company": "Anduril Industries",
+   "title": "2026 Electrical Engineer Intern",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261873007?gh_jid=5261873007",
+   "locations": [
+    "Sydney, New South Wales, Australia"
+   ],
+   "posted_at": 1791516562,
+   "source_ats": "greenhouse",
+   "board_token": "andurilindustries",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1791517362,
+   "sponsorship": null
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
