@@ -44,5 +44,74 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR114232",
+   "company": "Micron",
+   "title": "Intern - SSD Hardware Engineering",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Longmont-MAX--Office-CO/Intern---SSD-Hardware-Engineering_JR114232",
+   "locations": [
+    "Longmont-MAX- Office, CO"
+   ],
+   "posted_at": 1791841812,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:intel:External:JR0287999",
+   "company": "Intel",
+   "title": "Logic Design / Design Verification Engineering Undergraduate Intern",
+   "url": "https://intel.wd1.myworkdayjobs.com/job/Ireland-Leixlip/Logic-Design---Design-Verification-Engineering-Undergraduate-Intern_JR0287999",
+   "locations": [
+    "Ireland, Leixlip"
+   ],
+   "posted_at": 1791841813,
+   "source_ats": "workday",
+   "board_token": "intel:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2008771",
+   "company": "NVIDIA",
+   "title": "Formal Verification Engineer - New College Graduate",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/Hungary-Budapest/Formal-Verification-Engineer---New-College-Graduate_JR2008771",
+   "locations": [
+    "Hungary, Budapest"
+   ],
+   "posted_at": 1791841814,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
