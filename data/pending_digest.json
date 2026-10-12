@@ -1,1 +1,48 @@
-[]
+[
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2026044",
+   "company": "NVIDIA",
+   "title": "PMU Verification Engineer - New College Graduate, 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/PMU-Verification-Engineer---New-College-Graduate--2027_JR2026044",
+   "locations": [
+    "China, Shanghai"
+   ],
+   "posted_at": 1791811621,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2025835",
+   "company": "NVIDIA",
+   "title": "PMU ASIC Engineer - New College Graduate 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/PMU-ASIC-Engineer---New-College-Graduate-2027_JR2025835",
+   "locations": [
+    "China, Shanghai"
+   ],
+   "posted_at": 1791811621,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ }
+]
