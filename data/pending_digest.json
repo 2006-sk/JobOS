@@ -181,5 +181,51 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:intel:External:JR0287998",
+   "company": "Intel",
+   "title": "Silicon Architecture Undergraduate Intern",
+   "url": "https://intel.wd1.myworkdayjobs.com/job/Ireland-Leixlip/Silicon-Architecture-Undergraduate-Intern_JR0287998",
+   "locations": [
+    "Ireland, Leixlip"
+   ],
+   "posted_at": 1791913494,
+   "source_ats": "workday",
+   "board_token": "intel:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:kla:UR:2642150",
+   "company": "KLA",
+   "title": "Mechanical Design Engineer Intern",
+   "url": "https://kla.wd1.myworkdayjobs.com/job/Ann-Arbor-MI/Mechanical-Design-Engineer-Intern_2642150-1",
+   "locations": [
+    "Ann Arbor, MI"
+   ],
+   "posted_at": 1791913496,
+   "source_ats": "workday",
+   "board_token": "kla:UR",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
