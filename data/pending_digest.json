@@ -136,5 +136,50 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2027612",
+   "company": "NVIDIA",
+   "title": "PCB Design Engineer - New College Grad 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/PCB-Design-Engineer---New-College-Grad-2027_JR2027612",
+   "locations": [],
+   "posted_at": 1791887068,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "smartrecruiters:WesternDigital:744000155166490",
+   "company": "Western Digital",
+   "title": "Engineer, Product Design Engineering (New Graduate / 0-2 Years Experience)",
+   "url": "https://jobs.smartrecruiters.com/WesternDigital/744000155166490",
+   "locations": [
+    "Amphoe Si Maha Phot, , Thailand",
+    "Amphoe Si Maha Phot"
+   ],
+   "posted_at": 1791870325,
+   "source_ats": "smartrecruiters",
+   "board_token": "WesternDigital",
+   "employment_type": "Full-time",
+   "raw_category": "Engineering",
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
