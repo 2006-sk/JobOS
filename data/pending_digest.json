@@ -434,5 +434,120 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:intel:External:JR0287927",
+   "company": "Intel",
+   "title": "Platform Validation Engineering Intern",
+   "url": "https://intel.wd1.myworkdayjobs.com/job/Mexico-Guadalajara/Platform-Validation-Engineering-Intern_JR0287927",
+   "locations": [
+    "Mexico, Guadalajara"
+   ],
+   "posted_at": 1791959782,
+   "source_ats": "workday",
+   "board_token": "intel:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:new-grad:f04443f2-cd0f-40dd-b8c7-d6ee6e987cb0",
+   "company": "NVIDIA",
+   "title": "SRAM Circuit Design Engineer New Grad",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SRAM-Circuit-Design-Engineer---New-College-Grad-2026_JR2027839",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1791849600,
+   "source_ats": "aggregator",
+   "board_token": "new-grad",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1791941878,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:new-grad:ba8fdcd6-9d0e-4e4e-af99-3487bc7dea39",
+   "company": "NVIDIA",
+   "title": "ASIC Verification Engineer New Grad",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2027_JR2027719",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1791849600,
+   "source_ats": "aggregator",
+   "board_token": "new-grad",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1791941877,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:new-grad:24af82b2-28c3-4bbd-b3e7-f190ea697dbb",
+   "company": "NVIDIA",
+   "title": "Low Power ASIC Engineer New Grad",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2027_JR2027850",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1791849600,
+   "source_ats": "aggregator",
+   "board_token": "new-grad",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1791941883,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:7bb707f9-e94b-4f2d-8921-ee6d523213bc",
+   "company": "Anduril",
+   "title": "Firmware Engineer Intern",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265158007",
+   "locations": [
+    "Costa Mesa, CA"
+   ],
+   "posted_at": 1791940879,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1791941083,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
