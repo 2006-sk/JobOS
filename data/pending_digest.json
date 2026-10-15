@@ -570,5 +570,28 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "greenhouse:andurilindustries:5257709007",
+   "company": "Anduril Industries",
+   "title": "2027 Flight Test Engineer Intern",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007",
+   "locations": [
+    "Costa Mesa, California, United States"
+   ],
+   "posted_at": 1792001884,
+   "source_ats": "greenhouse",
+   "board_token": "andurilindustries",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1792001884,
+   "sponsorship": null
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
