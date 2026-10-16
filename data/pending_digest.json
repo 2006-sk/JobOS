@@ -616,5 +616,75 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:intel:External:JR0288221",
+   "company": "Intel",
+   "title": "DevOps Engineering Intern",
+   "url": "https://intel.wd1.myworkdayjobs.com/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288221-1",
+   "locations": [
+    "Poland, Gdansk"
+   ],
+   "posted_at": 1792167929,
+   "source_ats": "workday",
+   "board_token": "intel:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:globalfoundries:External:JR-2604257",
+   "company": "GlobalFoundries",
+   "title": "Silicon Photonics Test Development Engineer (2027 New College Graduate)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/USA---Vermont---Essex-Junction/Silicon-Photonics-Test-Development-Engineer--2027-New-College-Graduate-_JR-2604257",
+   "locations": [
+    "USA - Vermont - Essex Junction"
+   ],
+   "posted_at": 1792167933,
+   "source_ats": "workday",
+   "board_token": "globalfoundries:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "smartrecruiters:WesternDigital:744000155977569",
+   "company": "Western Digital",
+   "title": "Engineer, Product Design Engineering (New Graduate / 0-2 Years Experience)",
+   "url": "https://jobs.smartrecruiters.com/WesternDigital/744000155977569",
+   "locations": [
+    "Amphoe Si Maha Phot, , Thailand",
+    "Amphoe Si Maha Phot"
+   ],
+   "posted_at": 1792151475,
+   "source_ats": "smartrecruiters",
+   "board_token": "WesternDigital",
+   "employment_type": "Full-time",
+   "raw_category": "Engineering",
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
