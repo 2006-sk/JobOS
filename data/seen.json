@@ -1,6 +1,6 @@
 {
  "version": 1,
- "count": 28553,
+ "count": 28556,
  "entries": {
   "aggregator:new-grad:00592559-74bf-4659-b573-2b630465cfc8": 1786971939,
   "aggregator:new-grad:005d6bd1-909d-4bab-a19c-5c00733fdc7e": 1791315910,
@@ -24970,6 +24970,7 @@
   "workday:nvidia:NVIDIAExternalCareerSite:JR2014447": 1787864806,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2014458": 1787680699,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2014459": 1789099580,
+  "workday:nvidia:NVIDIAExternalCareerSite:JR2014480": 1792330261,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2014484": 1788362035,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2014493": 1787175077,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2014495": 1787941670,
@@ -25300,6 +25301,7 @@
   "workday:nvidia:NVIDIAExternalCareerSite:JR2019752": 1789493759,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2019756": 1788468643,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2019758": 1787968384,
+  "workday:nvidia:NVIDIAExternalCareerSite:JR2019778": 1792330261,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2019791": 1789168075,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2019798": 1791142228,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2019800": 1789369013,
@@ -25339,6 +25341,7 @@
   "workday:nvidia:NVIDIAExternalCareerSite:JR2020152": 1791245724,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2020161": 1787167905,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2020163": 1788385222,
+  "workday:nvidia:NVIDIAExternalCareerSite:JR2020168": 1792330261,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2020174": 1788077367,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2020176": 1788077367,
   "workday:nvidia:NVIDIAExternalCareerSite:JR2020184": 1788891975,
