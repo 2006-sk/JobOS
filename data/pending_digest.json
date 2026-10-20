@@ -367,5 +367,70 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR115209",
+   "company": "Micron",
+   "title": "Intern - SSD Firmware",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/San-Jose-CA/Intern---SSD-Firmware_JR115209",
+   "locations": [],
+   "posted_at": 1792527741,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR115210",
+   "company": "Micron",
+   "title": "Intern - SSD Firmware",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---Main-Site/Intern---SSD-Firmware_JR115210",
+   "locations": [],
+   "posted_at": 1792527741,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR115572",
+   "company": "Micron",
+   "title": "New College Grad - Dry Etch Process Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---Main-Site/New-College-Grad---Dry-Etch-Process-Engineer_JR115572",
+   "locations": [
+    "Boise, ID - Main Site"
+   ],
+   "posted_at": 1792527741,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
