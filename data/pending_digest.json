@@ -114,5 +114,97 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2631303",
+   "company": "Applied Materials",
+   "title": "Electrical Engineer Intern",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/TempeAZ/Electrical-Engineer-Intern_R2631303",
+   "locations": [
+    "Tempe,AZ"
+   ],
+   "posted_at": 1792458637,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:2e48d484-f46d-4b03-9fd0-f475823d90c1",
+   "company": "Micron Technology",
+   "title": "Design Engineer Intern - High Bandwidth Memory",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR112552",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "posted_at": 1792368000,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1792447712,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:409557ba-787e-483f-90a0-5070340bc017",
+   "company": "NVIDIA",
+   "title": "ASIC Verification Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1792368000,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1792448123,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:f5b59029-db98-4468-a347-16a833889859",
+   "company": "Micron Technology",
+   "title": "HBM Design Engineer Intern - HBM",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR112545",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "posted_at": 1792368000,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1792447709,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
