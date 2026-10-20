@@ -206,5 +206,28 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:new-grad:062331a8-f84b-4a25-9c39-ccabcb6a0371",
+   "company": "SpaceX",
+   "title": "Electrical Engineer New Grad - Electrical",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8900641002",
+   "locations": [
+    "Hawthorne, CA"
+   ],
+   "posted_at": 1792458371,
+   "source_ats": "aggregator",
+   "board_token": "new-grad",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1792458637,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
