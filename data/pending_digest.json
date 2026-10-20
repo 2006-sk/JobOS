@@ -432,5 +432,211 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR114189",
+   "company": "Micron",
+   "title": "Intern - Design Engineer, Pathfinding",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Folsom-CA/Intern---Design-Engineer--Pathfinding_JR114189",
+   "locations": [],
+   "posted_at": 1792538371,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:intel:External:JR0287651",
+   "company": "Intel",
+   "title": "Design Verification Graduate Intern 2027",
+   "url": "https://intel.wd1.myworkdayjobs.com/job/US-Colorado-Fort-Collins/Design-Verification-Graduate-Intern-2027_JR0287651",
+   "locations": [],
+   "posted_at": 1792538372,
+   "source_ats": "workday",
+   "board_token": "intel:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2026:29c329c1-e3a2-499d-a622-9b1017a00282",
+   "company": "NVIDIA",
+   "title": "ASIC Verification Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1792368000,
+   "source_ats": "aggregator",
+   "board_token": "summer2026",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1792511227,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2026:acf2beda-5a5b-40a1-b188-d17c5d2cfdf0",
+   "company": "Micron Technology",
+   "title": "HBM Design Engineer Intern - HBM",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR112545",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "posted_at": 1792368000,
+   "source_ats": "aggregator",
+   "board_token": "summer2026",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1792511227,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:9b0ee2ed-4191-490a-a1d4-f6a6c2872746",
+   "company": "Intel",
+   "title": "Design Verification Engineer Intern",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Colorado-Fort-Collins/Design-Verification-Graduate-Intern-2027_JR0287651",
+   "locations": [
+    "Santa Clara, CA",
+    "Fort Collins, CO"
+   ],
+   "posted_at": 1792454400,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1792535094,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:d1d36277-c286-4066-9ead-82dcb53bd6fd",
+   "company": "Analog Devices",
+   "title": "Analog Design Engineer Intern - Audio",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern--Audio-_R267095",
+   "locations": [
+    "Edinburgh, UK"
+   ],
+   "posted_at": 1792454400,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1792534743,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:49e7e657-59c8-43a2-a04d-7c79bdd765dc",
+   "company": "Analog Devices",
+   "title": "Analog Design Engineer Intern - Power Management",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern--Power-Management-_R267094-1",
+   "locations": [
+    "Edinburgh, UK"
+   ],
+   "posted_at": 1792454400,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1792534747,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:8f086315-a7fd-447d-a2e3-099f00ae946d",
+   "company": "Micron Technology",
+   "title": "SSD Firmware Intern",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SSD-Firmware_JR115210",
+   "locations": [
+    "San Jose, CA",
+    "Boise, ID"
+   ],
+   "posted_at": 1792454400,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1792535817,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:732e9b27-e61f-4a44-b949-2206cbeb1c5f",
+   "company": "Micron Technology",
+   "title": "SSD Firmware Intern",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---SSD-Firmware_JR115209",
+   "locations": [
+    "San Jose, CA",
+    "Boise, ID"
+   ],
+   "posted_at": 1792454400,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1792535817,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
