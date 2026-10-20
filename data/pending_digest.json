@@ -252,5 +252,120 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR114823",
+   "company": "Micron",
+   "title": "New College Grad Process Engineer \u2013 Diffusion/Implant/Rapid Thermal Process",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Manassas-VA----Fab-6/Process-Engineer---Diffusion-Implant-Rapid-Thermal-Process_JR114823",
+   "locations": [
+    "Manassas, VA -  Fab 6"
+   ],
+   "posted_at": 1792515123,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:analogdevices:External:R267094",
+   "company": "Analog Devices",
+   "title": "Analog Design Engineering Intern (Power Management)",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern--Power-Management-_R267094-1",
+   "locations": [
+    "United Kingdom, Edinburgh, SC, Freer"
+   ],
+   "posted_at": 1792515124,
+   "source_ats": "workday",
+   "board_token": "analogdevices:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:analogdevices:External:R267095",
+   "company": "Analog Devices",
+   "title": "Analog Design Engineering Intern (Audio)",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern--Audio-_R267095",
+   "locations": [
+    "United Kingdom, Edinburgh, SC, Freer"
+   ],
+   "posted_at": 1792515124,
+   "source_ats": "workday",
+   "board_token": "analogdevices:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:intel:External:JR0288318",
+   "company": "Intel",
+   "title": "Signal Integrity Student Worker Engineer",
+   "url": "https://intel.wd1.myworkdayjobs.com/job/Costa-Rica-San-Jose/Signal-Integrity-Student-Worker-Engineer_JR0288318",
+   "locations": [
+    "Costa Rica, San Jose"
+   ],
+   "posted_at": 1792515125,
+   "source_ats": "workday",
+   "board_token": "intel:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2026:f65e3501-3ac4-4912-9f47-b093b8ec2434",
+   "company": "Micron Technology",
+   "title": "Design Engineer Intern, HBM",
+   "url": "https://micron.wd1.myworkdayjobs.com/external/job/Richardson-TX/Intern---Design-Engineer--HBM_JR112552",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "posted_at": 1792441894,
+   "source_ats": "aggregator",
+   "board_token": "summer2026",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1792442374,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
