@@ -894,5 +894,75 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:globalfoundries:External:JR-2604924",
+   "company": "GlobalFoundries",
+   "title": "Systems/Process Engineering, Tapeout Operations(Summer 2027)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/USA---New-York---Malta/Systems-Process-Engineering--Tapeout-Operations-Summer-2027-_JR-2604924",
+   "locations": [
+    "USA - New York - Malta"
+   ],
+   "posted_at": 1792619728,
+   "source_ats": "workday",
+   "board_token": "globalfoundries:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2628094",
+   "company": "Applied Materials",
+   "title": "Process Engineer, III New College Grad (Doctorate) Albany, NY",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/AlbanyNY/Process-Engineer--III-New-College-Grad--Doctorate--Albany--NY_R2628094-1",
+   "locations": [
+    "Albany,NY"
+   ],
+   "posted_at": 1792619728,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2026:61b0b82e-d951-4738-9341-b4901db9024b",
+   "company": "Micron Technology",
+   "title": "Design Engineer Intern, Pathfinding",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---Design-Engineer--Pathfinding_JR114189",
+   "locations": [
+    "San Jose, CA",
+    "Folsom, CA"
+   ],
+   "posted_at": 1792454400,
+   "source_ats": "aggregator",
+   "board_token": "summer2026",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1792554309,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
