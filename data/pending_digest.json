@@ -638,5 +638,29 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2026:be831b61-34a6-4947-8bbc-f60b952b69a7",
+   "company": "Micron Technology",
+   "title": "SSD Firmware Intern",
+   "url": "https://micron.wd1.myworkdayjobs.com/external/job/San-Jose-CA/Intern---SSD-Firmware_JR115209",
+   "locations": [
+    "San Jose, CA",
+    "Boise, ID"
+   ],
+   "posted_at": 1792532928,
+   "source_ats": "aggregator",
+   "board_token": "summer2026",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1792535448,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
