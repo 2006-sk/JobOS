@@ -733,5 +733,166 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR114921",
+   "company": "Micron",
+   "title": "New College Grad - PCVD Process Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---ID1/New-College-Grad---PCVD-Process-Engineer_JR114921",
+   "locations": [
+    "Boise, ID - ID1"
+   ],
+   "posted_at": 1792606347,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR114661",
+   "company": "Micron",
+   "title": "New College Grad - ID1 ATE Process Engineer WET",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---ID1/New-College-Grad---ID1-ATE-Process-Engineer-WET_JR114661",
+   "locations": [
+    "Boise, ID - ID1"
+   ],
+   "posted_at": 1792606347,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:analogdevices:External:R267538",
+   "company": "Analog Devices",
+   "title": "Digital Design Engineering Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/job/Italy-Milan-Assago/Digital-Design-Engineering-Intern_R267538",
+   "locations": [
+    "Italy, Milan, Assago"
+   ],
+   "posted_at": 1792606348,
+   "source_ats": "workday",
+   "board_token": "analogdevices:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:analogdevices:External:R267539",
+   "company": "Analog Devices",
+   "title": "AMS Design Verification Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/job/Italy-Milan-Assago/AMS-Design-Verification-Intern_R267539",
+   "locations": [
+    "Italy, Milan, Assago"
+   ],
+   "posted_at": 1792606348,
+   "source_ats": "workday",
+   "board_token": "analogdevices:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:analogdevices:External:R267540",
+   "company": "Analog Devices",
+   "title": "Analog Designer Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/job/Italy-Milan-Assago/Analog-Designer-Intern_R267540-1",
+   "locations": [
+    "Italy, Milan, Assago"
+   ],
+   "posted_at": 1792606348,
+   "source_ats": "workday",
+   "board_token": "analogdevices:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2629701",
+   "company": "Applied Materials",
+   "title": "Summer 2027 Process Engineer Intern- Master's (Santa Clara, CA)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/Summer-2027-Process-Engineer-Intern--Master-s--Santa-Clara--CA-_R2629701",
+   "locations": [
+    "Santa Clara,CA"
+   ],
+   "posted_at": 1792606350,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:4133676f-6b7b-4e51-94b2-df7caa7496db",
+   "company": "Analog Devices",
+   "title": "Analog Design Engineer Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern_R267421",
+   "locations": [
+    "United Kingdom"
+   ],
+   "posted_at": 1792540800,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1792592162,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
