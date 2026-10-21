@@ -662,5 +662,53 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "smartrecruiters:WesternDigital:744000156705084",
+   "company": "Western Digital",
+   "title": "Senior Engineer, Product Design Engineering (Master\u2019s New Graduate | 0-2 Years Experience)",
+   "url": "https://jobs.smartrecruiters.com/WesternDigital/744000156705084",
+   "locations": [
+    "Amphoe Si Maha Phot, , Thailand",
+    "Amphoe Si Maha Phot"
+   ],
+   "posted_at": 1792552741,
+   "source_ats": "smartrecruiters",
+   "board_token": "WesternDigital",
+   "employment_type": "Full-time",
+   "raw_category": "Engineering",
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:fe2202cb-de4d-41d9-a08c-ef2fd1dfe049",
+   "company": "Micron Technology",
+   "title": "Design Engineer Intern - Pathfinding",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---Design-Engineer--Pathfinding_JR114189",
+   "locations": [
+    "San Jose, CA",
+    "Folsom, CA"
+   ],
+   "posted_at": 1792454400,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1792546233,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
