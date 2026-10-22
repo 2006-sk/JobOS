@@ -1056,5 +1056,74 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR115580",
+   "company": "Micron",
+   "title": "New College Grad - DRAM Design Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---Main-Site/New-College-Grad---DRAM-Design-Engineer_JR115580",
+   "locations": [
+    "Boise, ID - Main Site"
+   ],
+   "posted_at": 1792688274,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:analogdevices:External:R267125",
+   "company": "Analog Devices",
+   "title": "Software QA Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/job/Spain-Valencia-Cortes-Valencianas/Software-QA-Intern_R267125",
+   "locations": [
+    "Spain, Valencia, Cortes Valencianas"
+   ],
+   "posted_at": 1792688275,
+   "source_ats": "workday",
+   "board_token": "analogdevices:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:intel:External:JR0288209",
+   "company": "Intel",
+   "title": "DevOps Engineering Intern",
+   "url": "https://intel.wd1.myworkdayjobs.com/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288209",
+   "locations": [
+    "Poland, Gdansk"
+   ],
+   "posted_at": 1792688275,
+   "source_ats": "workday",
+   "board_token": "intel:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
