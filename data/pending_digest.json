@@ -1125,5 +1125,28 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "greenhouse:andurilindustries:5272501007",
+   "company": "Anduril Industries",
+   "title": "2027 Early Career Electrical Engineer",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5272501007?gh_jid=5272501007",
+   "locations": [
+    "Dublin, Dublin, Ireland"
+   ],
+   "posted_at": 1792689833,
+   "source_ats": "greenhouse",
+   "board_token": "andurilindustries",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1792689833,
+   "sponsorship": null
+  },
+  "tier": "unranked",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
