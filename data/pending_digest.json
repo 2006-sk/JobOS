@@ -987,5 +987,74 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "greenhouse:andurilindustries:5258587007",
+   "company": "Anduril Industries",
+   "title": "2027 New Graduate Mechanical Engineer",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5258587007?gh_jid=5258587007",
+   "locations": [
+    "Dublin, Dublin, Ireland"
+   ],
+   "posted_at": 1792585944,
+   "source_ats": "greenhouse",
+   "board_token": "andurilindustries",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1792611684,
+   "sponsorship": null
+  },
+  "tier": "unranked",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2025560",
+   "company": "NVIDIA",
+   "title": "Client System Firmware Engineer (RDSS Intern)",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/Client-System-Firmware-Engineer--RDSS-Intern-_JR2025560",
+   "locations": [
+    "Taiwan, Taipei"
+   ],
+   "posted_at": 1792648476,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2026055",
+   "company": "NVIDIA",
+   "title": "Enterprise System Firmware Engineer (RDSS Intern)",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/Enterprise-System-Firmware-Engineer--RDSS-Intern-_JR2026055",
+   "locations": [
+    "Taiwan, Taipei"
+   ],
+   "posted_at": 1792648476,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
