@@ -964,5 +964,28 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:1fd1fefe-0577-40e1-9bdc-01d1a1bbf326",
+   "company": "GlobalFoundries",
+   "title": "Systems/Process Engineering Intern - Tapeout Operations",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Systems-Process-Engineering--Tapeout-Operations-Summer-2027-_JR-2604924",
+   "locations": [
+    "Malta, NY"
+   ],
+   "posted_at": 1792540800,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Software",
+   "first_seen_at": null,
+   "updated_at": 1792622411,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
