@@ -1148,5 +1148,123 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "ashby:rivianvw.tech:e05c3bd0-caf9-45c0-98e4-c8944eaf5ac7",
+   "company": "Rivian",
+   "title": "Electromechanical Design Engineering Intern (Summer 2027)",
+   "url": "https://jobs.ashbyhq.com/rivianvw.tech/e05c3bd0-caf9-45c0-98e4-c8944eaf5ac7",
+   "locations": [
+    "Palo Alto, California",
+    "Irvine, California",
+    "Remote"
+   ],
+   "posted_at": 1792707637,
+   "source_ats": "ashby",
+   "board_token": "rivianvw.tech",
+   "employment_type": "Intern",
+   "raw_category": "Technology and Innovation",
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "ashby:rivianvw.tech:d7645387-e536-453b-9b15-61f071a8135b",
+   "company": "Rivian",
+   "title": "Electromechanical Design Engineering Intern (Summer 2027)",
+   "url": "https://jobs.ashbyhq.com/rivianvw.tech/d7645387-e536-453b-9b15-61f071a8135b",
+   "locations": [
+    "Vancouver, British Columbia",
+    "Remote"
+   ],
+   "posted_at": 1792707664,
+   "source_ats": "ashby",
+   "board_token": "rivianvw.tech",
+   "employment_type": "Intern",
+   "raw_category": "Technology and Innovation",
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2632042",
+   "company": "Applied Materials",
+   "title": "Process Engineer I, New College Grad - Bachelors (Billerica, MA)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/BillericaMA/Process-Engineer-I--New-College-Grad---Bachelors--Billerica--MA-_R2632042",
+   "locations": [
+    "Billerica,MA"
+   ],
+   "posted_at": 1792711965,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:new-grad:56691694-24a2-4270-86d5-99a893ff4d4e",
+   "company": "Micron Technology",
+   "title": "DRAM Design Engineer New Grad",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---DRAM-Design-Engineer_JR115580",
+   "locations": [
+    "Boise, ID"
+   ],
+   "posted_at": 1792627200,
+   "source_ats": "aggregator",
+   "board_token": "new-grad",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1792707055,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:new-grad:c42e8b63-0df3-4d50-ae88-5f14dca2475f",
+   "company": "Micron Technology",
+   "title": "Memory Design Engineer New Grad - Engineer - Ddeg Ip Development",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/SR-ENGINEER--DDEG-IP-DEVELOPMENT_JR115388",
+   "locations": [
+    "Boise, ID"
+   ],
+   "posted_at": 1792627200,
+   "source_ats": "aggregator",
+   "board_token": "new-grad",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1792707055,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
