@@ -1358,5 +1358,76 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:analogdevices:External:R267098",
+   "company": "Analog Devices",
+   "title": "Design Verification Engineering Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/job/United-Kingdom-Newbury/Design-Verification-Engineering-Intern_R267098",
+   "locations": [
+    "United Kingdom, Newbury"
+   ],
+   "posted_at": 1792765416,
+   "source_ats": "workday",
+   "board_token": "analogdevices:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:analogdevices:External:R267097",
+   "company": "Analog Devices",
+   "title": "Design Verification Engineering Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/job/United-Kingdom-Edinburgh-SC-Freer/Design-Verification-Engineering-Intern_R267097",
+   "locations": [
+    "United Kingdom, Edinburgh, SC, Freer"
+   ],
+   "posted_at": 1792765416,
+   "source_ats": "workday",
+   "board_token": "analogdevices:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:new-grad:83f79aa8-55d8-411d-bcce-9308b80af496",
+   "company": "GlobalFoundries",
+   "title": "New Graduate Heterogeneous Integration Engineer - Quantum Cryogenic 3D Packaging",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Leuven/NCG-3D-Heterogeneous-Integration-Engineer-Cryogenic-3D-packaging_JR-2601211",
+   "locations": [
+    "Malta, NY",
+    "Burlington, VT",
+    "Leuven, Belgium"
+   ],
+   "posted_at": 1782557464,
+   "source_ats": "aggregator",
+   "board_token": "new-grad",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1792749438,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
