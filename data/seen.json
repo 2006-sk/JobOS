@@ -1,6 +1,6 @@
 {
  "version": 1,
- "count": 30755,
+ "count": 30756,
  "entries": {
   "aggregator:new-grad:00592559-74bf-4659-b573-2b630465cfc8": 1786971939,
   "aggregator:new-grad:005d6bd1-909d-4bab-a19c-5c00733fdc7e": 1791315910,
@@ -14434,6 +14434,7 @@
   "greenhouse:spacex:8904957002": 1792648484,
   "greenhouse:spacex:8905802002": 1792606412,
   "greenhouse:spacex:8905871002": 1792688281,
+  "greenhouse:spacex:8906240002": 1792870915,
   "greenhouse:spacex:8906243002": 1792606412,
   "greenhouse:spacex:8907194002": 1792619789,
   "greenhouse:spacex:8907598002": 1792619789,
