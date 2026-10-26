@@ -44,5 +44,28 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR115590",
+   "company": "Micron",
+   "title": "NCG Digital Design Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Jalisco-Mexico/NCG-Digital-Design-Engineer_JR115590",
+   "locations": [
+    "Jalisco, Mexico"
+   ],
+   "posted_at": 1793000301,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
