@@ -67,5 +67,189 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:analogdevices:External:R267690",
+   "company": "Analog Devices",
+   "title": "DevOps Co-Op",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/job/US-MA-Boston/DevOps-Co-Op_R267690",
+   "locations": [
+    "US, MA, Boston"
+   ],
+   "posted_at": 1793026948,
+   "source_ats": "workday",
+   "board_token": "analogdevices:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2026:d9b16f30-fe32-4edc-ae9a-36d55ebc1f35",
+   "company": "Anduril",
+   "title": "Firmware Engineer Intern",
+   "url": "https://go.vansh.nyc/Cl",
+   "locations": [
+    "Costa Mesa, CA"
+   ],
+   "posted_at": 1791940879,
+   "source_ats": "aggregator",
+   "board_token": "summer2026",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1793013503,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2026:2e6f2e12-121d-4302-b653-b54d5d72cead",
+   "company": "GlobalFoundries",
+   "title": "Foundation IP Design Verification Intern",
+   "url": "https://go.vansh.nyc/CM",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1792108800,
+   "source_ats": "aggregator",
+   "board_token": "summer2026",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1793013503,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2026:7d550ba8-1c85-4e61-a2f1-41b6434af126",
+   "company": "Micron Technology",
+   "title": "Memory Design Engineer Intern, HBM",
+   "url": "https://go.vansh.nyc/CN",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "posted_at": 1792108800,
+   "source_ats": "aggregator",
+   "board_token": "summer2026",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1793013503,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2026:13595f4d-3021-4dd6-b428-e03939efc4dc",
+   "company": "Rivian",
+   "title": "Design Verification Co-op, Neural Engine",
+   "url": "https://go.vansh.nyc/E5",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "posted_at": 1790806533,
+   "source_ats": "aggregator",
+   "board_token": "summer2026",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1793015500,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2026:75e281d6-8b80-4f36-ab31-61fbb90edb18",
+   "company": "Micron Technology",
+   "title": "HBM Memory Design Engineer Intern",
+   "url": "https://go.vansh.nyc/Ev",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "posted_at": 1791072000,
+   "source_ats": "aggregator",
+   "board_token": "summer2026",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1793015500,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2026:6dc78a45-a8fa-4d5f-a6ba-fb381b2cb7a7",
+   "company": "NVIDIA",
+   "title": "PCIe Design Verification Intern",
+   "url": "https://go.vansh.nyc/EV",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1791244800,
+   "source_ats": "aggregator",
+   "board_token": "summer2026",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1793015500,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2026:4d2c46d7-35bb-4294-93dc-91ced2df5c91",
+   "company": "NVIDIA",
+   "title": "PCIe Design Verification Intern",
+   "url": "https://go.vansh.nyc/EW",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1791244800,
+   "source_ats": "aggregator",
+   "board_token": "summer2026",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1793015500,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
