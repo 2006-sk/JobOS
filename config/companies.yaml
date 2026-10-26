@@ -190,6 +190,73 @@ companies:
     token: "WesternDigital"
 
 # ---------------------------------------------------------------------------
+
+  - company: "Hewlett Packard Enterprise"
+    tier: "unranked"
+    ats: workday
+    token: "hpe"
+    site: "jobsathpe"
+    host: "hpe.wd5.myworkdayjobs.com"
+
+  - company: "Skydio"
+    tier: "unranked"
+    ats: ashby
+    token: "skydio"
+
+  - company: "Astera Labs"
+    tier: "unranked"
+    ats: greenhouse
+    token: "asteraearlycareer2027"
+
+  - company: "RTX"
+    tier: "unranked"
+    ats: workday
+    token: "globalhr"
+    site: "rec_rtx_ext_gateway"
+    host: "globalhr.wd5.myworkdayjobs.com"
+
+  - company: "Marvell"
+    tier: "unranked"
+    ats: workday
+    token: "marvell"
+    site: "MarvellCareers"
+    host: "marvell.wd1.myworkdayjobs.com"
+
+  - company: "Rockwell Automation"
+    tier: "unranked"
+    ats: workday
+    token: "rockwellautomation"
+    site: "External_Rockwell_Automation"
+    host: "rockwellautomation.wd1.myworkdayjobs.com"
+
+  - company: "AeroVironment"
+    tier: "unranked"
+    ats: workday
+    token: "avav"
+    site: "avav"
+    host: "avav.wd1.myworkdayjobs.com"
+
+  - company: "Booz Allen"
+    tier: "unranked"
+    ats: workday
+    token: "bah"
+    site: "bah_jobs"
+    host: "bah.wd1.myworkdayjobs.com"
+
+  - company: "General Motors"
+    tier: "unranked"
+    ats: workday
+    token: "generalmotors"
+    site: "Careers_GM"
+    host: "generalmotors.wd5.myworkdayjobs.com"
+
+  - company: "CACI"
+    tier: "unranked"
+    ats: workday
+    token: "caci"
+    site: "external"
+    host: "caci.wd1.myworkdayjobs.com"
+
 # UNRESOLVED -- no public job-board API we can reach.
 #
 # These run proprietary career sites (Apple, Google, Amazon, Microsoft,
