@@ -322,5 +322,98 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2630826",
+   "company": "Applied Materials",
+   "title": "2027 Summer Mechanical Engineer Intern - BS or MS (Austin, TX)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/AustinTX/XMLNAME-2027-Summer-Mechanical-Engineer-Intern---BS-or-MS--Austin--TX-_R2630826",
+   "locations": [
+    "Austin,TX"
+   ],
+   "posted_at": 1793134392,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2028554",
+   "company": "NVIDIA",
+   "title": "Formal Verification Engineer - New College Grad 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2027_JR2028554",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "posted_at": 1793134390,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:globalfoundries:External:JR-2604265",
+   "company": "GlobalFoundries",
+   "title": "Silicon Photonics Process Integration Intern (Summer 2027)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/USA---New-York---Malta/Silicon-Photonics-Process-Integration-Intern--Summer-2027-_JR-2604265",
+   "locations": [
+    "USA - New York - Malta"
+   ],
+   "posted_at": 1793134392,
+   "source_ats": "workday",
+   "board_token": "globalfoundries:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "smartrecruiters:WesternDigital:744000157783559",
+   "company": "Western Digital",
+   "title": "Senior Engineer, Product Design Engineering (Master\u2019s New Graduate | 0-2 Years Experience)",
+   "url": "https://jobs.smartrecruiters.com/WesternDigital/744000157783559",
+   "locations": [
+    "Amphoe Si Maha Phot, , Thailand",
+    "Amphoe Si Maha Phot"
+   ],
+   "posted_at": 1793012577,
+   "source_ats": "smartrecruiters",
+   "board_token": "WesternDigital",
+   "employment_type": "Full-time",
+   "raw_category": "Engineering",
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
