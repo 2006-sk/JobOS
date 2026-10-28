@@ -415,5 +415,29 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:new-grad:9a09291b-b6c0-4d1a-b639-702e847b90fe",
+   "company": "NVIDIA",
+   "title": "Formal Verification Engineer New Grad",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2027_JR2028554",
+   "locations": [
+    "Santa Clara, CA",
+    "United States"
+   ],
+   "posted_at": 1793059200,
+   "source_ats": "aggregator",
+   "board_token": "new-grad",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1793139379,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
