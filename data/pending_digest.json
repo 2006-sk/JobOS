@@ -509,5 +509,28 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2628770",
+   "company": "Applied Materials",
+   "title": "Summer 2027 Mechanical Engineering Intern- Bachelor's (Chandler, AZ)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/ChandlerAZ/Summer-2027-Mechanical-Engineering-Intern--Bachelor-s--Chandler--AZ-_R2628770",
+   "locations": [
+    "Chandler,AZ"
+   ],
+   "posted_at": 1793230004,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
