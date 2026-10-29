@@ -624,5 +624,51 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2626858",
+   "company": "Applied Materials",
+   "title": "RF Electrical Engineer New College Grad- Master's (Santa Clara, CA)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/RF-Electrical-Engineer-New-College-Grad--Master-s--Santa-Clara--CA-_R2626858",
+   "locations": [
+    "Santa Clara,CA"
+   ],
+   "posted_at": 1793310096,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2026:dd1bffdc-6a81-490e-8c8f-9d83aceb59c4",
+   "company": "Micron Technology",
+   "title": "ASIC Digital Design Intern",
+   "url": "https://go.vansh.nyc/Z8",
+   "locations": [
+    "Minneapolis, MN"
+   ],
+   "posted_at": 1793234263,
+   "source_ats": "aggregator",
+   "board_token": "summer2026",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1793295463,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
