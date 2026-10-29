@@ -532,5 +532,28 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2022102",
+   "company": "NVIDIA",
+   "title": "GPU Verification Engineer - New College Grad 2026",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2022102",
+   "locations": [
+    "US, MA, Westford"
+   ],
+   "posted_at": 1793266952,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
