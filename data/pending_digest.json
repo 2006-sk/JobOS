@@ -691,5 +691,51 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:intel:External:JR0288518",
+   "company": "Intel",
+   "title": "Signal Integrity Intern",
+   "url": "https://intel.wd1.myworkdayjobs.com/job/Mexico-Guadalajara/Signal-Integrity-Intern_JR0288518",
+   "locations": [
+    "Mexico, Guadalajara"
+   ],
+   "posted_at": 1793262257,
+   "source_ats": "workday",
+   "board_token": "intel:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2632516",
+   "company": "Applied Materials",
+   "title": "2027 Spring Process Engineer Co-op - Doctorate (Gloucester, MA)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/GloucesterMA/XMLNAME-2027-Spring-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2632516",
+   "locations": [
+    "Gloucester,MA"
+   ],
+   "posted_at": 1793262259,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
