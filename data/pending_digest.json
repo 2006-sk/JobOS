@@ -876,5 +876,51 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR115378",
+   "company": "Micron",
+   "title": "Intern - Process Integration \u2013 Advanced Packaging",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---Main-Site/Intern---Process-Integration---Advanced-Packaging_JR115378",
+   "locations": [
+    "Boise, ID - Main Site"
+   ],
+   "posted_at": 1793477555,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2631535",
+   "company": "Applied Materials",
+   "title": "2027 Spring Electrical Engineer Co-op (Billerica, MA)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/BillericaMA/XMLNAME-2027-Spring-Electrical-Engineer-Co-op--Billerica--MA-_R2631535-1",
+   "locations": [
+    "Billerica,MA"
+   ],
+   "posted_at": 1793477557,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
