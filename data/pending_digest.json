@@ -1,1 +1,69 @@
-[]
+[
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2028897",
+   "company": "NVIDIA",
+   "title": "Formal Verification Engineer - New College Graduate 2026",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/India-Gurugram/Formal-Verification-Engineer---New-College-Graduate-2026_JR2028897",
+   "locations": [],
+   "posted_at": 1793648497,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2028466",
+   "company": "NVIDIA",
+   "title": "ASIC Physical Design Engineer - New College Graduate",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Hsinchu/ASIC-Physical-Design-Engineer---New-College-Graduate_JR2028466",
+   "locations": [
+    "Taiwan, Hsinchu"
+   ],
+   "posted_at": 1793648498,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2629967",
+   "company": "Applied Materials",
+   "title": "2027 Summer Electrical Engineer Intern- Master's (Santa Clara, CA)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/XMLNAME-2027-Summer-Electrical-Engineer-Intern--Master-s--Santa-Clara--CA-_R2629967",
+   "locations": [
+    "Santa Clara,CA"
+   ],
+   "posted_at": 1793648499,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ }
+]
