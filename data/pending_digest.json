@@ -65,5 +65,212 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR115377",
+   "company": "Micron",
+   "title": "Intern - Process Integration, Advanced Packaging",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---Main-Site/Intern---Process-Integration--Advanced-Packaging_JR115377",
+   "locations": [
+    "Boise, ID - Main Site"
+   ],
+   "posted_at": 1793671600,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:globalfoundries:External:JR-2605136",
+   "company": "GlobalFoundries",
+   "title": "Silicon Photonics Advanced Packaging Intern (Summer 2027)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/USA---New-York---Malta/Silicon-Photonics-Advanced-Packaging-Intern--Summer-2027-_JR-2605136",
+   "locations": [
+    "USA - New York - Malta"
+   ],
+   "posted_at": 1793671601,
+   "source_ats": "workday",
+   "board_token": "globalfoundries:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:globalfoundries:External:JR-2605133",
+   "company": "GlobalFoundries",
+   "title": "PDK Design Engineering Intern, Silicon Photonics (Summer 2027)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/USA---New-York---Malta/PDK-Design-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2605133",
+   "locations": [
+    "USA - New York - Malta"
+   ],
+   "posted_at": 1793671601,
+   "source_ats": "workday",
+   "board_token": "globalfoundries:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:globalfoundries:External:JR-2605131",
+   "company": "GlobalFoundries",
+   "title": "Device Engineering Intern, Silicon Photonics (Summer 2027)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2605131",
+   "locations": [
+    "USA - New York - Malta"
+   ],
+   "posted_at": 1793671602,
+   "source_ats": "workday",
+   "board_token": "globalfoundries:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:globalfoundries:External:JR-2604120",
+   "company": "GlobalFoundries",
+   "title": "Design Verification Engineer (2027 New College Graduate)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/USA---Texas---Richardson/Design-Verification-Engineer--2027-New-College-Graduate-_JR-2604120",
+   "locations": [
+    "USA - Texas - Richardson"
+   ],
+   "posted_at": 1793671602,
+   "source_ats": "workday",
+   "board_token": "globalfoundries:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:globalfoundries:External:JR-2604024",
+   "company": "GlobalFoundries",
+   "title": "Design Verification Engineer Intern (Summer 2027)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/USA---Texas---Richardson/Design-Verification-Engineer-Intern--Summer-2027-_JR-2604024",
+   "locations": [
+    "USA - Texas - Richardson"
+   ],
+   "posted_at": 1793671602,
+   "source_ats": "workday",
+   "board_token": "globalfoundries:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2026:b783ad7e-c596-44f9-9bf2-09cf205898a1",
+   "company": "GlobalFoundries",
+   "title": "Design Verification Engineer Intern",
+   "url": "https://go.vansh.nyc/1ba",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "posted_at": 1793577600,
+   "source_ats": "aggregator",
+   "board_token": "summer2026",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1793662521,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:09f3cfdc-be48-451f-983d-01afb7f96b2b",
+   "company": "GlobalFoundries",
+   "title": "Design Verification Engineer Intern",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Design-Verification-Engineer-Intern--Summer-2027-_JR-2604024",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "posted_at": 1793577600,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1793661661,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:2f4044bd-36a6-4537-a63e-6dbebb99c1ce",
+   "company": "Applied Materials",
+   "title": "Electrical Engineer Intern",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Electrical-Engineer-Intern--Master-s--Santa-Clara--CA-_R2629967",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1793577600,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1793663496,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
