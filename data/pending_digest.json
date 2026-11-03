@@ -525,5 +525,74 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR115379",
+   "company": "Micron",
+   "title": "Intern - Process Integration, Advanced Packaging",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---Main-Site/Intern---Process-Integration--Advanced-Packaging_JR115379",
+   "locations": [
+    "Boise, ID - Main Site"
+   ],
+   "posted_at": 1793747115,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR115368",
+   "company": "Micron",
+   "title": "Intern - Advanced Packaging TD",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---Main-Site/Intern---Advanced-Packaging-TD_JR115368",
+   "locations": [
+    "Boise, ID - Main Site"
+   ],
+   "posted_at": 1793747115,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2029108",
+   "company": "NVIDIA",
+   "title": "PCIe Post-Silicon Validation Engineer - New College Grad 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/PCIe-Post-Silicon-Validation-Engineer---New-College-Grad-2027_JR2029108",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "posted_at": 1793747116,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
