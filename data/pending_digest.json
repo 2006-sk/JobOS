@@ -433,5 +433,97 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:analogdevices:External:R266998",
+   "company": "Analog Devices",
+   "title": "RF Design Engineering Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/job/Turkey-Istanbul-Bilisim-Vadisi/RF-Design-Engineering-Intern_R266998",
+   "locations": [
+    "Turkey, Istanbul, Bilisim Vadisi"
+   ],
+   "posted_at": 1793727561,
+   "source_ats": "workday",
+   "board_token": "analogdevices:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:analogdevices:External:R266999",
+   "company": "Analog Devices",
+   "title": "RF Design Engineering Summer Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/job/Turkey-Istanbul-Bilisim-Vadisi/RF-Design-Engineering-Summer-Intern_R266999-1",
+   "locations": [
+    "Turkey, Istanbul, Bilisim Vadisi"
+   ],
+   "posted_at": 1793727561,
+   "source_ats": "workday",
+   "board_token": "analogdevices:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:cadence:External_Careers:R56881",
+   "company": "Cadence",
+   "title": "Intern for analog circuit design",
+   "url": "https://cadence.wd1.myworkdayjobs.com/job/BEIJING/Intern-for-analog-circuit-design_R56881",
+   "locations": [
+    "BEIJING"
+   ],
+   "posted_at": 1793727562,
+   "source_ats": "workday",
+   "board_token": "cadence:External_Careers",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2026:1bd1c54e-b16c-4fad-90ce-49f547f7b54d",
+   "company": "Analog Devices",
+   "title": "DevOps Co-op",
+   "url": "https://go.vansh.nyc/Qf",
+   "locations": [
+    "Boston, MA"
+   ],
+   "posted_at": 1793026643,
+   "source_ats": "aggregator",
+   "board_token": "summer2026",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1793027183,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
