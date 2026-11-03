@@ -272,5 +272,166 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:cadence:External_Careers:R56880",
+   "company": "Cadence",
+   "title": "Intern for analog circuit design",
+   "url": "https://cadence.wd1.myworkdayjobs.com/job/BEIJING/Intern-for-analog-circuit-design_R56880",
+   "locations": [
+    "BEIJING"
+   ],
+   "posted_at": 1793699722,
+   "source_ats": "workday",
+   "board_token": "cadence:External_Careers",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2026:1cb91e37-322c-429d-835f-b9bd2dadcde7",
+   "company": "Micron Technology",
+   "title": "Data Center SSD Firmware Intern",
+   "url": "https://go.vansh.nyc/1d3",
+   "locations": [
+    "Longmont, CO"
+   ],
+   "posted_at": 1793685978,
+   "source_ats": "aggregator",
+   "board_token": "summer2026",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1793686189,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2026:54376d3f-38d8-4e92-8099-42e0a075f603",
+   "company": "Micron Technology",
+   "title": "Firmware Engineer Intern",
+   "url": "https://go.vansh.nyc/1d4",
+   "locations": [
+    "Longmont, CO"
+   ],
+   "posted_at": 1793685978,
+   "source_ats": "aggregator",
+   "board_token": "summer2026",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1793686189,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2026:8d47e017-e0b5-4a84-9ec3-cc6a02c62498",
+   "company": "Micron Technology",
+   "title": "SSD Firmware Intern, CICD",
+   "url": "https://go.vansh.nyc/1d7",
+   "locations": [
+    "Longmont, CO"
+   ],
+   "posted_at": 1793685978,
+   "source_ats": "aggregator",
+   "board_token": "summer2026",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1793686189,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:f59645fd-b938-4a04-8aa8-1bf0b5d46760",
+   "company": "GlobalFoundries",
+   "title": "PDK Design Engineering Intern - Silicon Photonics",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/PDK-Design-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2605133",
+   "locations": [
+    "Malta, NY"
+   ],
+   "posted_at": 1793577600,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1793672281,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:b07e10e9-36f7-459e-aefc-6c0628655233",
+   "company": "GlobalFoundries",
+   "title": "Silicon Photonics Advanced Packaging Intern",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Advanced-Packaging-Intern--Summer-2027-_JR-2605136",
+   "locations": [
+    "Malta, NY"
+   ],
+   "posted_at": 1793577600,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1793672281,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:96473a10-c969-46e3-93de-64ab0f07a746",
+   "company": "GlobalFoundries",
+   "title": "Device Engineer Intern - Silicon Photonics",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2605131",
+   "locations": [
+    "Malta, NY"
+   ],
+   "posted_at": 1793577600,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1793672354,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
