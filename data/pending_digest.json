@@ -594,5 +594,49 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:cadence:External_Careers:R56879",
+   "company": "Cadence",
+   "title": "Intern for analog circuit design",
+   "url": "https://cadence.wd1.myworkdayjobs.com/job/BEIJING/Intern-for-analog-circuit-design_R56879",
+   "locations": [
+    "BEIJING"
+   ],
+   "posted_at": 1793791613,
+   "source_ats": "workday",
+   "board_token": "cadence:External_Careers",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2029164",
+   "company": "NVIDIA",
+   "title": "Digital Design Engineer, Coherent High Speed Interconnect - New College Graduate",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Hsinchu/Digital-Design-Engineer--Coherent-High-Speed-Interconnect---New-College-Graduate_JR2029164",
+   "locations": [],
+   "posted_at": 1793791613,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
