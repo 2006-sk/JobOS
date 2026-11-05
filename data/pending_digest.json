@@ -638,5 +638,51 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR108468",
+   "company": "Micron",
+   "title": "Intern - DRAM Design Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108468",
+   "locations": [
+    "Boise, ID - Main Site"
+   ],
+   "posted_at": 1793837726,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2026:f3ceaf85-3497-4c7a-ba92-99aec48a264c",
+   "company": "Micron Technology",
+   "title": "DRAM Design Engineer Intern",
+   "url": "https://go.vansh.nyc/1h3",
+   "locations": [
+    "Boise, ID"
+   ],
+   "posted_at": 1793754387,
+   "source_ats": "aggregator",
+   "board_token": "summer2026",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1793826387,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
