@@ -684,5 +684,99 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:cadence:External_Careers:R56890",
+   "company": "Cadence",
+   "title": "Intern - Design Engineering",
+   "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Intern---Design-Engineering_R56890",
+   "locations": [
+    "SHANGHAI"
+   ],
+   "posted_at": 1793862857,
+   "source_ats": "workday",
+   "board_token": "cadence:External_Careers",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2632478",
+   "company": "Applied Materials",
+   "title": "Mechanical Engineer I New College Grad - Bachelor's (Austin, TX)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/AustinTX/Mechanical-Engineer-I-New-College-Grad---Bachelor-s--Austin--TX-_R2632478",
+   "locations": [
+    "Austin,TX"
+   ],
+   "posted_at": 1793862859,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2026798",
+   "company": "NVIDIA",
+   "title": "VLSI Timing Methodology Intern - Summer 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/VLSI-Timing-Methodology-Intern---Summer-2027_JR2026798",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "posted_at": 1793862856,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:ebba2264-4c43-465b-b345-797fd47295cd",
+   "company": "NVIDIA",
+   "title": "VLSI Timing Methodology Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-Timing-Methodology-Intern---Summer-2027_JR2026798",
+   "locations": [
+    "Canada",
+    "Santa Clara, CA",
+    "United States"
+   ],
+   "posted_at": 1793750400,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1793844904,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
