@@ -868,5 +868,120 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2029067",
+   "company": "NVIDIA",
+   "title": "Circuit Validation Engineer - New College Graduate 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Circuit-Validation-Engineer---New-College-Graduate-2027_JR2029067",
+   "locations": [
+    "China, Shanghai"
+   ],
+   "posted_at": 1793985455,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:globalfoundries:External:JR-2604264",
+   "company": "GlobalFoundries",
+   "title": "Device Engineering Intern, Silicon Photonics (Summer 2027)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604264",
+   "locations": [
+    "USA - New York - Malta"
+   ],
+   "posted_at": 1793985457,
+   "source_ats": "workday",
+   "board_token": "globalfoundries:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:globalfoundries:External:JR-2604260",
+   "company": "GlobalFoundries",
+   "title": "Silicon Photonics Test Development Intern (Summer 2027)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/USA---Vermont---Essex-Junction/Silicon-Photonics-Test-Development-Intern--Summer-2027-_JR-2604260",
+   "locations": [
+    "USA - Vermont - Essex Junction"
+   ],
+   "posted_at": 1793985457,
+   "source_ats": "workday",
+   "board_token": "globalfoundries:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:globalfoundries:External:JR-2604266",
+   "company": "GlobalFoundries",
+   "title": "Silicon Photonics Process Integration Intern (Summer 2027)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/USA---New-York---Malta/Silicon-Photonics-Process-Integration-Intern--Summer-2027-_JR-2604266",
+   "locations": [
+    "USA - New York - Malta"
+   ],
+   "posted_at": 1793985457,
+   "source_ats": "workday",
+   "board_token": "globalfoundries:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:globalfoundries:External:JR-2605132",
+   "company": "GlobalFoundries",
+   "title": "Program Management Intern, Silicon Photonics (Summer 2027)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/USA---New-York---Malta/Program-Management-Intern--Silicon-Photonics--Summer-2027-_JR-2605132",
+   "locations": [
+    "USA - New York - Malta"
+   ],
+   "posted_at": 1793985457,
+   "source_ats": "workday",
+   "board_token": "globalfoundries:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
