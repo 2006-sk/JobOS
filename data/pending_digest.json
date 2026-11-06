@@ -799,5 +799,74 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2633193",
+   "company": "Applied Materials",
+   "title": "New College Grad - Process Engineer - Doctorate (Winter 2026)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/New-College-Grad---Process-Engineer---Doctorate--Winter-2026-_R2633193",
+   "locations": [
+    "Santa Clara,CA"
+   ],
+   "posted_at": 1793930894,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:amat:External:R2632288",
+   "company": "Applied Materials",
+   "title": "New College Grad - Process Engineer - Doctorate (Winter 2026)",
+   "url": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/Process-Engineer_R2632288",
+   "locations": [
+    "Santa Clara,CA"
+   ],
+   "posted_at": 1793930894,
+   "source_ats": "workday",
+   "board_token": "amat:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:new-grad:54dc105e-04a3-467e-8c7f-b6bf88166ddc",
+   "company": "SpaceX",
+   "title": "Electrical Engineer New Grad - Multiple Teams",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8931507002",
+   "locations": [
+    "Redmond, WA"
+   ],
+   "posted_at": 1793905824,
+   "source_ats": "aggregator",
+   "board_token": "new-grad",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1793921768,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
