@@ -983,5 +983,51 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:kla:UR:2643268",
+   "company": "KLA",
+   "title": "Mechanical Engineer Intern",
+   "url": "https://kla.wd1.myworkdayjobs.com/job/Milpitas-CA/Mechanical-Engineer-Intern_2643268",
+   "locations": [
+    "Milpitas, CA"
+   ],
+   "posted_at": 1794017731,
+   "source_ats": "workday",
+   "board_token": "kla:UR",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:a3d75dc4-a4d8-4d65-ac52-0329bd049e19",
+   "company": "GlobalFoundries",
+   "title": "Device Engineer Intern - Silicon Photonics",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604264",
+   "locations": [
+    "Malta, NY"
+   ],
+   "posted_at": 1793923200,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1794008383,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
