@@ -21,5 +21,74 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:kla:UR:2642999",
+   "company": "KLA",
+   "title": "Packaging Engineering Intern",
+   "url": "https://kla.wd1.myworkdayjobs.com/job/Milpitas-CA/Packaging-Engineering-Intern_2642999",
+   "locations": [
+    "Milpitas, CA"
+   ],
+   "posted_at": 1794256498,
+   "source_ats": "workday",
+   "board_token": "kla:UR",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:kla:UR:2641972",
+   "company": "KLA",
+   "title": "Electrical Engineering Intern",
+   "url": "https://kla.wd1.myworkdayjobs.com/job/Milpitas-CA/Electrical-Engineering-Intern_2641972",
+   "locations": [
+    "Milpitas, CA"
+   ],
+   "posted_at": 1794256498,
+   "source_ats": "workday",
+   "board_token": "kla:UR",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:analogdevices:External:R267594",
+   "company": "Analog Devices",
+   "title": "Analog Design Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/job/India-Bangalore-Nova/Analog-Design-Intern_R267594",
+   "locations": [
+    "India, Bangalore, Nova"
+   ],
+   "posted_at": 1794256494,
+   "source_ats": "workday",
+   "board_token": "analogdevices:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
