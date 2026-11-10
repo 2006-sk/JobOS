@@ -90,5 +90,51 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:4c976905-4876-48ed-8c5e-7cc71c1dbbe8",
+   "company": "KLA Corporation",
+   "title": "Electrical Engineering Intern",
+   "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Electrical-Engineering-Intern_2641972-1",
+   "locations": [
+    "Milpitas, CA"
+   ],
+   "posted_at": 1794182400,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1794266285,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:2403ca03-ad7b-4b50-b012-73dfb808e2f8",
+   "company": "KLA Corporation",
+   "title": "Electrical Engineering Intern",
+   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Electrical-Engineering-Intern_2641972",
+   "locations": [
+    "Milpitas, CA"
+   ],
+   "posted_at": 1794182400,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1794265751,
+   "sponsorship": "Other"
+  },
+  "tier": "unranked",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
