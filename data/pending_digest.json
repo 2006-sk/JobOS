@@ -297,5 +297,51 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR117316",
+   "company": "Micron",
+   "title": "INTERN- DESIGN ENGINEER",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Avezzano-AQ-Italy/INTERN--DESIGN-ENGINEER_JR117316",
+   "locations": [
+    "Avezzano (AQ), Italy"
+   ],
+   "posted_at": 1794339110,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:globalfoundries:External:JR-2605134",
+   "company": "GlobalFoundries",
+   "title": "Silicon Photonics Process Integration Engineering Intern (Summer 2027)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/USA---New-York---Malta/Silicon-Photonics-Process-Integration-Engineering-Intern--Summer-2027-_JR-2605134",
+   "locations": [
+    "USA - New York - Malta"
+   ],
+   "posted_at": 1794339112,
+   "source_ats": "workday",
+   "board_token": "globalfoundries:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
