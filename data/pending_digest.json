@@ -136,5 +136,166 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:globalfoundries:External:JR-2604267",
+   "company": "GlobalFoundries",
+   "title": "Silicon Photonics Process Integration Intern (Summer 2027)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/USA---New-York---Malta/Silicon-Photonics-Process-Integration-Intern--Summer-2027-_JR-2604267",
+   "locations": [
+    "USA - New York - Malta"
+   ],
+   "posted_at": 1794310641,
+   "source_ats": "workday",
+   "board_token": "globalfoundries:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:globalfoundries:External:JR-2604022",
+   "company": "GlobalFoundries",
+   "title": "Design Verification Engineer Intern (Summer 2027)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/USA---Texas---Richardson/Design-Verification-Engineer-Intern--Summer-2027-_JR-2604022",
+   "locations": [
+    "USA - Texas - Richardson"
+   ],
+   "posted_at": 1794310641,
+   "source_ats": "workday",
+   "board_token": "globalfoundries:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:globalfoundries:External:JR-2604261",
+   "company": "GlobalFoundries",
+   "title": "Device Engineering Intern, Silicon Photonics (Summer 2027)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604261",
+   "locations": [
+    "USA - New York - Malta"
+   ],
+   "posted_at": 1794310641,
+   "source_ats": "workday",
+   "board_token": "globalfoundries:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:globalfoundries:External:JR-2605135",
+   "company": "GlobalFoundries",
+   "title": "Silicon Photonics Process Integration Engineering Intern (Summer 2027)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/USA---New-York---Malta/Silicon-Photonics-Process-Integration-Engineering-Intern--Summer-2027-_JR-2605135",
+   "locations": [
+    "USA - New York - Malta"
+   ],
+   "posted_at": 1794310641,
+   "source_ats": "workday",
+   "board_token": "globalfoundries:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2026:11054b2f-34e1-4f34-b9a7-7d3cf5671f13",
+   "company": "GlobalFoundries",
+   "title": "Design Verification Engineer Intern",
+   "url": "https://go.vansh.nyc/1qc",
+   "locations": [
+    "Plano, TX"
+   ],
+   "posted_at": 1794268800,
+   "source_ats": "aggregator",
+   "board_token": "summer2026",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1794301513,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:47bfdcc8-4ce1-4a8a-b57e-2a7fecbbaaae",
+   "company": "GlobalFoundries",
+   "title": "Design Verification Engineer Intern",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Design-Verification-Engineer-Intern--Summer-2027-_JR-2604022",
+   "locations": [
+    "Plano, TX"
+   ],
+   "posted_at": 1794268800,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1794295818,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:ead5f751-f243-49c0-8ed5-4ac0867e4f57",
+   "company": "GlobalFoundries",
+   "title": "Device Engineering Intern - Silicon Photonics",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604261",
+   "locations": [
+    "Malta, NY"
+   ],
+   "posted_at": 1794268800,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1794295818,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
