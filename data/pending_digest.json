@@ -436,5 +436,28 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:kla:UR:2642897",
+   "company": "KLA",
+   "title": "Electrical Engineering Intern",
+   "url": "https://kla.wd1.myworkdayjobs.com/job/Ann-Arbor-MI/Electrical-Engineering-Intern_2642897",
+   "locations": [
+    "Ann Arbor, MI"
+   ],
+   "posted_at": 1794436438,
+   "source_ats": "workday",
+   "board_token": "kla:UR",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
