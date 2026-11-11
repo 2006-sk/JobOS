@@ -413,5 +413,28 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:kla:UR:2643472",
+   "company": "KLA",
+   "title": "Electrical Engineering Internship",
+   "url": "https://kla.wd1.myworkdayjobs.com/job/Milpitas-CA/Electrical-Engineering-Internship_2643472",
+   "locations": [
+    "Milpitas, CA"
+   ],
+   "posted_at": 1794411136,
+   "source_ats": "workday",
+   "board_token": "kla:UR",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
