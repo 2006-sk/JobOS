@@ -343,5 +343,75 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "greenhouse:samsara:8226608",
+   "company": "Samsara",
+   "title": "Electrical Engineering Co-Op",
+   "url": "https://www.samsara.com/company/careers/roles/8226608?gh_jid=8226608",
+   "locations": [
+    "San Francisco - SF9"
+   ],
+   "posted_at": 1794341735,
+   "source_ats": "greenhouse",
+   "board_token": "samsara",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1794341735,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "smartrecruiters:WesternDigital:744000160975864",
+   "company": "Western Digital",
+   "title": "Summer 2027 Intern - Hardware Engineering",
+   "url": "https://jobs.smartrecruiters.com/WesternDigital/744000160975864",
+   "locations": [
+    "San Jose, CA, United States",
+    "San Jose"
+   ],
+   "posted_at": 1794347907,
+   "source_ats": "smartrecruiters",
+   "board_token": "WesternDigital",
+   "employment_type": "Intern",
+   "raw_category": "Engineering",
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2026:98f43590-180b-4be2-8c36-fd01bdc226f3",
+   "company": "Western Digital",
+   "title": "Hardware Engineering Intern",
+   "url": "https://go.vansh.nyc/1sa",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1794348373,
+   "source_ats": "aggregator",
+   "board_token": "summer2026",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1794350173,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
