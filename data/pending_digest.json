@@ -528,5 +528,143 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR107760",
+   "company": "Micron",
+   "title": "New College Grad - ATE Process Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---ID1/New-College-Grad---ATE-Process-Engineer_JR107760",
+   "locations": [
+    "Boise, ID - ID1"
+   ],
+   "posted_at": 1794514734,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR116163",
+   "company": "Micron",
+   "title": "New College Grad - Semiconductor Process Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---Main-Site/New-College-Grad---Semiconductor-Process-Engineer_JR116163",
+   "locations": [
+    "Boise, ID - Main Site"
+   ],
+   "posted_at": 1794514735,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:kla:UR:2641709",
+   "company": "KLA",
+   "title": "Electrical Design Engineering Intern",
+   "url": "https://kla.wd1.myworkdayjobs.com/job/Ann-Arbor-MI/Electrical-Design-Engineering-Intern_2641709",
+   "locations": [
+    "Ann Arbor, MI"
+   ],
+   "posted_at": 1794514736,
+   "source_ats": "workday",
+   "board_token": "kla:UR",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:analogdevices:External:R268177",
+   "company": "Analog Devices",
+   "title": "Mixed Signal Design Engineer Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/job/Italy-Bari/Mixed-Signal-Design-Engineer-Intern_R268177",
+   "locations": [
+    "Italy, Bari"
+   ],
+   "posted_at": 1794514735,
+   "source_ats": "workday",
+   "board_token": "analogdevices:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:analogdevices:External:R267446",
+   "company": "Analog Devices",
+   "title": "Analog Design Engineering Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/job/Canada-Ottawa/Analog-Design-Engineering-Intern_R267446",
+   "locations": [
+    "Canada, Ottawa"
+   ],
+   "posted_at": 1794514735,
+   "source_ats": "workday",
+   "board_token": "analogdevices:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:89215c85-903d-4d85-8567-3d7858365b22",
+   "company": "Analog Devices",
+   "title": "Analog Design Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Ottawa/Analog-Design-Engineering-Intern_R267446",
+   "locations": [
+    "Ottawa, ON, Canada"
+   ],
+   "posted_at": 1794441600,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1794496903,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
