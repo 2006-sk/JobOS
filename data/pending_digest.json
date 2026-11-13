@@ -735,5 +735,97 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR117605",
+   "company": "Micron",
+   "title": "New College Grad - Design Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/San-Jose-CA/New-College-Grad---Design-Engineer_JR117605",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1794610040,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:analogdevices:External:R267031",
+   "company": "Analog Devices",
+   "title": "Analog Design Engineering Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/job/Italy-Catania/Analog-Design-Engineering-Intern_R267031",
+   "locations": [
+    "Italy, Catania"
+   ],
+   "posted_at": 1794610041,
+   "source_ats": "workday",
+   "board_token": "analogdevices:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:analogdevices:External:R268180",
+   "company": "Analog Devices",
+   "title": "Analog Design Engineering Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/job/Italy-Milan-Assago/Analog-Design-Engineering-Intern_R268180",
+   "locations": [
+    "Italy, Milan, Assago"
+   ],
+   "posted_at": 1794610041,
+   "source_ats": "workday",
+   "board_token": "analogdevices:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:analogdevices:External:R267320",
+   "company": "Analog Devices",
+   "title": "Software Quality Assurance (SQA) Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/job/Spain-Valencia-Cortes-Valencianas/Software-Quality-Assurance--SQA--Intern_R267320",
+   "locations": [
+    "Spain, Valencia, Cortes Valencianas"
+   ],
+   "posted_at": 1794610042,
+   "source_ats": "workday",
+   "board_token": "analogdevices:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
