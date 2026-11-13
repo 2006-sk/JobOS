@@ -712,5 +712,28 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:analogdevices:External:R268172",
+   "company": "Analog Devices",
+   "title": "Digital Design Engineering Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/job/Italy-Milan-Assago/Digital-Design-Engineering-Intern_R268172",
+   "locations": [
+    "Italy, Milan, Assago"
+   ],
+   "posted_at": 1794589401,
+   "source_ats": "workday",
+   "board_token": "analogdevices:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
