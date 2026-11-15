@@ -850,5 +850,51 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "greenhouse:samsara:8214590",
+   "company": "Samsara",
+   "title": "Product Design (Mechanical Engineering) Co-Op",
+   "url": "https://www.samsara.com/company/careers/roles/8214590?gh_jid=8214590",
+   "locations": [
+    "San Francisco - SF9"
+   ],
+   "posted_at": 1794768536,
+   "source_ats": "greenhouse",
+   "board_token": "samsara",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1794768536,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:ec8d9fc9-a1ee-438a-af35-562b2bd2dd11",
+   "company": "Samsara",
+   "title": "Firmware Engineer Co-op",
+   "url": "https://www.samsara.com/company/careers/roles/8226602?gh_jid=8226602",
+   "locations": [
+    "SF"
+   ],
+   "posted_at": 1790289393,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1790290315,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
