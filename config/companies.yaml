@@ -190,6 +190,61 @@ companies:
     token: "WesternDigital"
 
 # ---------------------------------------------------------------------------
+
+  - company: "Toyota Research Institute"
+    tier: "unranked"
+    ats: lever
+    token: "tri"
+
+  - company: "Shield AI"
+    tier: "unranked"
+    ats: ashby
+    token: "f7d8749a-72d6-407c-bf98-292ea630c73a"
+
+  - company: "Ciena"
+    tier: "unranked"
+    ats: workday
+    token: "ciena"
+    site: "Careers"
+    host: "ciena.wd5.myworkdayjobs.com"
+
+  - company: "Skydio"
+    tier: "unranked"
+    ats: ashby
+    token: "skydio"
+
+  - company: "Hewlett Packard Enterprise"
+    tier: "unranked"
+    ats: workday
+    token: "hpe"
+    site: "jobsathpe"
+    host: "hpe.wd5.myworkdayjobs.com"
+
+  - company: "Astera Labs"
+    tier: "unranked"
+    ats: greenhouse
+    token: "asteraearlycareer2027"
+
+  - company: "Zoox"
+    tier: "unranked"
+    ats: lever
+    token: "zoox"
+
+  - company: "Atoms"
+    tier: "unranked"
+    ats: greenhouse
+    token: "cssmerge"
+
+  - company: "Samsung"
+    tier: "unranked"
+    ats: greenhouse
+    token: "samsungsemiconductor"
+
+  - company: "Astranis"
+    tier: "unranked"
+    ats: greenhouse
+    token: "astranis"
+
 # UNRESOLVED -- no public job-board API we can reach.
 #
 # These run proprietary career sites (Apple, Google, Amazon, Microsoft,
