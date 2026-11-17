@@ -896,5 +896,28 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2026:4dda1130-99b0-4a05-b863-78c660a93adf",
+   "company": "KLA",
+   "title": "Firmware Intern",
+   "url": "https://go.vansh.nyc/1AJ",
+   "locations": [
+    "Milpitas, CA"
+   ],
+   "posted_at": 1794872420,
+   "source_ats": "aggregator",
+   "board_token": "summer2026",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1794876020,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
