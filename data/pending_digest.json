@@ -942,5 +942,28 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:kla:UR:2642154",
+   "company": "KLA",
+   "title": "Firmware Intern",
+   "url": "https://kla.wd1.myworkdayjobs.com/job/Milpitas-CA/Firmware-Intern_2642154",
+   "locations": [
+    "Milpitas, CA"
+   ],
+   "posted_at": 1794878639,
+   "source_ats": "workday",
+   "board_token": "kla:UR",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
