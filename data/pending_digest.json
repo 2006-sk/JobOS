@@ -1,1 +1,25 @@
-[]
+[
+ {
+  "listing": {
+   "id": "workday:globalfoundries:External:JR-2604015",
+   "company": "GlobalFoundries",
+   "title": "Intern ASIC Digital Design - System IP Verification",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/NLD---North-Brabant---Eindhoven/Intern-ASIC-Digital-Design---System-IP-Verification_JR-2604015",
+   "locations": [
+    "NLD - North Brabant - Eindhoven"
+   ],
+   "posted_at": 1794940364,
+   "source_ats": "workday",
+   "board_token": "globalfoundries:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ }
+]
