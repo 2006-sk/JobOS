@@ -1,1 +1,25 @@
-[]
+[
+ {
+  "listing": {
+   "id": "workday:micron:External:JR117289",
+   "company": "Micron",
+   "title": "Intern - Firmware and Product Test Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/MSB-Singapore/Intern---Firmware-and-Product-Test-Engineer_JR117289",
+   "locations": [
+    "MSB, Singapore"
+   ],
+   "posted_at": 1795197418,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ }
+]
