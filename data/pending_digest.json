@@ -113,5 +113,183 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:analogdevices:External:R267043",
+   "company": "Analog Devices",
+   "title": "Digital Design Engineering\u200b Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/job/Spain-Valencia-Cortes-Valencianas/Digital-Design-Engineering--Intern_R267043",
+   "locations": [
+    "Spain, Valencia, Cortes Valencianas"
+   ],
+   "posted_at": 1795107581,
+   "source_ats": "workday",
+   "board_token": "analogdevices:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:analogdevices:External:R269549",
+   "company": "Analog Devices",
+   "title": "Analog Design Engineer Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/job/US-CA-San-Jose-Rio-Robles/Analog-Design-Engineer-Intern_R269549",
+   "locations": [
+    "US, CA, San Jose, Rio Robles"
+   ],
+   "posted_at": 1795021182,
+   "source_ats": "workday",
+   "board_token": "analogdevices:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:analogdevices:External:R268548",
+   "company": "Analog Devices",
+   "title": "Digital Design Engineering Intern - Summer 2027",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/job/US-TX-Austin-Plaza-on-the-Lake/Digital-Design-Engineering-Intern---Summer-2027_R268548",
+   "locations": [
+    "US, TX, Austin, Plaza on the Lake"
+   ],
+   "posted_at": 1795021182,
+   "source_ats": "workday",
+   "board_token": "analogdevices:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2029959",
+   "company": "NVIDIA",
+   "title": "GPU Firmware Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/GPU-Firmware-Intern---2027_JR2029959",
+   "locations": [
+    "Taiwan, Taipei"
+   ],
+   "posted_at": 1795193982,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2030200",
+   "company": "NVIDIA",
+   "title": "Mixed Signal Analog Circuit Designer (RDSS Intern)",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Hsinchu/Mixed-Signal-Analog-Circuit-Designer--RDSS-Intern-_JR2030200",
+   "locations": [],
+   "posted_at": 1795193982,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2030201",
+   "company": "NVIDIA",
+   "title": "Mixed Signal Analog Circuit Designer (RDSS Intern)",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/Mixed-Signal-Analog-Circuit-Designer--RDSS-Intern-_JR2030201",
+   "locations": [],
+   "posted_at": 1795193982,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2030202",
+   "company": "NVIDIA",
+   "title": "Mixed Signal Design Engineer (RDSS intern)",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Hsinchu/Mixed-Signal-Design-Engineer--RDSS-intern-_JR2030202",
+   "locations": [],
+   "posted_at": 1795193982,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:intel:External:JR0289449",
+   "company": "Intel",
+   "title": "Signal Integrity Engineering Intern",
+   "url": "https://intel.wd1.myworkdayjobs.com/job/US-Arizona-Phoenix/Signal-Integrity-Engineering-Intern_JR0289449",
+   "locations": [
+    "US, Arizona, Phoenix"
+   ],
+   "posted_at": 1795193981,
+   "source_ats": "workday",
+   "board_token": "intel:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
