@@ -190,6 +190,59 @@ companies:
     token: "WesternDigital"
 
 # ---------------------------------------------------------------------------
+
+  - company: "Toyota Research Institute"
+    tier: "unranked"
+    ats: lever
+    token: "tri"
+
+  - company: "Shield AI"
+    tier: "unranked"
+    ats: ashby
+    token: "shield"
+
+  - company: "Skydio"
+    tier: "unranked"
+    ats: ashby
+    token: "skydio"
+
+  - company: "Astera Labs"
+    tier: "unranked"
+    ats: greenhouse
+    token: "asteraearlycareer2027"
+
+  - company: "Samsung"
+    tier: "unranked"
+    ats: greenhouse
+    token: "samsungsemiconductor"
+
+  - company: "Leonardo"
+    tier: "unranked"
+    ats: workday
+    token: "leonardocompany"
+    site: "LeonardoCareerSite"
+    host: "leonardocompany.wd3.myworkdayjobs.com"
+
+  - company: "Atoms"
+    tier: "unranked"
+    ats: greenhouse
+    token: "cssmerge"
+
+  - company: "Zoox"
+    tier: "unranked"
+    ats: lever
+    token: "zoox"
+
+  - company: "Astranis"
+    tier: "unranked"
+    ats: greenhouse
+    token: "astranis"
+
+  - company: "Bedrock Robotics"
+    tier: "unranked"
+    ats: ashby
+    token: "bedrock-robotics"
+
 # UNRESOLVED -- no public job-board API we can reach.
 #
 # These run proprietary career sites (Apple, Google, Amazon, Microsoft,
