@@ -315,5 +315,141 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR117467",
+   "company": "Micron",
+   "title": "New College Grad - Shift Process Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Manassas-VA----Fab-6/New-College-Grad---Shift-Process-Engineer_JR117467",
+   "locations": [
+    "Manassas, VA -  Fab 6"
+   ],
+   "posted_at": 1795436114,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR114405",
+   "company": "Micron",
+   "title": "New College Grad - Shift Process Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Manassas-VA----Fab-6/New-College-Grad---Shift-Process-Engineer_JR114405",
+   "locations": [
+    "Manassas, VA -  Fab 6"
+   ],
+   "posted_at": 1795436114,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2030537",
+   "company": "NVIDIA",
+   "title": "Mixed Signal Circuit Designer (RDSS Intern)",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/Mixed-Signal-Circuit-Designer--RDSS-Intern-_JR2030537",
+   "locations": [],
+   "posted_at": 1795522514,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2030298",
+   "company": "NVIDIA",
+   "title": "Mixed Signal Analog Circuit Designer (RDSS Intern)",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Hsinchu/Mixed-Signal-Analog-Circuit-Designer--RDSS-Intern-_JR2030298",
+   "locations": [
+    "Taiwan, Hsinchu"
+   ],
+   "posted_at": 1795522514,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:nvidia:NVIDIAExternalCareerSite:JR2028595",
+   "company": "NVIDIA",
+   "title": "Product Test Engineer (RDSS Intern)",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Hsinchu/Product-Test-Engineer--RDSS-Intern-_JR2028595",
+   "locations": [
+    "Taiwan, Hsinchu"
+   ],
+   "posted_at": 1795436115,
+   "source_ats": "workday",
+   "board_token": "nvidia:NVIDIAExternalCareerSite",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:intel:External:JR0289549",
+   "company": "Intel",
+   "title": "Logic Design Engineering Graduate Intern | SPE ISCP SFD Domain42",
+   "url": "https://intel.wd1.myworkdayjobs.com/job/Costa-Rica-San-Jose/Logic-Design-Engineering-Graduate-Intern---SPE-ISCP-SFD-Domain42_JR0289549",
+   "locations": [
+    "Costa Rica, San Jose"
+   ],
+   "posted_at": 1795436115,
+   "source_ats": "workday",
+   "board_token": "intel:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
