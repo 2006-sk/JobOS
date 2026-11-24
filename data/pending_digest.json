@@ -451,5 +451,31 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2026:70a980ed-1565-4a2a-9a91-408f7d9842d6",
+   "company": "Intel",
+   "title": "Design Verification Intern",
+   "url": "https://go.vansh.nyc/1Ie",
+   "locations": [
+    "Fort Collins, CO",
+    "Hillsboro, OR",
+    "Santa Clara, CA",
+    "Austin, TX"
+   ],
+   "posted_at": 1795536191,
+   "source_ats": "aggregator",
+   "board_token": "summer2026",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1795538351,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
