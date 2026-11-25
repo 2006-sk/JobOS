@@ -477,5 +477,28 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:micron:External:JR118222",
+   "company": "Micron",
+   "title": "New College Grad - PCVD Process Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---Main-Site/New-College-Grad---PCVD-Process-Engineer_JR118222-1",
+   "locations": [
+    "Boise, ID - Main Site"
+   ],
+   "posted_at": 1795535803,
+   "source_ats": "workday",
+   "board_token": "micron:External",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "1",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
