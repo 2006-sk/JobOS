@@ -500,5 +500,51 @@
   "level": "new-grad",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:cadence:External_Careers:R57302",
+   "company": "Cadence",
+   "title": "FPGA Design Engineer Intern",
+   "url": "https://cadence.wd1.myworkdayjobs.com/job/CESSON-SEVIGNE-01/FPGA-Design-Engineer-Intern_R57302",
+   "locations": [
+    "CESSON SEVIGNE 01"
+   ],
+   "posted_at": 1795658714,
+   "source_ats": "workday",
+   "board_token": "cadence:External_Careers",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "workday:cadence:External_Careers:R57218",
+   "company": "Cadence",
+   "title": "Internship \u2013 Design Engineer",
+   "url": "https://cadence.wd1.myworkdayjobs.com/job/PARIS-FRANCE/Internship---Design-Engineer_R57218",
+   "locations": [
+    "PARIS, FRANCE"
+   ],
+   "posted_at": 1795658714,
+   "source_ats": "workday",
+   "board_token": "cadence:External_Careers",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": null,
+   "sponsorship": null
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
