@@ -684,5 +684,80 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2026:d19bb466-58e4-42a2-bbed-6d2c1a12ce53",
+   "company": "Intel",
+   "title": "Design Verification Engineer Intern",
+   "url": "https://go.vansh.nyc/1M3",
+   "locations": [
+    "Austin, TX",
+    "Santa Clara, CA",
+    "Hillsboro, OR",
+    "Fort Collins, CO"
+   ],
+   "posted_at": 1795478400,
+   "source_ats": "aggregator",
+   "board_token": "summer2026",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1795842353,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:b9c811f8-4781-4e7d-8799-56abce089c75",
+   "company": "Intel",
+   "title": "Design Verification Engineer Intern",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Colorado-Fort-Collins/Design-Verification-Intern-2027_JR0287646",
+   "locations": [
+    "Austin, TX",
+    "Santa Clara, CA",
+    "Hillsboro, OR",
+    "Fort Collins, CO"
+   ],
+   "posted_at": 1795478400,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1795839785,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:8f881809-e645-4be0-9a85-6faeb5945981",
+   "company": "Intel",
+   "title": "Signal Integrity Engineer Intern",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Signal-Integrity-Engineering-Intern_JR0289449",
+   "locations": [
+    "Phoenix, AZ"
+   ],
+   "posted_at": 1795132800,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1795839786,
+   "sponsorship": "Other"
+  },
+  "tier": "1",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
