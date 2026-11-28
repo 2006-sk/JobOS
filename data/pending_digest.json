@@ -546,5 +546,143 @@
   "level": "internship",
   "field": "stretch",
   "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:new-grad:ea60737f-7820-48d9-ad85-73bfa192de43",
+   "company": "GlobalFoundries",
+   "title": "Design-for-Test Engineer New Grad",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Sr-Engineer-Design_JR-2604155",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "posted_at": 1795830441,
+   "source_ats": "aggregator",
+   "board_token": "new-grad",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1795830508,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "new-grad",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:498e5eca-7553-4583-bf04-626cbbd6674d",
+   "company": "KLA",
+   "title": "Firmware Intern",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Firmware-Intern_2642154-1",
+   "locations": [
+    "Milpitas, CA"
+   ],
+   "posted_at": 1794787200,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1795830860,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2026:7ac4b421-d3f4-42bf-b7ba-986313d476c8",
+   "company": "Analog Devices",
+   "title": "Digital Design Engineer Intern",
+   "url": "https://go.vansh.nyc/1LT",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1794960000,
+   "source_ats": "aggregator",
+   "board_token": "summer2026",
+   "employment_type": null,
+   "raw_category": null,
+   "first_seen_at": null,
+   "updated_at": 1795831743,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:6a9ed7c1-3a19-4e96-adf6-bf49872bdb11",
+   "company": "Analog Devices",
+   "title": "Digital Design Engineer Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-TX-Austin-Plaza-on-the-Lake/Digital-Design-Engineering-Intern---Summer-2027_R268548",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1794960000,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1795828672,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:2de6cbd7-63f1-469a-9fb5-b1016585a1cd",
+   "company": "Analog Devices",
+   "title": "Analog Design Engineer Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Analog-Design-Engineer-Intern_R269549",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1794960000,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1795828520,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
+ },
+ {
+  "listing": {
+   "id": "aggregator:summer2027:46c59920-f06b-46d9-8365-a87b274fc68b",
+   "company": "Analog Devices",
+   "title": "Analog Design Engineer Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-TX-Dallas-Tollway/Analog-Design-Engineering-Intern---Summer-2027_R268074",
+   "locations": [
+    "Dallas, TX"
+   ],
+   "posted_at": 1794873600,
+   "source_ats": "aggregator",
+   "board_token": "summer2027",
+   "employment_type": null,
+   "raw_category": "Hardware",
+   "first_seen_at": null,
+   "updated_at": 1795828674,
+   "sponsorship": "Other"
+  },
+  "tier": "2",
+  "level": "internship",
+  "field": "stretch",
+  "excluded_reason": null
  }
 ]
